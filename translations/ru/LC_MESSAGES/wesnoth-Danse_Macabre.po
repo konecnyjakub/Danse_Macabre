@@ -1,0 +1,3858 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-06-26 21:47+0300\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: \n"
+"Last-Translator: iven, olga_flox, marat <maratelektron@rambler.ru>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.7.4\n"
+
+#: _main.cfg:21
+msgid "Danse Macabre"
+msgstr "Пляска Макабра"
+
+#: _main.cfg:22
+msgid "wuriDM"
+msgstr "wuriDM"
+
+#: _main.cfg:26
+msgid "Creeper"
+msgstr "Ползущий труп"
+
+#: _main.cfg:26
+msgid "(Normal)"
+msgstr "(Нормальный)"
+
+#: _main.cfg:27
+msgid "Walker"
+msgstr "Ходячий труп"
+
+#: _main.cfg:27
+msgid "(Challenging)"
+msgstr "(Напряжённый)"
+
+#: _main.cfg:28
+msgid "Runner"
+msgstr "Скачущий труп"
+
+#: _main.cfg:28
+msgid "(Difficult)"
+msgstr "(Трудный)"
+
+#: _main.cfg:29
+msgid ""
+"Macabre is a rare zombie who has intelligence and will. What's he like? What's his purpose?\n"
+"\n"
+msgstr ""
+"Макабр относится к тому редко встречающемуся виду зомби, которые сохранили разум и волю. С чем можно его сравнить? К чему он стремится? \n"
+"\n"
+
+#: _main.cfg:31
+msgid ""
+"Note: I recommend the 'Normal' difficulty level if you're trying this campaign for the first time.\n"
+"\n"
+msgstr ""
+"Примечание: Если вы только начинаете знакомство с этой кампанией, то выберите средний уровень сложности. \n"
+"\n"
+
+#: _main.cfg:33
+msgid "(Expert level, 12 playable scenarios. version "
+msgstr "(Для опытных игроков, 12 играемых сценариев. Версия "
+
+#: _main.cfg:33
+msgid ")"
+msgstr ")"
+
+#: _main.cfg:38
+msgid "Campaign Design"
+msgstr "Разработка кампании"
+
+#: _main.cfg:44
+msgid "Campaign Maintenance"
+msgstr "Работы"
+
+#: _main.cfg:53
+msgid "Artworks and Graphics Design"
+msgstr "Художественные работы"
+
+#: _main.cfg:65
+msgid "Map Design"
+msgstr "Дизайн карт"
+
+#: _main.cfg:77
+msgid "English Revision"
+msgstr "Проверка английского"
+
+#: _main.cfg:86
+msgid "Brainstorming and Playtesting"
+msgstr "Тестирование"
+
+#: _main.cfg:98
+msgid "Porting for Wesnoth 1.12"
+msgstr "Перенос на Веснот 1.12"
+
+#: _main.cfg:104
+msgid "Reference"
+msgstr "Ссылки"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:6
+msgid "Beginning of the Tragedy"
+msgstr "Начало Трагедии"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:19
+msgid "The events portrayed in this story are all true. The names are real names of real people and real organizations."
+msgstr "События, о которых будет рассказано в этой истории, произошли на самом деле. Все действующие лица названы своими именами, все сообщества носят свои подлинные названия."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:22
+msgid "...Did you find him?..."
+msgstr "...Вы отыскали его?..."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:26
+msgid "...Nay. But there's a human village further on. They will kill him..."
+msgstr "...Нет. Но там, дальше, есть деревня, в которой живут люди, и они его убьют..."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:30
+#: scenarios/01_beginning_of_the_tragedy.cfg:36
+#: scenarios/09b_falling_sky.cfg:87
+msgid "???"
+msgstr "???"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:30
+#: scenarios/08_the_dead_bondage0c.cfg:157
+msgid "(...human village? It is certainly dangerous, but I can't go back. I must act with caution...)"
+msgstr "(...деревня, в которой живут люди? Конечно, это опасно, но вернуться я уже не могу. Придётся соблюдать осторожность...)"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:33
+msgid "...a few hours later"
+msgstr "... спустя некоторое время"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:36
+#: scenarios/08_the_dead_bondage0c.cfg:261
+msgid "You...all...are...ready...Follow...me...I'll...treat...you...to...dinner."
+msgstr "Вы...должны...быть готовы...следовать...за мной...Вы...послужите...мне...обедом."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:39
+msgid "Villagers are disappearing. This mysterious phenomenon is making progress, but despite the mysterious nature of the disappearances, they are never talked about due to the isolation that encompasses each village in their remote mountain settings. Anyone who passes through villages hit by this phenomenon merely assumes that the village is deserted."
+msgstr "В отдалённых горных районах начали происходить загадочные события. Самым таинственным образом в деревнях исчезали жители, и никто не знал, как и куда они пропадают. Несмотря на то что число исчезнувших людей увеличивалось с каждым днём, никто не озаботился тем, чтобы оградиться от страшной напасти. И случайный путник, которому довелось забрести в опустевшую деревню, мог решить, что жители просто её покинули."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:44
+msgid "This story starts with last of these remote mountain villages. Though this is the last case of the mysterious phenomenon, it is also the beginning of an unprecedented disaster set to envelope the whole world."
+msgstr "Эта история начинается в отдалённой горной деревне, в которой пока ещё уцелели все жители. Произошедшие в ней таинственные события, стали последними в цепи себе подобных, но положили начало невиданному бедствию, которое поглотило весь мир."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:52
+#: scenarios/01_beginning_of_the_tragedy.cfg:54
+#: scenarios/01_beginning_of_the_tragedy.cfg:620
+#: scenarios/02_animal_liberation.cfg:37 scenarios/02_animal_liberation.cfg:40
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:40
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:67
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:70
+#: scenarios/04_pride_and_prejudice.cfg:39
+#: scenarios/04_pride_and_prejudice.cfg:42
+#: scenarios/05_lie_down_in_darkness.cfg:25
+#: scenarios/05_lie_down_in_darkness.cfg:28
+#: scenarios/06_return_of_the_living_dead.cfg:38
+#: scenarios/06_return_of_the_living_dead.cfg:40
+#: scenarios/06_return_of_the_living_dead.cfg:418
+#: scenarios/07_vengeance_is_mine.cfg:48 scenarios/07_vengeance_is_mine.cfg:50
+#: scenarios/08_the_dead_bondage.cfg:16 scenarios/08_the_dead_bondage.cfg:19
+#: scenarios/08_the_dead_bondage0a.cfg:39
+#: scenarios/08_the_dead_bondage0a.cfg:42
+#: scenarios/08_the_dead_bondage0b.cfg:17
+#: scenarios/08_the_dead_bondage0b.cfg:20
+#: scenarios/08_the_dead_bondage0c.cfg:15
+#: scenarios/08_the_dead_bondage0c.cfg:18
+#: scenarios/08_the_dead_bondage0c.cfg:26
+#: scenarios/08_the_dead_bondage0c.cfg:28
+#: scenarios/08_the_dead_bondage0c.cfg:261 scenarios/09a_rotten_forest.cfg:27
+#: scenarios/09a_rotten_forest.cfg:30 scenarios/09b_falling_sky.cfg:27
+#: scenarios/09b_falling_sky.cfg:30 scenarios/09c_rusty_axe.cfg:27
+#: scenarios/09c_rusty_axe.cfg:30 scenarios/12_the_magic_mountain.cfg:30
+#: scenarios/12_the_magic_mountain.cfg:33 scenarios/13_day_of_the_dead.cfg:24
+#: scenarios/13_day_of_the_dead.cfg:27 scenarios/14_bridge.cfg:18
+#: scenarios/14_bridge.cfg:21 scenarios/14_night_of_the_living_dead.cfg:20
+#: scenarios/14_night_of_the_living_dead.cfg:23
+#: scenarios/15_dawn_of_the_dead.cfg:23 scenarios/15_dawn_of_the_dead.cfg:46
+#: scenarios/15_dawn_of_the_dead.cfg:88 scenarios/15_dawn_of_the_dead.cfg:90
+#: scenarios/15_dawn_of_the_dead.cfg:103 scenarios/15_dawn_of_the_dead.cfg:104
+msgid "Macabre"
+msgstr "Макабр"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:65
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:85
+#: scenarios/04_pride_and_prejudice.cfg:57 scenarios/13_day_of_the_dead.cfg:42
+msgid "Human"
+msgstr "человек"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:142
+msgid "Hi."
+msgstr "Здрав будь, приятель!"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:146
+msgid "Hi, you're going home?"
+msgstr "И тебе не хворать. Чё, домой идёшь?"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:150
+msgid "Hey, have you ever heard of zombies?"
+msgstr "Ага. Скажи-ка, дружище, а не слыхал ли ты о зомби?"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:154
+msgid "What? You mean those evil, walking corpses?"
+msgstr "О зомби? Это чё, о жутких порождениях тьмы, об энтих ходячих мертвецах ты чё ли сказываешь?"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:158
+msgid "Yeah, in fact they eat ..."
+msgstr "Ну да. Поговаривают, что едят они..."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:162
+msgid "Eat what?"
+msgstr "И чё едят-то?"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:166
+msgid "...humans."
+msgstr "...людей."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:170
+msgid "Whatever. It's all just superstition."
+msgstr "Враки! Чушь собачья. Мало ли чё бабки-то наболтают."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:174
+msgid "No! They really exist. I heard it from Father Merrin."
+msgstr "Не, ты погодь! Они и впрямь водятся. Мне об этом рассказал отец Мэррина."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:178
+msgid "How can a corpse move!?"
+msgstr "Бредни это всё, говорю я тебе. Ну, сам покумекай, ежели он труп, то как он двигаться-то будет?"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:182
+msgid "There are evil magicians who animate corpses."
+msgstr "Ну, есть там колдуны всякие, они трупы и оживляют."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:186
+msgid "Why would a magician do that?"
+msgstr "И вот какого лешего маги стали бы о такое дерьмо руки марать? "
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:190
+msgid "They use corpses to invade countries."
+msgstr "Эээ... Ну... Можно наделать таких трупаков и пойти другие страны завоёвывать."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:194
+msgid "Well even if it is true, no magician would want to invade this useless little village."
+msgstr "Ну и пусть его. Но на кой ляд колдунам наша деревня? Зачем она им сдалась?"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:198
+msgid "...True."
+msgstr "Да пожалуй, ты прав..."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:202
+msgid "Well, see you tomorrow."
+msgstr "Ну, лады, завтра увидимся."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:206
+msgid "See you."
+msgstr "До завтрего."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:219
+msgid "That's all for today."
+msgstr "Вот на сегодня и всё."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:245
+msgid "!!!!!!!!"
+msgstr "!!!!!!!!"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:249
+msgid "Zo, zo, zom..."
+msgstr "Зо, зо, зом..."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:282
+msgid "...BRAINS!!...FLESH!!"
+msgstr "... МОЗГИ!!! ...ПЛОТЬ!!!"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:300
+msgid "Mama! Papa is back!"
+msgstr "Мама! Папа вернулся!"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:305
+msgid "My boy, open the door for papa."
+msgstr "Открой папе дверь, сынок."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:310
+msgid "Good evening, papa!"
+msgstr "Добрый вечер, папа!"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:331
+msgid "Nooooooooooooooooo!!!!"
+msgstr "Нееееееееееееет!"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:364
+msgid "MORE BRAINS!!! MORE FLESH!!!"
+msgstr "БОЛЬШЕ МОЗГОВ!!! БОЛЬШЕ ПЛОТИ!!!"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:395
+msgid "What the hell is that!? ...Are those the zombies that father was talking about?"
+msgstr "Леший раздери, что происходит?! Или это в самом деле зомби, о которых отец сказывал?"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:406
+msgid "Father! Corpses are attacking our village!"
+msgstr "Отец! На нашу деревню напали мертвецы!"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:417
+#: scenarios/01_beginning_of_the_tragedy.cfg:457
+#: scenarios/01_beginning_of_the_tragedy.cfg:504
+#: scenarios/01_beginning_of_the_tragedy.cfg:768
+#: scenarios/15_dawn_of_the_dead.cfg:36
+msgid "Merrin"
+msgstr "Мэррин"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:428
+msgid "Really?"
+msgstr "Что, в самом деле?"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:432
+msgid "Yes! I saw it with my own eyes!"
+msgstr "Да! Я своими глазами это видел!"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:436
+msgid "Hmmm...Call everyone here!"
+msgstr "Хмм... Сбирай всех сюда!"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:450
+#: scenarios/01_beginning_of_the_tragedy.cfg:497
+#: scenarios/07_vengeance_is_mine.cfg:242
+msgid "...ten minutes later"
+msgstr "... десять минут спустя"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:465
+msgid "Caesar"
+msgstr "Цезарь"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:475
+msgid "Zombies are attacking us, and some people have already become prey to them. They're coming from the South. We must escape to the North!!"
+msgstr "Зомби нападают на нас, и некоторые люди уже стали их добычей. Мертвецы подбираются к нам с юга, потому бежать придётся на север."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:479
+msgid "(One matter for concern is whether or not a necromancer is involved in this trouble...But why would a necromancer have any interest in this village? It's very likely that those corpses are separated from their necromancer.)"
+msgstr "(Беспокоит меня один вопрос - вовлечён ли во всё творящееся некромант? Хотя с чего бы у него возник интерес к нашей деревне? Нее, скорее всего, мертвецы действуют сами по себе.)"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:483
+msgid "(Then they have neither intelligence nor will. If we act as a group, it may be easy to escape from them...even to expel them in the morning.)"
+msgstr "(А это значит, что у них нет ни своего разума, ни своей воли. Ежели мы соберёмся все вместе и действовать будем разом, то легко от них укроемся... или поутру даже изгоним их из деревни.)"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:526
+msgid "Safe!!"
+msgstr "Здесь безопасно!"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:530
+msgid "Wait! Don't wander off alone!"
+msgstr "Погодь! Не нужно ходить в одиночку!"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:534
+msgid "Shut up! I wanna go!"
+msgstr "Заткнись! Куды хочу, туды и пойду!"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:549
+#: scenarios/01_beginning_of_the_tragedy.cfg:652
+#: scenarios/06_return_of_the_living_dead.cfg:681
+#: scenarios/08_the_dead_bondage0a.cfg:463
+#: scenarios/12_the_magic_mountain.cfg:366
+msgid "!!!"
+msgstr "!!!"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:584
+msgid "...BRAINS!"
+msgstr "... МОЗГИ!"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:593
+msgid "Wh...why is a corpse here..."
+msgstr "Ох... откуда здесь труп..."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:597
+msgid "Father! They are coming from behind as well! What should we do!?"
+msgstr "Отец! Мертвецы прут и с иного боку! Чё нам делать?"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:602
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:527
+#: scenarios/08_the_dead_bondage.cfg:251
+msgid "..."
+msgstr "..."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:606
+msgid "Necromancer! Come out! I know that you govern these fuckin corpses!! What do you want!? I promise to do anything in my power to help you except bring harm to my fellow villagers."
+msgstr "Некромант! Выходи! Я знаю, это ты управляешь этими долбанными трупаками! Скажи, что ты хочешь?! Я выполню любую твою просьбу, если она не причинит вред моим братьям и сёстрам. "
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:645
+msgid "Nothing...governs...us"
+msgstr "Ничто... не управляет... нами..."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:656
+msgid "...What are you? A zombie speaks like the living?"
+msgstr "Ты кто? Эти зомби говорят, как живые!"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:673
+msgid "It's...time...to...die...Father"
+msgstr "Пришло... время... чтобы... умереть... Отец"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:677
+msgid "And...you...shall...get...a...new...life"
+msgstr "И... вы... получите... новую... жизнь"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:684
+msgid "Damn! Fight or Die!!"
+msgstr "Проклятье! Бьёмся али помрём!"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:701
+msgid "The Power of God compels you!!"
+msgstr "Божья длань да покарает тебя!!!"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:707
+#: scenarios/02_animal_liberation.cfg:84
+#: scenarios/04_pride_and_prejudice.cfg:234
+#: scenarios/06_return_of_the_living_dead.cfg:744
+#: scenarios/09a_rotten_forest.cfg:128 scenarios/09b_falling_sky.cfg:140
+#: scenarios/09c_rusty_axe.cfg:92 scenarios/12_the_magic_mountain.cfg:104
+msgid "Defeat Enemy Leader"
+msgstr "Победите вражеского лидера"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:711
+#: scenarios/02_animal_liberation.cfg:88
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:761
+#: scenarios/04_pride_and_prejudice.cfg:238
+#: scenarios/06_return_of_the_living_dead.cfg:748
+#: scenarios/07_vengeance_is_mine.cfg:348 scenarios/09a_rotten_forest.cfg:132
+#: scenarios/09b_falling_sky.cfg:144 scenarios/09c_rusty_axe.cfg:96
+#: scenarios/12_the_magic_mountain.cfg:108
+#: scenarios/12_the_magic_mountain.cfg:590
+#: scenarios/13_day_of_the_dead.cfg:184
+#: scenarios/14_night_of_the_living_dead.cfg:239
+#: scenarios/14_night_of_the_living_dead.cfg:651
+msgid "Death of Macabre"
+msgstr "Смерть Макабра"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:714
+#: scenarios/02_animal_liberation.cfg:95
+#: scenarios/04_pride_and_prejudice.cfg:249
+#: scenarios/12_the_magic_mountain.cfg:606
+msgid "Turns run out"
+msgstr "Закончились ходы"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:723
+msgid "Notice: Human type Walking Corpses that have no XP will be removed from the recall list in the next level."
+msgstr "Отметьте: Зомби человеческого типа, которые не получат ОП, будут недоступны в следующих сценариях."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:742
+msgid "O God! Preserve me from defilement!"
+msgstr "О Господи! Убереги меня от скверны!"
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:746
+msgid "Don't...put...it...like...that. This...is...a...special...present...for...you, Father."
+msgstr "Ты...не...прав. Это...особый...подарок...для...тебя...Отец."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:782
+msgid "...I got a new life. Thank you very much indeed."
+msgstr "... Я получил новую жизнь. Благодарю безмерно."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:786
+msgid "Ho. You...didn't...lose...your...ability to...reason? Congratulations. Serve me...as my right hand."
+msgstr "Хо. Ты...не потерял...способность...мыслить? Поздравляю. Будешь...служить мне...в качестве...правой...руки."
+
+#: scenarios/01_beginning_of_the_tragedy.cfg:790
+#: scenarios/04_pride_and_prejudice.cfg:120
+#: scenarios/12_the_magic_mountain.cfg:527
+#: scenarios/14_night_of_the_living_dead.cfg:918
+msgid "As you wish."
+msgstr "Как прикажешь."
+
+#: scenarios/02_animal_liberation.cfg:9
+msgid "Animal Liberation"
+msgstr "Освобождение животных"
+
+#: scenarios/02_animal_liberation.cfg:19
+msgid "The disappearances were the work of Macabre, a zombie who has retained his intelligence and will. How did he become one of the living dead? Why didn't he lose his ability to reason? Why does he attack villages and make hordes of undead?"
+msgstr "Исчезновение людей было работой Макабра, зомби, сохранившего разум и волю. Как стал он живым трупом? Почему не утратил способность рассуждать? Зачем собирает орды мертвецов и нападает на деревни?"
+
+#: scenarios/02_animal_liberation.cfg:22
+msgid "Anyhow, he is satisfied with the fruits of this last battle. Dead Merrin still has the ability to reason like Macabre. It is necessary to acquire undead such as Merrin and himself. But in the heart of the mountain there are only nameless people. It is rare that to find people like Merrin."
+msgstr "Пока Макабр был доволен результатом последнего сражения. Особо радовало, что у неживого Мэррина сохранилась способность рассуждать. Необходимо удержать при себе этого мертвеца и раздобыть ещё ему подобных. Но в горах одарённые люди встречаются редко; найти такого, как Мэррин - большая удача."
+
+#: scenarios/02_animal_liberation.cfg:25
+msgid "Thus Macabre and his party climbed down the mountain and went out into the plains. Zombies began to murmur, 'Flesh...smell of flesh...' There are animals on the plains. For zombies, animals are mere food, but now is not the time to attack animals. 'Meh. They are hungry. I can't help it,' Macabre told himself."
+msgstr "Макабр и его жуткий отряд спустились с горы, и вышли на равнину. Зомби огляделись, и послышалось бормотание: <i>'Плоть... пахнет плотью...'</i> На равнинах были животные. Для зомби животные - просто пища, но сейчас не то время, чтобы думать о еде. <i>'. Они голодны. Я ничего не могу с этим поделать,'</i>- сказал сам себе Макабр."
+
+#: scenarios/02_animal_liberation.cfg:29
+msgid "But upon seeing the herd of animals, his thoughts changed completely. The animals were already on alert and unity of purpose. The animals quickly responded to their presence and formed ranks. Is this the power of nature? Macabre braced the ranks of his undead in expectation."
+msgstr "Но после наблюдения за животными, которых сплотила опасность и тревога, ход его мыслей полностью изменился. При виде зомби стадо выстроилось плотными рядами. Стоят ли за этим силы природы или нечто иное? В ожидании развития событий Макабр окружал ряды насторожённых животных своими мертвыми подопечными."
+
+#: scenarios/02_animal_liberation.cfg:54
+msgid "Animal"
+msgstr "Животное"
+
+#: scenarios/02_animal_liberation.cfg:57
+#: scenarios/02_animal_liberation.cfg:403 scenarios/15_dawn_of_the_dead.cfg:31
+msgid "Boreas"
+msgstr "Борей"
+
+#: scenarios/02_animal_liberation.cfg:92
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:765
+#: scenarios/04_pride_and_prejudice.cfg:242
+#: scenarios/06_return_of_the_living_dead.cfg:752
+#: scenarios/07_vengeance_is_mine.cfg:352 scenarios/09a_rotten_forest.cfg:136
+#: scenarios/09b_falling_sky.cfg:148 scenarios/09c_rusty_axe.cfg:100
+#: scenarios/12_the_magic_mountain.cfg:112
+#: scenarios/12_the_magic_mountain.cfg:594
+#: scenarios/13_day_of_the_dead.cfg:188
+#: scenarios/14_night_of_the_living_dead.cfg:655
+msgid "Death of Merrin"
+msgstr "Смерть Мэррина"
+
+#: scenarios/02_animal_liberation.cfg:119
+#: scenarios/02_animal_liberation.cfg:343
+msgid "Pech"
+msgstr "Пич"
+
+#: scenarios/02_animal_liberation.cfg:130
+#: scenarios/02_animal_liberation.cfg:296
+msgid "Spelk"
+msgstr "Спилк"
+
+#: scenarios/02_animal_liberation.cfg:152
+msgid "Here come corpses! Let's pull together and drive them back!"
+msgstr "Тут зомбаки припёрлись! Давайте сгоним их в кучу и выгоним прочь!"
+
+#: scenarios/02_animal_liberation.cfg:157
+msgid "Iiii muuuust cooooveeer my chiiiild. Dooon't Geeeet aaanyyyy cloooseeeerrrr, ooorrrr I'll attaaaaaccckkkk yooouuu!"
+msgstr "Мне нууууужно защитииииить своего ребёёёёёнка. Не подходиииите блииииже, а не то я нападууууу!"
+
+#: scenarios/02_animal_liberation.cfg:162
+msgid "This...is...not...invasion...but...liberation...from...mortality."
+msgstr "Это...не...вторжение...это...освобождение...от...смерти."
+
+#: scenarios/02_animal_liberation.cfg:167
+msgid "Notice: In this campaign, there are some enemy units (sometimes hidden somewhere) who will join your party as loyal fellows. They are also much stronger than normal recruits. If you find any remarkable enemy, try zombifying them."
+msgstr "Примечание: В этой кампании вам повстречаются вражеские бойцы (иногда они будут скрыты), которые присоединятся к вашей армии и не потребуют платы за содержание. Зачастую они будут сильнее обычных воинов. Так что, если вам попадётся такой особый боец, попробуйте обратить его в зомби."
+
+#: scenarios/02_animal_liberation.cfg:206
+msgid "A sacred tree."
+msgstr "Священное древо."
+
+#: scenarios/02_animal_liberation.cfg:234
+#: scenarios/02_animal_liberation.cfg:265
+msgid "Hello. I hate undead. You shall die, fuckin corpse."
+msgstr "Ненавижу мертвяков. Придётся тебе сдохнуть окончательно, поганый трупак."
+
+#: scenarios/02_animal_liberation.cfg:313
+msgid "Do you still hate undead, Spelk?"
+msgstr "Ты всё ещё ненавидишь мертвецов, Спилк?"
+
+#: scenarios/02_animal_liberation.cfg:317
+msgid "I don't have any memory of it."
+msgstr "Я ничего не помню об этом."
+
+#: scenarios/02_animal_liberation.cfg:360
+msgid "Welcome...to..the...world...of...death, Pech. Serve...your...child...for...dinner."
+msgstr "Добро пожаловать... в... мир... смерти...Пич. Приготовь...своего...ребёнка...на...обед."
+
+#: scenarios/02_animal_liberation.cfg:364
+msgid "Sorry, I have already eaten it up."
+msgstr "Прошу прощения, но я его уже съел."
+
+#: scenarios/02_animal_liberation.cfg:376
+msgid "No! Stop! Get off me! Die!"
+msgstr "Нет! Остановись! Оставь меня! Умри!"
+
+#: scenarios/02_animal_liberation.cfg:381
+msgid "Be...quiet. I won't stop, nor get off you. And I'm already dead."
+msgstr "Тише...тише... Я не остановлюсь...и не брошу тебя...И я и так уже мёртв."
+
+#: scenarios/02_animal_liberation.cfg:417
+msgid "Oh I'm free! Divine wind will blow for you!!"
+msgstr "О, я свободен! Да овеет тебя божественный ветер!"
+
+#: scenarios/02_animal_liberation.cfg:421
+msgid "What a self-centered creature... Anyway, your...little body...and wide vision...are really useful. Serve me...as my scout."
+msgstr "Какое эгоистичное существо... Так или иначе...твоё...некрупное тело...и отличное зрение...вполне пригодятся. Будешь служить мне..гонцом."
+
+#: scenarios/02_animal_liberation.cfg:425
+msgid "As you bid me, sir!"
+msgstr "Как прикажешь, господин!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:9
+msgid "The Shadow over the Battlefield"
+msgstr "Тень над полем брани"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:27
+msgid "...Come to heel, ingrate..."
+msgstr "...Приди и покорись, неблагодарный..."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:32
+#: scenarios/15_dawn_of_the_dead.cfg:243
+msgid "...Fill the whole world with death..."
+msgstr "...Заполни смертью весь мир..."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:36
+msgid "...Come to heel..."
+msgstr "...Приди и покорись..."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:40
+#: scenarios/08_the_dead_bondage0a.cfg:197
+msgid "SHUT UP!!"
+msgstr "ЗАТКНИСЬ!!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:45
+msgid "After turning the herd of animals into undead, an abhorrent voice began to echo in his mind. It was a voice from long ago, the last voice he wanted to hear. Macabre yelled until the voice was dispelled."
+msgstr "После обращения стада животных в мертвецов в голове Макабра зазвучал отвратительный голос, и его мучительное эхо вызывало гнев. Это был голос из далёкого прошлого, и сейчас его хотелось услышать меньше всего. В бешенстве Макабр закричал, и кричал до тех пор, пока голос не затих."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:52
+msgid "The next thing he knows is the smell of blood in the air. ...War. An uproar over the forest tells of the a battle. Zombies murmur, 'Flesh...a lot of...flesh...of different kinds.' The zombies are unable to suppress the craving for flesh."
+msgstr "Из памяти Макабра всплыло: запах... запах крови в воздухе... война. Шум в лесу - там идёт сражение. Зомби бормочут: <i>'Плоть... много... плоти... разная плоть'</i>. Зомби неспособны подавить тягу к свежей плоти."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:57
+msgid "Macabre was buried in deliberation. If there is a war, there must be elite troops of every race. Usually zombies don't have enough power to beat them. But they are impoverished by the war now. Besides, this is a chance to get more flesh and new fellows."
+msgstr "Макабр погрузился в раздумья. Раз идёт война, то у каждой расы должны быть свои элитные отряды. Обычно зомби не хватает мощи, чтобы разбить отборные части противника, но сейчас уставшие от битвы армии утратили силы, что даёт мертвецам возможность пополнить свои ряды."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:88
+msgid "Gamling"
+msgstr "Гэмлинг"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:132
+#: scenarios/09a_rotten_forest.cfg:45 scenarios/09a_rotten_forest.cfg:73
+#: scenarios/13_day_of_the_dead.cfg:143
+msgid "Elf"
+msgstr "Эльф"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:135
+msgid "Haldir"
+msgstr "Хэлдир"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:166
+#: scenarios/09c_rusty_axe.cfg:45 scenarios/13_day_of_the_dead.cfg:93
+msgid "Dwarf"
+msgstr "Гном"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:169
+msgid "Thorin"
+msgstr "Торин"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:191
+msgid "Orc"
+msgstr "Орк"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:194
+msgid "Vatgit"
+msgstr "Вэтгит"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:218
+#: scenarios/09b_falling_sky.cfg:45 scenarios/13_day_of_the_dead.cfg:69
+msgid "Drake"
+msgstr "Дракон"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:221
+msgid "Glaurung"
+msgstr "Гларанг"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:299
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:1162
+msgid "Neckfrill"
+msgstr "Некфрилл"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:347
+msgid "Smell...of...war. Go...scouting, Boreas."
+msgstr "Пахнет... войной. Иди... на разведку... Борей."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:352
+#: scenarios/06_return_of_the_living_dead.cfg:187
+msgid "Yes, sir!"
+msgstr "Да, господин!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:369
+msgid "A great war! There are humans, elves, dwarves, orcs and drakes. Free for all!"
+msgstr "Ууу! Большая битва! Там люди, эльфы, гномы, орки и драконы. Освободим их всех!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:373
+msgid "How...are...things...going?"
+msgstr "Что... там... происходит?"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:377
+msgid "Humans have an advantage! Elves and Drakes are far outnumbered!"
+msgstr "Люди побеждают! Они превосходят числом эльфов и драконов вместе взятых."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:381
+msgid "OK. Let's...divide...soldiers...and...attack...Elves...Drakes...from...behind. My...own...troops...will...attack...Humans."
+msgstr "Понятно... Разделим солдат...и атакуем...с тыла...эльфов...и драконов... Мой...собственный...отряд...нападёт...на людей."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:477
+msgid "By the way, I have made a friend."
+msgstr "Кстати, я обрёл друга."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:481
+msgid "Who?"
+msgstr "Кого?"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:485
+msgid "Come out! Gingly!"
+msgstr "Гинглей! Выходи!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:496
+msgid "Gingly"
+msgstr "Гинглей"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:507
+msgid "Hi, Mr. Macabre."
+msgstr "Приветствую тебя, господин Макабр."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:511
+msgid "Hi. What...are...you...doing...here?"
+msgstr "Приветствую. Что...ты...здесь...делаешь?"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:515
+msgid "I have just been killed in the war. However I can't go to Heaven."
+msgstr "Меня только что убили на этой войне. Однако на небеса я попасть не могу."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:519
+msgid "Why?"
+msgstr "Почему?"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:523
+msgid "I don't know."
+msgstr "Мне это не ведомо."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:531
+msgid "(He doesn't seem like a puppet for that bastard...and ghosts are really useful.)"
+msgstr "(Он не похож на марионетку, которая прислуживает тому ублюдку... да и призраки могут оказаться полезными.)"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:535
+msgid "Mr. Gingly, if...you...have...nowhere...to...go, join...us."
+msgstr "Гинглей...если...никуда...не торопишься...присоединяйся...к нам."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:539
+msgid "Sure, thanks. From now on, we ghosts will come under your umbrella, Macabre."
+msgstr "Благодарю. С этого часа мы, призраки, находимся под твоим началом, Макабр."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:543
+#: scenarios/12_the_magic_mountain.cfg:430
+msgid "Good."
+msgstr "Договорились."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:592
+msgid "The time is now! Kill them all!"
+msgstr "Настало наше время! Убьём их всех!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:696
+msgid "Oops! We must retreat and regroup!"
+msgstr "Святой Элох! Нужно отступить и перегруппироваться!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:707
+msgid "Blast! The damage is considerable. Retreat!"
+msgstr "Проклятие! Мы понесли большие потери! Отступаем!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:712
+msgid "Sir! I broke my leg...I can't move!"
+msgstr "Господин! Я сломал ногу... я не могу сдвинуться с места!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:716
+msgid "You're useless! Drop dead here!"
+msgstr "Бесполезная тварь! Сдохни, и не мешай другим!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:720
+msgid "That's too cruel!"
+msgstr "Это слишком жестоко!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:735
+msgid "Well done! Leave the cowards alone! Kill the dwarves and orcs!"
+msgstr "Отличная работа! Добивать трусов будем потом! А сейчас займёмся гномами и орками!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:744
+msgid "Well...our...turn. Don't...miss...the...escaped...leaders. Eat...and...plague...all...living...creatures!"
+msgstr "Так...наши...возвращаются. Не...упустите сбежавших...вожаков. Ешьте...и...заражайте...всех...живых!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:749
+msgid "The Elvish and Drake leaders intend to run away to their nearest signpost. The more leaders you kill, the more gold you get."
+msgstr "Лидеры эльфов и драконов устремились к ближайшему указателю. Чем больше лидеров вы убьёте, тем больше золота получите."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:757
+msgid "Defeat at least one Enemy Leader"
+msgstr "Победите хоть одного лидера противника"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:769
+#: scenarios/04_pride_and_prejudice.cfg:246
+#: scenarios/06_return_of_the_living_dead.cfg:756
+#: scenarios/07_vengeance_is_mine.cfg:356 scenarios/09a_rotten_forest.cfg:140
+#: scenarios/09b_falling_sky.cfg:152 scenarios/09c_rusty_axe.cfg:104
+#: scenarios/12_the_magic_mountain.cfg:116
+#: scenarios/12_the_magic_mountain.cfg:598
+#: scenarios/13_day_of_the_dead.cfg:192
+#: scenarios/14_night_of_the_living_dead.cfg:659
+msgid "Death of Boreas"
+msgstr "Смерть Борея"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:772
+msgid "Turns run out without killing any leaders"
+msgstr "Ходы закончились, а лидеры противника остались живы"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:788
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:803
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:1268
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:1283
+msgid "Safe! All forces, retreat!"
+msgstr "Спасаемся! Отступаем!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:830
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:862
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:895
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:930
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:962
+msgid "You got 80g!"
+msgstr "Вы получили 80 золотых!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:842
+msgid "Humans have lost their leader and fallen into confusion (they never move)."
+msgstr "Люди лишились своего предводителя и впали в замешательство (никуда не движутся)."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:872
+msgid "Elves have lost their leader and fallen into confusion (they never move)"
+msgstr "Эльфы лишились своего предводителя и впали в замешательство (никуда не движутся)."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:907
+msgid "Orcs have lost their leader and fallen into confusion (they never move)."
+msgstr "Орки лишились своего предводителя и впали в замешательство (никуда не движутся)."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:942
+msgid "Dwarves have lost their leader and fallen into confusion (they never move)."
+msgstr "Гномы лишились своего предводителя и впали в замешательство(никуда не движутся)."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:972
+msgid "Drakes have lost their leader and fallen into confusion (they never move)."
+msgstr "Драконы лишились своего предводителя и впали в замешательство (никуда не движутся)."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:989
+msgid "Fuckin Corpse! Die!"
+msgstr "Поганый мертвяк! Сдохни, сдохни навеки!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:1005
+msgid "Oh my god!"
+msgstr "О, мой бог!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:1021
+msgid "What an ugly creature!"
+msgstr "Какая уродливая тварь!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:1037
+msgid "Bah! Go to hell!"
+msgstr "Ещё чего! Пошли к лешему!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:1053
+msgid "Get out of the way!"
+msgstr "Прочь с дороги!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:1179
+msgid "Welcome, Neckfrill. Has...your...broken...bone...already...healed?"
+msgstr "Приветствую...тебя...Некфрилл. Ты...уже...исцелил...раздробленные...кости?"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:1183
+msgid "...Not yet."
+msgstr "...Ещё нет."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:1193
+msgid "(Probably won't be long before Dwarves and Orcs retreat. We shouldn't let them escape.)"
+msgstr "(Полагаю, ещё немного и орки с гномами начнут отступать. Нельзя позволить им уйти.)"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:1208
+msgid "Enough already... Let's go home!"
+msgstr "Сколько можно... Клал я на всё это с большим пробором! Пошли домой!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:1230
+msgid "Shit! It's a waste of time!"
+msgstr "Дерьмо! Мы только теряем время!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:1252
+msgid "Stand-down!"
+msgstr "Стоять!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:1297
+msgid "We did badly..."
+msgstr "(У нас проблемы...)"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:1304
+msgid "That's...not good enough."
+msgstr "Это...не...очень...хорошо."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:1311
+msgid "Not too bad."
+msgstr "Но и...не так...уж...плохо."
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:1318
+msgid "Very good."
+msgstr "Отлично!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:1325
+msgid "Excellent!"
+msgstr "Превосходно!"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:1347
+msgid "We didn't achieve anything... We've lost."
+msgstr "(Мы ничего не добились... Мы проиграли.)"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:1356
+msgid "We mustn't take up any more of our time. It's over."
+msgstr "(Нет больше смысла тратить на это своё время. Всё кончено.)"
+
+#: scenarios/03_the_shadow_over_the_battlefield.cfg:1367
+msgid "And then there were none... It's over."
+msgstr "И...потом...не...было...ничего...Это...конец."
+
+#: scenarios/04_pride_and_prejudice.cfg:6
+msgid "Pride and Prejudice"
+msgstr "Гордость и Предубеждение"
+
+#: scenarios/04_pride_and_prejudice.cfg:18
+msgid "Macabre had cloaked the battlefield in the darkness of death. Those who had escaped from death ran back to their homeland and cried of calamity from an already bloody battlefield and a horde of undead that appeared from nowhere and caused the death of their comrades. It was also evident that by the horde swallowing up the battlefield, the number of undead would increase causing a calamity that would endanger the whole world."
+msgstr "Макабр укрыл поле битвы тёмным покрывалом смерти. Те, кому удалось избежать гибели, поспешили к родным местам, вопя от ужаса, стремясь удалиться от проклятого места, на котором их товарищи приняли смерть от неизвестно откуда появившихся мертвецов. Стало очевидно, что покрывшая поле битвы орда мертвецов, породит такие бедствия, которые затронут весь мир."
+
+#: scenarios/04_pride_and_prejudice.cfg:24
+msgid "So all the living agreed to a ceasefire in order to prepare their countermeasures against the undead. Some factions built up their defenses at home, and other factions tried to get the first strike."
+msgstr "Поэтому, оставшиеся в живых расы согласились заключить перемирие, чтобы подготовиться к нападению мертвецов. Некоторые альянсы укрепляли оборону своих городов, а другие готовились нанести упреждающий удар на подступах к родным землям."
+
+#: scenarios/04_pride_and_prejudice.cfg:29
+msgid "First, Macabre set his eyes on the Humans who had gained an upper hand in the last war. He understood the need to train his increased army and to enhance his capability. From that standpoint, powerful and intrepid Humans were the best opponents to fight against. As soon as Macabre found out where the Humans' outlying castle was, he began to advance his army in silence. The Humans' response came to meet Macabre's expectations."
+msgstr "Макабр присматривался к людям, которые одержали победу в последней битве. Он понимал, что его возросшую числом армию необходимо обучать и тренировать. Влиятельные и бесстрашные люди были достойными противниками. Как только Макабр разузнал, где расположена ближайшая людская крепость, он начал выдвигать к ней свою армию. Люди оправдали ожидания Макабра и не заставили себя долго ждать."
+
+#: scenarios/04_pride_and_prejudice.cfg:60
+msgid "Eomer"
+msgstr "Эомер"
+
+#: scenarios/04_pride_and_prejudice.cfg:104
+msgid "We have much dead flesh as a result of the recent war."
+msgstr "В результате последней битвы у нас прибавилось мертвой плоти."
+
+#: scenarios/04_pride_and_prejudice.cfg:108
+msgid "...so?"
+msgstr "...и?"
+
+#: scenarios/04_pride_and_prejudice.cfg:112
+msgid "Some heavy eaters transformed into Ghouls."
+msgstr "Некоторые особо крупные поедатели плоти обратились в вампиров."
+
+#: scenarios/04_pride_and_prejudice.cfg:116
+msgid "That's...good news. Provide them...with an adequate diet."
+msgstr "Это...хорошие...новости. Обеспечь... им... соответствующее...питание."
+
+#: scenarios/04_pride_and_prejudice.cfg:137
+msgid "There is a stronghold of humans!"
+msgstr "Это крепость людей!"
+
+#: scenarios/04_pride_and_prejudice.cfg:144
+msgid "How...are...they...doing?"
+msgstr "Что...они...делают?"
+
+#: scenarios/04_pride_and_prejudice.cfg:148
+msgid "They are preparing to fight!"
+msgstr "Они готовятся к битве!"
+
+#: scenarios/04_pride_and_prejudice.cfg:152
+msgid "How...many...mages...are...there?"
+msgstr "Как...много...там...магов?"
+
+#: scenarios/04_pride_and_prejudice.cfg:156
+msgid "None! But a troop of magi are in the southeast forest! It'll probably take a while before they arrive at the stronghold."
+msgstr "Ни одного! Но в лесу на юго-востоке укрывается отряд магов! Думаю, им потребуется время, чтобы добраться до крепости."
+
+#: scenarios/04_pride_and_prejudice.cfg:160
+msgid "(...They will probably annihilate us after the mages arrive. We must capture the stronghold before that so we can launch a surprise attack on the mages in the forest.)"
+msgstr "(...Если маги прибудут в крепость первыми, то нас ничто уже не спасёт. Нужно их опередить, а потому сначала нанесём удар по скрывающимся в лесу волшебникам)"
+
+#: scenarios/04_pride_and_prejudice.cfg:164
+msgid "Let's...contend...with...Humans!"
+msgstr "Начнём...битву...с людьми!"
+
+#: scenarios/04_pride_and_prejudice.cfg:168
+msgid "(I hope they don't turn chicken.)"
+msgstr "(Надеюсь, они не станут отсиживаться за стенами.)"
+
+#: scenarios/04_pride_and_prejudice.cfg:186
+msgid "Scout!"
+msgstr "Гонец!"
+
+#: scenarios/04_pride_and_prejudice.cfg:210
+msgid "General, corpses are attacking us!"
+msgstr "Генерал, нас атаковали мертвецы!"
+
+#: scenarios/04_pride_and_prejudice.cfg:215
+msgid "Humph! To hell with the defense-only policy! Politicians are too cowardly. Wait for weak magicians? Nonsense! We are the best and the brightest!"
+msgstr "Тролль раздери! Да пошли она к лешему, эта тупая политика обороны! Все эти придворные стратеги слишком трусливы. Ждать чаморошных фокусников? Что за бред! 'Мы же самые умные!' Гром и молния!"
+
+#: scenarios/04_pride_and_prejudice.cfg:219
+msgid "Bear arms! Blow up foolish corpses! God bless us!"
+msgstr "Вытаскивайте оружие! Размозжим трёхклятые трупы! Бог благословляет нас!"
+
+#: scenarios/04_pride_and_prejudice.cfg:223
+msgid "(I'm glad the general is simple-minded.)"
+msgstr "(Я рад, что генерал столь бесхитростен.)"
+
+#: scenarios/04_pride_and_prejudice.cfg:227
+msgid "Eat...up...arrogant...humans!"
+msgstr "Поедайте...заносчивых...людишек!"
+
+#: scenarios/04_pride_and_prejudice.cfg:264
+msgid "It's not...too late yet. I will hasten to the forest...and backstab Mages. Boreas, Merrin, defend this stronghold...and protect the rear."
+msgstr ""
+"(Ещё... не слишком поздно. Поспешу к лесу... нужно ударить магам в спину.) \n"
+" Борей...Мэррин...защищайте...цитадель...и...прикрывайте...тыл."
+
+#: scenarios/04_pride_and_prejudice.cfg:277
+msgid "Boss! The Mages have arrived!"
+msgstr "Господин! Маги прибыли!"
+
+#: scenarios/04_pride_and_prejudice.cfg:281
+msgid "We've spent too much time... Our operation ended in failure."
+msgstr "(Мы слишком затянули наступление...Поэтому неудача постигла нас.)"
+
+#: scenarios/05_lie_down_in_darkness.cfg:6
+msgid "Lie down in Darkness"
+msgstr "Погружение во мрак"
+
+#: scenarios/05_lie_down_in_darkness.cfg:16
+msgid "Macabre captured the stronghold quicker than he thought he would. But he had no time to feel elated by his victory. Mages were coming. Macabre entrusted the defense of the stronghold to his henchmen and went to the southeast forest to attack the mages himself."
+msgstr "Макабр захватил цитадель быстрее, чем предполагал, но у него не было времени упиваться победой. Ожидали скорого прибытия магов. Поручив охрану крепости своим приспешникам, Макабр направился к юго-восточному лесу, чтобы первым успеть нанести удар."
+
+#: scenarios/05_lie_down_in_darkness.cfg:43
+#: scenarios/07_vengeance_is_mine.cfg:63 scenarios/07_vengeance_is_mine.cfg:88
+#: scenarios/07_vengeance_is_mine.cfg:105
+#: scenarios/07_vengeance_is_mine.cfg:119
+#: scenarios/07_vengeance_is_mine.cfg:133
+msgid "Mages"
+msgstr "Маги"
+
+#: scenarios/05_lie_down_in_darkness.cfg:46
+#: scenarios/07_vengeance_is_mine.cfg:66
+#: scenarios/07_vengeance_is_mine.cfg:778 scenarios/15_dawn_of_the_dead.cfg:41
+msgid "Philosophy"
+msgstr "Философ"
+
+#: scenarios/05_lie_down_in_darkness.cfg:106
+msgid "Mages...are...coming. Go!"
+msgstr "Маги...приближаются. Вперёд!"
+
+#: scenarios/05_lie_down_in_darkness.cfg:226
+msgid "Are we there yet? I'm tired."
+msgstr "Сколько ещё осталось? Мои ноги уже отказываются поднимать пыль!"
+
+#: scenarios/05_lie_down_in_darkness.cfg:232
+msgid "I see the stronghold! We are near!"
+msgstr "Я вижу цитадель! Мы близко, Философ!"
+
+#: scenarios/05_lie_down_in_darkness.cfg:236
+msgid "Good. Brace up! A fierce battle is expected in the stronghold."
+msgstr "Вот и замечательно. Крепитесь! В этой цитадели с часу на час ожидают одну из величайших битв нашего времени!"
+
+#: scenarios/05_lie_down_in_darkness.cfg:240
+#: scenarios/07_vengeance_is_mine.cfg:214
+msgid "Yes, sir."
+msgstr "Да, господин."
+
+#: scenarios/05_lie_down_in_darkness.cfg:245
+msgid "Wait...That's strange..."
+msgstr "Подождите... Как-то странно тут..."
+
+#: scenarios/05_lie_down_in_darkness.cfg:249
+#: scenarios/15_dawn_of_the_dead.cfg:338
+msgid "What?"
+msgstr "Что?"
+
+#: scenarios/05_lie_down_in_darkness.cfg:255
+msgid "It's too quiet...as if the battle were over. Has the general already vanquished the zombies?"
+msgstr "Вслушайтесь: такая тишина... будто сражение уже закончилось. Генерал одолел зомби без нашей помощи?"
+
+#: scenarios/05_lie_down_in_darkness.cfg:260
+msgid "That's not likely. I hear that the new zombies are formidable opponents."
+msgstr "Вероятность такого развития событий крайне мала. Я слышал, что новые зомби очень грозные соперники, и ещё никому одной лишь силой оружия не удалось сразить их."
+
+#: scenarios/05_lie_down_in_darkness.cfg:280
+#: scenarios/05_lie_down_in_darkness.cfg:479
+#: scenarios/08_the_dead_bondage0b.cfg:89
+#: scenarios/08_the_dead_bondage0c.cfg:84
+msgid "!"
+msgstr "!"
+
+#: scenarios/05_lie_down_in_darkness.cfg:333
+msgid "What the fuck! Kill them!"
+msgstr "Что за хрень! Убейте их!"
+
+#: scenarios/05_lie_down_in_darkness.cfg:468
+msgid "Well done!"
+msgstr "Отлично!"
+
+#: scenarios/05_lie_down_in_darkness.cfg:473
+msgid "...Are...you...sure?"
+msgstr "...Ты...уверен?"
+
+#: scenarios/05_lie_down_in_darkness.cfg:516
+msgid "You will...capitulate...at my gates, magician. By becoming...a corpse..."
+msgstr "Вы...сдадитесь...мне...маги. Станете...трупами..."
+
+#: scenarios/05_lie_down_in_darkness.cfg:696
+#: scenarios/06_return_of_the_living_dead.cfg:386
+msgid "Arrgh!!"
+msgstr "Арргх!!"
+
+#: scenarios/05_lie_down_in_darkness.cfg:701
+msgid "You...die...now!"
+msgstr "Сейчас...вы...умрёте!"
+
+#: scenarios/05_lie_down_in_darkness.cfg:750
+msgid "Now you are our frie..."
+msgstr "Теперь...вы...наши...дру..."
+
+#: scenarios/05_lie_down_in_darkness.cfg:762
+msgid "NOT YET!!"
+msgstr "ЕЩЁ НЕТ!!!"
+
+#: scenarios/05_lie_down_in_darkness.cfg:863
+msgid "I did it!!"
+msgstr "Ага! У меня получилось!!!"
+
+#: scenarios/05_lie_down_in_darkness.cfg:867
+msgid "Avoid further bloodshed! Retreat!"
+msgstr "Постарайтесь избежать излишнего кровопролития! Отступайте!"
+
+#: scenarios/05_lie_down_in_darkness.cfg:871
+#: scenarios/06_return_of_the_living_dead.cfg:677 scenarios/14_bridge.cfg:203
+#: scenarios/14_night_of_the_living_dead.cfg:788
+#: scenarios/14_night_of_the_living_dead.cfg:876
+#: scenarios/14_night_of_the_living_dead.cfg:1522
+#: scenarios/14_night_of_the_living_dead.cfg:1675
+#: scenarios/15_dawn_of_the_dead.cfg:234
+msgid "......"
+msgstr "......"
+
+#: scenarios/05_lie_down_in_darkness.cfg:876
+#: scenarios/05_lie_down_in_darkness.cfg:958
+#: scenarios/12_the_magic_mountain.cfg:457
+msgid "?"
+msgstr "?"
+
+#: scenarios/05_lie_down_in_darkness.cfg:905
+msgid "Oh shit!!"
+msgstr "Дерьмо!!!"
+
+#: scenarios/05_lie_down_in_darkness.cfg:937
+msgid "Emergency!"
+msgstr "Плохие вести!"
+
+#: scenarios/05_lie_down_in_darkness.cfg:950
+msgid "The main host of Orcs attacked us! The stronghold has been captured!"
+msgstr "Орки подкрались незаметно и... и захватили замок!"
+
+#: scenarios/05_lie_down_in_darkness.cfg:962
+msgid "Where is boss?"
+msgstr "Где наш командир?"
+
+#: scenarios/06_return_of_the_living_dead.cfg:6
+msgid "Return of the Living Dead"
+msgstr "Возвращение живых мертвецов"
+
+#: scenarios/06_return_of_the_living_dead.cfg:16
+msgid "There was a reason that the living feared them. They were not a disorderly lot that acted out of selfish desires, nor apathetic puppets of necromancers. They seemed to have both intelligence and a will of their own. But these odd zombies were only a few like Macabre, Merrin, etc. For other zombies, it didn't make any difference who led them. They just obey their master's order and fill their stomach."
+msgstr "Не без причины всё живое боялось их. Ходячие мертвецы не были сбившимся в кучу стадом, в котором каждый угождал лишь своим желаниям, не были они и безразличными марионетками некромантов. У них, казалось, были и разум, и собственная воля. Но эти странные зомби не вполне походили на Макабра, Мэррина и им подобных. Для них не имело значения, кто ими руководит; они слепо выполняли приказы своего повелителя и набивали брюхо."
+
+#: scenarios/06_return_of_the_living_dead.cfg:22
+msgid "The undead who were deprived of the stronghold left for Macabre. But Macabre had already been killed by the mage. They lost their commander and were bewildered. They were at a loss of what to do next and could only wait for their instinct to revive."
+msgstr "Орки прогнали мертвецов из крепости, а маги убили их вожака Макабра. Потеря хозяина привела мертвецов в замешательство. Зомби оказались растеряны и не знали, что делать дальше. Им оставалось только полагаться на свой инстинкт."
+
+#: scenarios/06_return_of_the_living_dead.cfg:27
+msgid "Then the smell of the living wafted in. The dead couldn't think anymore. Flesh...There is flesh..."
+msgstr "А потом до них донёсся запах живых тел. Мертвецы больше не могли думать ни о чём, только о желанной плоти. Плоть... сочная плоть..."
+
+#: scenarios/06_return_of_the_living_dead.cfg:52
+msgid "Orcs"
+msgstr "Орки"
+
+#: scenarios/06_return_of_the_living_dead.cfg:55
+msgid "Bakgodek"
+msgstr "Бэкгодэк"
+
+#: scenarios/06_return_of_the_living_dead.cfg:112
+msgid "Ha ha ha! I got this stronghold thanks to the living dead!"
+msgstr "Ха-ха-ха! Мертвецы прямо подарили мне эту крепость!"
+
+#: scenarios/06_return_of_the_living_dead.cfg:116
+msgid "Hehe, does this mean that there is a major change in the power structure?"
+msgstr "Хе-хе! Не означает ли это, что власть тут переменилась?"
+
+#: scenarios/06_return_of_the_living_dead.cfg:120
+msgid "Something like that. Though we lagged behind humans in the recent war, that's not going to happen any longer!"
+msgstr "Что-то вроде того. Конечно же, мы отгребли от людей в последней битве, но больше этого не повторится."
+
+#: scenarios/06_return_of_the_living_dead.cfg:143
+msgid "Chief! The living dead are coming back!"
+msgstr "Вождь! Зомби возвращаются!"
+
+#: scenarios/06_return_of_the_living_dead.cfg:148
+msgid "Bah! With their leader?"
+msgstr "Вот хрень! Их вожак с ними?"
+
+#: scenarios/06_return_of_the_living_dead.cfg:153
+msgid "No! That guy was killed by a human mage!"
+msgstr "Нет! Того парня прихлопнули маги."
+
+#: scenarios/06_return_of_the_living_dead.cfg:158
+msgid "This is perfect! They have really become like the normal living dead!"
+msgstr "Отлично! Вот теперь они стали обычными ходячими мертвяками!"
+
+#: scenarios/06_return_of_the_living_dead.cfg:182
+msgid "Blow them up!!"
+msgstr "Размажьте их мозги!"
+
+#: scenarios/06_return_of_the_living_dead.cfg:232
+msgid "Return to your grave!"
+msgstr "Возвращайтесь в свои могилы!"
+
+#: scenarios/06_return_of_the_living_dead.cfg:272
+msgid "Wait! Don't hurry to your death!!"
+msgstr "Стой! Не торопи свою смерть!"
+
+#: scenarios/06_return_of_the_living_dead.cfg:279
+#: scenarios/09b_falling_sky.cfg:209
+msgid "No!!"
+msgstr "Нет!!!"
+
+#: scenarios/06_return_of_the_living_dead.cfg:304
+msgid "Silly twit!"
+msgstr "Тупая тварь!"
+
+#: scenarios/06_return_of_the_living_dead.cfg:332
+msgid "Muhahaha! Let me do it!!"
+msgstr "Му-ха-ха-ха-ха! Дайте-ка мне ударить как следует!"
+
+#: scenarios/06_return_of_the_living_dead.cfg:340
+msgid "Oops!"
+msgstr "Упс!"
+
+#: scenarios/06_return_of_the_living_dead.cfg:392
+msgid "Go to hell, obtrusive fly!!"
+msgstr "Иди ты к лешему!"
+
+#: scenarios/06_return_of_the_living_dead.cfg:557
+msgid "Oooouuuuchhhhh!!!!"
+msgstr "Ооооооооуууууууу!!!!"
+
+#: scenarios/06_return_of_the_living_dead.cfg:565
+msgid "Chief!"
+msgstr "Вождь!"
+
+#: scenarios/06_return_of_the_living_dead.cfg:626
+msgid "What the fuck!! ...I never heard that such a guy exists!"
+msgstr "Что за хрень!!!... Я никогда не слышал об этом парне!"
+
+#: scenarios/06_return_of_the_living_dead.cfg:644
+msgid "Wait! Chief!"
+msgstr "Постой! Вождь!"
+
+#: scenarios/06_return_of_the_living_dead.cfg:668
+msgid "Wh...Who are you?"
+msgstr "Кт... Кто ты?"
+
+#: scenarios/06_return_of_the_living_dead.cfg:673
+msgid "Do you fail to recognize the face of your boss? ...though I'm not surprised."
+msgstr "Что, не способен узнать своего командира? ...хотя я и не удивлён."
+
+#: scenarios/06_return_of_the_living_dead.cfg:689
+msgid "My boss!? Is it really you?"
+msgstr "Мой командир? Ты ли это?"
+
+#: scenarios/06_return_of_the_living_dead.cfg:696
+msgid "Exactly."
+msgstr "Да, я."
+
+#: scenarios/06_return_of_the_living_dead.cfg:701
+msgid "I...I can't believe it!"
+msgstr "Я... Я не могу в это поверить!"
+
+#: scenarios/06_return_of_the_living_dead.cfg:705
+msgid "That magician was at death's door, so he didn't have enough power to burn down my bones. And I can still move...maybe it takes a strong will. I will teach my comrades this special trick. We will get a troop of skeletons."
+msgstr "Тот маг находился при смерти, поэтому ему не хватило сил сжечь дотла мои кости. И я всё ещё способен двигаться... Возможно, меня тянет вперёд сила воли. Я обучу своих новых братьев этому трюку. У нас будет отряд скелетов."
+
+#: scenarios/06_return_of_the_living_dead.cfg:710
+msgid "Shit! This is an unexpected thing...but it is just a case of having to capture the stronghold again!"
+msgstr "Дерьмо! Как же это случилось? Какого лешего! Потерять крепость! Теперь её хрен обратно захватишь!"
+
+#: scenarios/06_return_of_the_living_dead.cfg:721
+msgid "Hold the enemy in check! I will lead from the rear."
+msgstr "Сдерживайте врага! Я начну отступление."
+
+#: scenarios/06_return_of_the_living_dead.cfg:727
+msgid "A...anyways, I'm glad to see you aga..."
+msgstr "В любом случае, я рад тебя видеть..."
+
+#: scenarios/06_return_of_the_living_dead.cfg:731
+msgid "Enough of that. We must fight these Orcs...and STOP THEIR BREATH!"
+msgstr "Хватит! Нужно сражаться с орками... И ОСТАНОВИТЬ ИХ ДЫХАНИЕ!"
+
+#: scenarios/06_return_of_the_living_dead.cfg:735
+msgid "Y...Yes, sir!"
+msgstr "Да, командир!"
+
+#: scenarios/07_vengeance_is_mine.cfg:6
+msgid "Vengeance is Mine"
+msgstr "Мне отмщение и аз воздам"
+
+#: scenarios/07_vengeance_is_mine.cfg:18
+msgid "...That's my boy, ingrate..."
+msgstr "…Мой мальчик, мой неблагодарный мальчик..."
+
+#: scenarios/07_vengeance_is_mine.cfg:22
+msgid "...Again I command you to come to heel..."
+msgstr "...И вновь повелеваю, приди и покорись..."
+
+#: scenarios/07_vengeance_is_mine.cfg:26 scenarios/15_dawn_of_the_dead.cfg:248
+msgid "...No matter how hard you struggle, your destiny is in my hand..."
+msgstr "...Не имеет значения твоя сила, не имеет значения твоя борьба... Ты в моих руках..."
+
+#: scenarios/07_vengeance_is_mine.cfg:30
+msgid "After his miraculous recovery, Macabre slew the orcish chief without trouble. The Orcs defeat was crippling and left them too weak even to attempt a comeback. Macabre's next target was the great mage who had brought Macabre to bay. He was fascinated by the tremendous magical power of the mage. Without such power, it would be impossible to resist the will of the speaker of the voice, he thought."
+msgstr "После удивительного воскрешения, Макабр без проблем расправился с вожаком орков. Поражение этого воинственного народа оказалось настолько тяжёлым, что они даже и не думали возвращаться. Следующей целью Макабр избрал великого мага, с которым недавно вступил в жестокий поединок. Колдовские силы волшебника впечатлили предводителя мертвецов. Макабр полагал, что только с помощью таких невероятных сил можно будет противиться влиянию Голоса."
+
+#: scenarios/07_vengeance_is_mine.cfg:37
+msgid "Humans also couldn't disregard the loss of a frontline stronghold with the general. They found out that Macabre was going towards the cathedral where the great mage resided. They proposed not to hold back on the dead and to catch them with one cast of the net. Thus, the interests of the undead clashed with that of the living. A battle between the dead and the living was about to begin. A battle for revenge."
+msgstr "Люди не собирались оставлять без ответа потерю приграничной твердыни. Разведчики следили за передвижением мёртвой орды, и прекрасно знали, что Макабр ведет свою армию к храму, в котором жил великий волшебник. Решено было не сдерживать мертвецов, дать им выйти к храму и одним махом избавиться от нависшей угрозы. Приближалось время великой битвы. Приближалось время мести."
+
+#: scenarios/07_vengeance_is_mine.cfg:91
+msgid "Saruman"
+msgstr "Саруман"
+
+#: scenarios/07_vengeance_is_mine.cfg:176
+msgid "Joe"
+msgstr "Джо"
+
+#: scenarios/07_vengeance_is_mine.cfg:177
+msgid "Raymond"
+msgstr "Рэймонд"
+
+#: scenarios/07_vengeance_is_mine.cfg:198
+msgid "(...Something is wrong. Humans accepted us without a fight. But the Great Mage must be a person they simply can't afford to lose. It would seem that they are playing tricks...)"
+msgstr "(…Что-то здесь не так. Люди пропустили нас без борьбы. Но великий маг не та фигура, которую можно позволить себе потерять. Мне кажется, люди играют в какую-то игру...)"
+
+#: scenarios/07_vengeance_is_mine.cfg:202
+msgid "Boreas, go scouting...around the outside of this cathedral."
+msgstr "Борей, разведай округу... за пределами храма."
+
+#: scenarios/07_vengeance_is_mine.cfg:206
+msgid "Outside? not inside?"
+msgstr "Снаружи? Не внутри?"
+
+#: scenarios/07_vengeance_is_mine.cfg:210
+msgid "Outside. Enlarge your horizons, and don't overlook anything."
+msgstr "Снаружи. Попробуй взлететь повыше и ничего не упускай из вида."
+
+#: scenarios/07_vengeance_is_mine.cfg:233
+msgid "(I'm roughly on to their tricks...But I need to know WHEN the trap will spring and HOW MANY will spring it)"
+msgstr "(Я попадусь на их уловку... Но мне нужно знать КОГДА западня сработает, и КАК МНОГО людей будет её закрывать."
+
+#: scenarios/07_vengeance_is_mine.cfg:262
+msgid "I'm back! Large troops of humans are coming!"
+msgstr "Я вернулся! Сюда движутся многочисленные армии!"
+
+#: scenarios/07_vengeance_is_mine.cfg:266
+msgid "This must be what I think it is. When will they arrive here?"
+msgstr "Так я думал. Когда они прибудут?"
+
+#: scenarios/07_vengeance_is_mine.cfg:277
+msgid "Sorry, I don't know."
+msgstr "Увы, я не знаю."
+
+#: scenarios/07_vengeance_is_mine.cfg:281
+msgid "(What an useless scout... I should have trained him much more.)"
+msgstr "(Бесполезный разведчик... Нужно было хоть немного его обучить.)"
+
+#: scenarios/07_vengeance_is_mine.cfg:293
+#: scenarios/07_vengeance_is_mine.cfg:318
+msgid "The first of them will arrive tomorrow at dawn. And then more will arrive every other day!"
+msgstr "Первый отряд прибудет завтра на рассвете. А следующий подойдёт через сутки!"
+
+#: scenarios/07_vengeance_is_mine.cfg:297
+#: scenarios/07_vengeance_is_mine.cfg:322
+msgid "How many troops are there?"
+msgstr "Сколько там всего армий?"
+
+#: scenarios/07_vengeance_is_mine.cfg:301
+msgid "Four!"
+msgstr "Четыре!"
+
+#: scenarios/07_vengeance_is_mine.cfg:326
+msgid "Four! First batch is a mounted troop, second is a light infantry troop, third is an infantry troop and forth is a heavy infantry troop."
+msgstr "Четыре! В первой волне — кавалерия, во второй движутся легкие пехотинцы, в третьей — средняя пехота, а в четвёртой — тяжёлая."
+
+#: scenarios/07_vengeance_is_mine.cfg:333
+msgid "Hm...The longer this battle drags on, the more enemies we will have to fight... We must take this into account with the situation at hand. Anyway, don't forget the goal is first to transform the great mage into a fellow zombie."
+msgstr "Гм... Чем дольше продлиться битва, тем больше врагов нам будет противостоять... Нужно это учесть, чтобы удержать сражение под контролем. И нельзя забывать о главной цели — обратить Великого Мага в нашего нового брата."
+
+#: scenarios/07_vengeance_is_mine.cfg:337
+msgid "Right, into battle!"
+msgstr "Вперёд, на битву!"
+
+#: scenarios/07_vengeance_is_mine.cfg:344
+msgid "Transform the Great Mage into a Zombie"
+msgstr "Обратите великого мага в зомби"
+
+#: scenarios/07_vengeance_is_mine.cfg:359
+msgid "The Great Mage must be killed by a unit with the plague ability!"
+msgstr "Великий маг должен быть убит воином, со способностью чумы!"
+
+#: scenarios/07_vengeance_is_mine.cfg:407
+#: scenarios/07_vengeance_is_mine.cfg:447
+#: scenarios/07_vengeance_is_mine.cfg:487
+#: scenarios/07_vengeance_is_mine.cfg:527
+msgid "Sir! Undead have arrived!!"
+msgstr "Господин! Мертвецы прибыли!!!"
+
+#: scenarios/07_vengeance_is_mine.cfg:414
+#: scenarios/07_vengeance_is_mine.cfg:454
+msgid "How terrible... Don't let them advance any further!"
+msgstr "Какой ужас... Не дайте им продвинуться ни шагу вперёд!"
+
+#: scenarios/07_vengeance_is_mine.cfg:494
+#: scenarios/07_vengeance_is_mine.cfg:534
+msgid "Damn! Dress for battle!"
+msgstr "Проклятье! Приготовиться к битве!"
+
+#: scenarios/07_vengeance_is_mine.cfg:557
+msgid "John"
+msgstr "Джон"
+
+#: scenarios/07_vengeance_is_mine.cfg:565
+msgid "We are the first wave of reinforcements!"
+msgstr "Мы первая волна подкрепления!"
+
+#: scenarios/07_vengeance_is_mine.cfg:575
+msgid "Thomas"
+msgstr "Томас"
+
+#: scenarios/07_vengeance_is_mine.cfg:580
+msgid "We are the second wave of reinforcements!"
+msgstr "Мы вторая волна подкрепления!"
+
+#: scenarios/07_vengeance_is_mine.cfg:590
+msgid "Sean"
+msgstr "Шон"
+
+#: scenarios/07_vengeance_is_mine.cfg:595
+msgid "We are the third wave of reinforcements!"
+msgstr "Мы третья волна подкрепления!"
+
+#: scenarios/07_vengeance_is_mine.cfg:605
+msgid "David"
+msgstr "Давид"
+
+#: scenarios/07_vengeance_is_mine.cfg:610
+msgid "We are the forth wave of reinforcements!"
+msgstr "Мы последнее подкрепление!"
+
+#: scenarios/07_vengeance_is_mine.cfg:623
+msgid "It's now or never! We must fight together!!"
+msgstr "Сейчас или никогда! Нам надо сражаться вместе!!!"
+
+#: scenarios/07_vengeance_is_mine.cfg:655
+msgid "What a hell of a mess! Dress for battle!"
+msgstr "Какой бардак! Сражаемся! Сражаемся!"
+
+#: scenarios/07_vengeance_is_mine.cfg:739
+msgid "I...I don't wanna die...I don't wanna be a zombie..."
+msgstr "Нет... Я не хочу умирать... Я не хочу стать зомби..."
+
+#: scenarios/07_vengeance_is_mine.cfg:743
+msgid "Why do you hate zombies so much? Every human must eventually die anyways. But as a zombie you will get a new life. Why doesn't your heart rejoice at this?"
+msgstr "Откуда в тебе такая ненависть к зомби? Каждый человек оканчивает свой путь смертью. Но став зомби, ты получишь новую, неограниченную жизнь. Почему твоё сердце не ликует?"
+
+#: scenarios/07_vengeance_is_mine.cfg:747
+msgid "Don't quibble with me! I don't want to survive as a decomposed corpse!"
+msgstr "Не препирайся со мной! Я не хочу провести остаток дней в качестве расчленённого трупа!"
+
+#: scenarios/07_vengeance_is_mine.cfg:751
+msgid "No matter. Now you die and get a new life."
+msgstr "Не важно. Ты умрёшь и получишь новую жизнь."
+
+#: scenarios/07_vengeance_is_mine.cfg:755
+msgid "Noooooooooo!!!"
+msgstr "Неееееееееееет!!!"
+
+#: scenarios/07_vengeance_is_mine.cfg:795
+msgid "I have putrefied..."
+msgstr "Я разлагаюсь..."
+
+#: scenarios/07_vengeance_is_mine.cfg:799
+msgid "Yeah."
+msgstr "Да."
+
+#: scenarios/07_vengeance_is_mine.cfg:845
+msgid "Hey! I told you to transform him into zombie! ...It seems my leadership has declined. I couldn't accomplish my ends under such circumstances..."
+msgstr "Эй! Я же приказывал вам обратить его в зомби!.. Похоже моё влияние уменьшилось. Так я ничего не добьюсь..."
+
+#: scenarios/08_the_dead_bondage.cfg:4
+msgid "The Dead Bondage 2"
+msgstr "Мёртвый плен 2"
+
+#: scenarios/08_the_dead_bondage.cfg:32 scenarios/08_the_dead_bondage0a.cfg:55
+#: scenarios/08_the_dead_bondage0b.cfg:34
+#: scenarios/08_the_dead_bondage0c.cfg:40
+#: scenarios/12_the_magic_mountain.cfg:48
+#: scenarios/12_the_magic_mountain.cfg:68
+#: scenarios/14_night_of_the_living_dead.cfg:38
+#: scenarios/14_night_of_the_living_dead.cfg:73
+#: scenarios/14_night_of_the_living_dead.cfg:93
+#: scenarios/14_night_of_the_living_dead.cfg:114
+#: scenarios/14_night_of_the_living_dead.cfg:135
+#: scenarios/14_night_of_the_living_dead.cfg:156
+#: scenarios/14_night_of_the_living_dead.cfg:178
+#: scenarios/14_night_of_the_living_dead.cfg:194 units/crows_Lich.cfg:4
+msgid "Lich"
+msgstr "Лич"
+
+#: scenarios/08_the_dead_bondage.cfg:74
+msgid "Elves"
+msgstr "Эльфы"
+
+#: scenarios/08_the_dead_bondage.cfg:85
+msgid "Let's rot the forest in which elves live!"
+msgstr "Сгноим эльфом вместе с их лесом!"
+
+#: scenarios/08_the_dead_bondage.cfg:101
+msgid "Dwarves"
+msgstr "Гномы"
+
+#: scenarios/08_the_dead_bondage.cfg:113
+msgid "Let's bury Dwarves alive!"
+msgstr "Похороним гномов заживо!"
+
+#: scenarios/08_the_dead_bondage.cfg:129
+msgid "Drakes"
+msgstr "Драконы"
+
+#: scenarios/08_the_dead_bondage.cfg:141
+msgid "Let's hunt Drakes!"
+msgstr "Поохотимся на драконов!"
+
+#: scenarios/08_the_dead_bondage.cfg:158
+msgid "Attack..."
+msgstr "Нападаем..."
+
+#: scenarios/08_the_dead_bondage.cfg:174
+msgid "Elves are in the forest. They are skillful marksmen. Their dexterity will be useful to us."
+msgstr "В лесах обитают эльфы. Они отличаются завидной ловкостью и меткостью. А эти качества будут нам полезны."
+
+#: scenarios/08_the_dead_bondage.cfg:187
+msgid "Dwarves are in the mountain. They have unmatched protection. Their resistance will compensate our weakness."
+msgstr "В горах мы отыщем гномов. Их защита непревзойдённа и уравновесит наши слабости."
+
+#: scenarios/08_the_dead_bondage.cfg:200
+msgid "Drakes are in the sand. They wield fire. If we can get their dreadful power..."
+msgstr "В пустыне мы повстречаем драконов. Если мы подчиним себе их огненное дыхание, то обретём невероятную силу..."
+
+#: scenarios/08_the_dead_bondage.cfg:214 scenarios/08_the_dead_bondage.cfg:221
+#: scenarios/08_the_dead_bondage.cfg:228
+msgid "Everything went perfectly."
+msgstr "Всё прошло отлично."
+
+#: scenarios/08_the_dead_bondage.cfg:243
+msgid "So as the undead and as the living, I've got a score to settle with the lich."
+msgstr "И у живого, и у мертвого, у меня есть особые причины, чтобы поквитаться с личем."
+
+#: scenarios/08_the_dead_bondage.cfg:247
+msgid "My goal is both to avenge my wife's death and to liberate all undead from his rule. For this reason, I must have a showdown with him."
+msgstr "Я хочу отомстить за гибель моей супруги и освободить всех мертвецов от его правления. Поэтому, я сойдусь с ним в битве."
+
+#: scenarios/08_the_dead_bondage.cfg:255
+msgid "You are utterly at a loss for words, aren't you?"
+msgstr "Мои слова привели вас в замешательство?"
+
+#: scenarios/08_the_dead_bondage.cfg:263
+msgid "No! That's the stuff!!"
+msgstr "Нет! Но это невероятно!!!"
+
+#: scenarios/08_the_dead_bondage.cfg:267
+msgid "Anyway, you are the only leader of ours, sir."
+msgstr "Что бы ни случилось, ты и только ты наш предводитель."
+
+#: scenarios/08_the_dead_bondage.cfg:277
+msgid "It's exciting to finally hunt a big one again. I'll organize a troop of zombie mages!"
+msgstr "Как это здорово вновь принять участие в грандиозной охоте. Я организую отряд из одарённых магическими способностями зомби!"
+
+#: scenarios/08_the_dead_bondage.cfg:282
+msgid "...Thank you."
+msgstr "...Благодарю."
+
+#: scenarios/08_the_dead_bondage.cfg:286
+msgid "Now that that's been decided on, let's enhance our capabilities! Elves, Dwarves and Drakes are still powerful. Which of these will you fight first?"
+msgstr "Теперь, когда между нами всё решено, давайте умножим нашу мощь! Эльфы, гномы и драконы всё ещё сохранили свои силы. С кем будем сражаться в первую очередь?"
+
+#: scenarios/08_the_dead_bondage.cfg:316
+msgid "Well, it's time to fight against the ancient lich!"
+msgstr "Пора взяться за древнего лича!"
+
+#: scenarios/08_the_dead_bondage0a.cfg:5
+msgid "The Dead Bondage"
+msgstr "Мёртвый плен"
+
+#: scenarios/08_the_dead_bondage0a.cfg:15
+msgid "After a tough fight, Macabre defeated the great mage Philosophy, and took control of his remains. Everything went quite well. 'Now is the time for action...' But then Macabre heard the voice again."
+msgstr "После долгого и трудного боя, Макабр одолел великого мага Философа и обратил его останки в послушного мертвеца. Казалось, всё идёт хорошо. <i>'Пришла пора действовать...'</i> Но в этот момент Макабр вновь услышал Голос."
+
+#: scenarios/08_the_dead_bondage0a.cfg:19
+msgid "...You are at the meridian of your power, aren't you?..."
+msgstr "...Ты под моей властью, не правда ли..."
+
+#: scenarios/08_the_dead_bondage0a.cfg:22
+msgid "...But, are you sure you are not under misapprehension?..."
+msgstr "...И в самом деле полагаешь, что не подвержен заблуждениям?.."
+
+#: scenarios/08_the_dead_bondage0a.cfg:25
+msgid "...What are you planning to do with your new-found power?..."
+msgstr "...Куда повернёшь обретённую силу?.."
+
+#: scenarios/08_the_dead_bondage0a.cfg:28
+msgid "...I must say, oblivion is a sin..."
+msgstr "...Забвение — грех..."
+
+#: scenarios/08_the_dead_bondage0a.cfg:31
+msgid "...Because oblivion calms even fear..."
+msgstr "...Ибо забвение способно поглотить даже страх..."
+
+#: scenarios/08_the_dead_bondage0a.cfg:77
+msgid "Not that again!!! I will only do my OWN bidding!!!"
+msgstr "Нет! Только не снова! Я хочу следовать только СВОИМ приказам!!!"
+
+#: scenarios/08_the_dead_bondage0a.cfg:81
+msgid "If you don't quit tripping..."
+msgstr "Если ты не заткнёшься..."
+
+#: scenarios/08_the_dead_bondage0a.cfg:97
+msgid "WHAT WILL YOU DO IF I DON'T ?"
+msgstr "И ЧТО ТЫ СДЕЛАЕШЬ, ЕСЛИ Я НЕ ОСТАВЛЮ ТЕБЯ?"
+
+#: scenarios/08_the_dead_bondage0a.cfg:106
+#: scenarios/08_the_dead_bondage0b.cfg:268 scenarios/09c_rusty_axe.cfg:148
+#: scenarios/13_day_of_the_dead.cfg:272 scenarios/14_bridge.cfg:146
+#: scenarios/14_night_of_the_living_dead.cfg:1971
+msgid "!?"
+msgstr "!?"
+
+#: scenarios/08_the_dead_bondage0a.cfg:121
+#: scenarios/08_the_dead_bondage0b.cfg:37
+#: scenarios/12_the_magic_mountain.cfg:51 scenarios/13_day_of_the_dead.cfg:205
+#: scenarios/14_night_of_the_living_dead.cfg:41
+msgid "Mal Oryzias"
+msgstr "Мэл Орисиас"
+
+#: scenarios/08_the_dead_bondage0a.cfg:142
+msgid "Long time no see, Macabre."
+msgstr "Сколько зим, сколько лет, Макабр."
+
+#: scenarios/08_the_dead_bondage0a.cfg:147
+msgid "You!! How dare you come here!"
+msgstr "Ты!!! Как ты посмел явиться сюда!"
+
+#: scenarios/08_the_dead_bondage0a.cfg:152
+msgid "That's a really mean thing to say, MY BOY."
+msgstr "Мой приход означает, что мне в самом деле есть что тебе сказать, МОЙ МАЛЬЧИК."
+
+#: scenarios/08_the_dead_bondage0a.cfg:157
+msgid "Shut up! I won't let you get away!!"
+msgstr "Заткнись! Я не позволю тебе уйти!!!"
+
+#: scenarios/08_the_dead_bondage0a.cfg:190
+msgid "Aw man! First things first."
+msgstr "Тише, тише! Сначала о главном."
+
+#: scenarios/08_the_dead_bondage0a.cfg:202
+msgid "What a difficult child... OK, I'll teach you a lesson. Come on!!"
+msgstr "Какой непослушный ребёнок... Ну что же, я преподам тебе урок смирения. Начнём!!!"
+
+#: scenarios/08_the_dead_bondage0a.cfg:207
+msgid "My pleasure!!"
+msgstr "С удовольствием!!!"
+
+#: scenarios/08_the_dead_bondage0a.cfg:279
+msgid "That's all? ...Well, this is my round!!"
+msgstr "И это всё?.. Тогда раунд мой."
+
+#: scenarios/08_the_dead_bondage0a.cfg:354
+msgid "Aaaaarrrrrgggghhhhhhh!!!"
+msgstr "Ааааааррррррггггхххххххххх!!!"
+
+#: scenarios/08_the_dead_bondage0a.cfg:361
+msgid "Does that ring a bell?"
+msgstr "Кто это звонит в колокол?"
+
+#: scenarios/08_the_dead_bondage0a.cfg:378
+msgid "...When next we meet, come to heel or become void. Think well!!"
+msgstr "…При следующей нашей встрече, приди поклониться или обратишся в ничто. Поразмышляй об этом на досуге!!!"
+
+#: scenarios/08_the_dead_bondage0a.cfg:417
+msgid "What happened!? You are injured very much!!"
+msgstr "Что случилось? Ты ранен?"
+
+#: scenarios/08_the_dead_bondage0a.cfg:421
+msgid "Leave it to me!"
+msgstr "Оставь его для меня!"
+
+#: scenarios/08_the_dead_bondage0a.cfg:443
+msgid "Are you all right?"
+msgstr "Всё в порядке?"
+
+#: scenarios/08_the_dead_bondage0a.cfg:448
+msgid "...Yes."
+msgstr "...Да."
+
+#: scenarios/08_the_dead_bondage0a.cfg:453
+msgid "What..."
+msgstr "Что ..."
+
+#: scenarios/08_the_dead_bondage0a.cfg:458
+msgid "I was insufficiently aware of the problem...We need more power...Because I must bring down an ancient lich!!!"
+msgstr "Я не знал насколько глубока бездна... Нам нужно больше, ещё больше сил... Иначе мне не одолеть древнего лича!!!"
+
+#: scenarios/08_the_dead_bondage0a.cfg:467
+msgid "A...Ancient lich? Are you sure?"
+msgstr "Д... д... древнего лича? А ты и в самом деле уверен?"
+
+#: scenarios/08_the_dead_bondage0a.cfg:472
+msgid "Yes...this is something from my past when I was still a living human. Because of my talent for tactics, I was selected as a military commander at a young age. I led my country to victory in many wars. At last I was ordered to put down an ancient lich. He had already brought calamity to many countries by then."
+msgstr "Да... Всё теперешнее берёт начало в прошлом, когда я ещё был живым человеком. Благодаря военным талантам, уже в молодом возрасте меня избрали главнокомандующим. Не одну победу принес я своей стране, но вот однажды мне приказали выступить против древнего лича. К тому времени, он принёс уже много бедствий всему живому..."
+
+#: scenarios/08_the_dead_bondage0a.cfg:476
+msgid "It was a horrible war. Many soldiers were killed, but we managed to eliminate hordes of undead. The war was a back and forth affair. Before I knew it, the only survivors left were my wife, who was also my aid, the ancient lich and myself. My wife and I hunted down the lich in the end."
+msgstr "Это была ужасная война. Много воинов пало в битвах, но нам удалось разбить мертвецкие орды. Война поглотила всё кругом и в какой-то момент я не мог сказать, остался ли ещё кто живой... Я знал только о себе и моей дорогой супруге. Все годы она была мне верной опорой и надёжным помощником... Закончилось всё тем, что мы вместе с ней выследили лича."
+
+#: scenarios/08_the_dead_bondage0a.cfg:480
+msgid "Or at least I thought so."
+msgstr "По крайней мере, я так думал."
+
+#: scenarios/08_the_dead_bondage0b.cfg:5
+msgid "Retrospection 1"
+msgstr "Былое и думы 1"
+
+#: scenarios/08_the_dead_bondage0b.cfg:53
+#: scenarios/08_the_dead_bondage0b.cfg:193
+#: scenarios/14_night_of_the_living_dead.cfg:1455
+msgid "Vita"
+msgstr "Вита"
+
+#: scenarios/08_the_dead_bondage0b.cfg:68
+msgid "Surrender, lich! You shall know the wrath of all the unknown soldiers and citizens killed by you!"
+msgstr "Сдавайся, лич! "
+
+#: scenarios/08_the_dead_bondage0b.cfg:72
+msgid "Tsk! I didn't think.. I would be taken from behind by mere humans.."
+msgstr "Тссс! Я так не думаю... "
+
+#: scenarios/08_the_dead_bondage0b.cfg:93
+msgid "...he he he..."
+msgstr "...хе хе хе..."
+
+#: scenarios/08_the_dead_bondage0b.cfg:97
+msgid "Have you gone mad?"
+msgstr "Ты спятил?"
+
+#: scenarios/08_the_dead_bondage0b.cfg:101
+msgid "Get her!"
+msgstr "Получи!"
+
+#: scenarios/08_the_dead_bondage0b.cfg:129
+msgid "Aaaaaarrrrrhhhh!!!"
+msgstr "Ааааааааррррррххх!!!"
+
+#: scenarios/08_the_dead_bondage0b.cfg:133
+#: scenarios/08_the_dead_bondage0b.cfg:162
+msgid "Vita!!"
+msgstr "Вита!!!"
+
+#: scenarios/08_the_dead_bondage0b.cfg:166
+msgid "Macabre... Sorry... I...I can't...be...with you...any more..."
+msgstr "Макабр... Прости... Прости... Любимый... Я... Я не могу... остаться... с тобой..."
+
+#: scenarios/08_the_dead_bondage0b.cfg:170
+msgid "No!! Vita! Don't die!"
+msgstr "Нет!!! Вита! Не покидай меня!"
+
+#: scenarios/08_the_dead_bondage0b.cfg:179
+msgid "Noooooooo!!!!"
+msgstr "Нееееееет!!!"
+
+#: scenarios/08_the_dead_bondage0b.cfg:184
+msgid "Ha ha ha! I'm sorry to come between the two of you...But I lack the manpower. Arise and serve me now..."
+msgstr "Ха-ха-ха! Как жаль, что приходиться выбирать между вами... Но сейчас я испытываю нехватку верных слуг. Восстань и повинуйся мне..."
+
+#: scenarios/08_the_dead_bondage0b.cfg:202
+#: scenarios/14_night_of_the_living_dead.cfg:1486
+msgid "Vi...Vita?"
+msgstr "Ви... Вита?"
+
+#: scenarios/08_the_dead_bondage0b.cfg:207
+msgid "Muwahahahaha!! You shall know eternal life which is worse than death!"
+msgstr "Мухахахахахахаха!!! Познайте же вечную жизнь, которая хуже смерти!"
+
+#: scenarios/08_the_dead_bondage0b.cfg:228
+msgid "Vita!? Stop! Get a hold of yourself!!"
+msgstr "Вита!? Остановись! "
+
+#: scenarios/08_the_dead_bondage0b.cfg:249
+msgid "Arhhh!!"
+msgstr "Арххх!!!"
+
+#: scenarios/08_the_dead_bondage0b.cfg:254
+msgid "Wahahaha! It won't get you anywhere! She can't hear you any longer! Now she is my mere puppet!"
+msgstr "Ахахахаха! Теперь она уже не принадлежит тебе! И не послушает твоих слов! Теперь она обычная марионетка в моих руках!"
+
+#: scenarios/08_the_dead_bondage0b.cfg:263
+msgid "...ill...me..."
+msgstr "...мне...плохо..."
+
+#: scenarios/08_the_dead_bondage0b.cfg:273
+msgid "! Vita?"
+msgstr ""
+"!\n"
+"Вита?"
+
+#: scenarios/08_the_dead_bondage0b.cfg:278
+msgid "...please...kill...me...Macabre... My...body...has...a...mind...of...its...own... I...don't...wanna...kill...you..."
+msgstr "...пожалуйста... молю... убей... меня... Макабр... Моё... тело... и... мой... разум... не... слушают... меня... Я... не... хочу... убивать... тебя..."
+
+#: scenarios/08_the_dead_bondage0b.cfg:283
+msgid "Vita!! Do you hear me!?"
+msgstr "Вита! Ты слышишь меня?"
+
+#: scenarios/08_the_dead_bondage0b.cfg:304
+msgid "Nooo!!"
+msgstr "Нееет!!"
+
+#: scenarios/08_the_dead_bondage0b.cfg:309
+msgid "Will wonders never cease! She didn't seem to lose her intelligence. But...haha... It's obvious that she has lost her will!"
+msgstr "Мир полон удивительного! Она, кажется, не потеряла свой разум. Но... ха-ха... она потеряла свою волю!"
+
+#: scenarios/08_the_dead_bondage0b.cfg:314
+msgid "KILL ME!!! MACABRE!!!"
+msgstr "УБЕЙ МЕНЯ!!! МАКАБР!!!"
+
+#: scenarios/08_the_dead_bondage0b.cfg:319
+msgid "...OOOOOOOOHHHHHHHHHHHHH!!!!"
+msgstr "...ОООООООООООХХХХХХХХХХХХХХХХХХ!!!"
+
+#: scenarios/08_the_dead_bondage0b.cfg:347
+msgid "...Thank...you... I...love..."
+msgstr "...Спасибо...тебе...я...люблю..."
+
+#: scenarios/08_the_dead_bondage0b.cfg:358
+msgid "He he he... You killed your wife. What an infernal deed! Your wife would have lived eternally. He he he..."
+msgstr "Хе-хе-хе... Ты убил свою верную супругу. Ай-яй-яй! Какой чудовищный поступок! А ведь твоя жена могла жить вечно. Хе хе хе..."
+
+#: scenarios/08_the_dead_bondage0b.cfg:363
+msgid "I won't take it..."
+msgstr "Вита, я не уберег тебя..."
+
+#: scenarios/08_the_dead_bondage0b.cfg:374
+msgid "I'M GOING TO GET YOU!!"
+msgstr "НО С ТОБОЙ, ЛИЧ, Я РАЗДЕЛАЮСЬ!"
+
+#: scenarios/08_the_dead_bondage0b.cfg:379
+msgid "Humph! Injured you versus me...It is obvious who will win, isn't it? Well, come on. But I will never send you to your wife. You shall live eternally as my puppet!"
+msgstr "Пффф! Один раненый человек против меня, бессмертного лича... Очевидно, кто победит, не так ли? Хорошо, начнём. Но знай, я не отправлю тебя в небытие в объятия дражайшей супруге, я наделю тебя вечной жизнью, как моего раба!"
+
+#: scenarios/08_the_dead_bondage0b.cfg:384
+msgid "Cut the crap!!"
+msgstr "Хватит этого дерьма!!!"
+
+#: scenarios/08_the_dead_bondage0c.cfg:5
+msgid "Retrospection 2"
+msgstr "Былое и думы 2"
+
+#: scenarios/08_the_dead_bondage0c.cfg:15
+msgid "Of course I was defeated. The lich transformed me into a living dead. But things fell short of his expectations. I had not only intelligence, but also a strong will. It was the will to kill the lich, but I couldn't allow him to catch wind of my intentions."
+msgstr "Конечно, я оказался сражён. Лич обратил меня в живое подобие мертвеца. Но кое-что ускользнуло от его внимания. Мой разум не погрузился в сон, и воля моя не угасла. Меня наполняло желание убить лича, но я не мог позволить своим эмоциям выйти наружу."
+
+#: scenarios/08_the_dead_bondage0c.cfg:18
+msgid "If he had realized it, he would have destroyed me without hesitating. I saw it immediately, so I waited until the right conditions were met. I continued to behave as an obedient, hungry and pitiful puppet. Several years later, I saw my chance and broke out of the den of the lich."
+msgstr "Если бы он понял, что я не утратил своего естества, то убил меня не раздумывая. Я чувствовал это, я ждал, пока не подвернётся подходящий случай и продолжал вести себя, как верный голодный пёс. Через несколько лет мне представилась возможность сбежать из его логова."
+
+#: scenarios/08_the_dead_bondage0c.cfg:51
+msgid "Villager"
+msgstr "Крестьянин"
+
+#: scenarios/08_the_dead_bondage0c.cfg:75
+msgid "This...should...be...far...enough."
+msgstr "Это...очень...далеко..."
+
+#: scenarios/08_the_dead_bondage0c.cfg:128
+msgid "Did you find him?"
+msgstr "Ты нашел беглеца?"
+
+#: scenarios/08_the_dead_bondage0c.cfg:132
+msgid "Nay. But there's a human village further on. They will kill him."
+msgstr "Нет. Но на его пути человеческая деревня. Люди не станут церемониться с ходячим трупом."
+
+#: scenarios/09a_rotten_forest.cfg:6
+msgid "Rotten Forest"
+msgstr "Гнилой Лес"
+
+#: scenarios/09a_rotten_forest.cfg:18
+msgid "Macabre took strides toward the forest which Elves lived in."
+msgstr "Макабр направил свою армию в сторону Гнилого Леса."
+
+#: scenarios/09a_rotten_forest.cfg:48
+msgid "Thranduil"
+msgstr "Трандуил"
+
+#: scenarios/09a_rotten_forest.cfg:99
+msgid "Legolas"
+msgstr "Леголас"
+
+#: scenarios/09a_rotten_forest.cfg:144 scenarios/09b_falling_sky.cfg:156
+#: scenarios/09c_rusty_axe.cfg:108 scenarios/12_the_magic_mountain.cfg:120
+#: scenarios/12_the_magic_mountain.cfg:602
+#: scenarios/13_day_of_the_dead.cfg:196
+#: scenarios/14_night_of_the_living_dead.cfg:663
+msgid "Death of Philosophy"
+msgstr "Смерть Философа"
+
+#: scenarios/09a_rotten_forest.cfg:155
+msgid "Oh my god! Why couldn't humans annihilate them? It's over...All of us Elves will become ZOMBIES!!"
+msgstr "О великий Элох! Почему люди не смогли уничтожить эти порождения бездны? Всё кончено... Все мы, эльфы, обратимся в бездушных мертвецов!!!"
+
+#: scenarios/09a_rotten_forest.cfg:159
+msgid "Please never say that, King! We are the glorious Elves! Let's fight!"
+msgstr "Мой Король, не отчаивайтесь! Мы эльфы! Мы непревзойдённые воины! Об этом сражении сложат песни!"
+
+#: scenarios/09a_rotten_forest.cfg:163
+msgid "Hmm...ok, We have no choice but to do so..."
+msgstr "Хм... Ты прав: нужно биться. И у нас всё равно нет иного выбора."
+
+#: scenarios/09a_rotten_forest.cfg:167
+msgid "My force of rangers! Fight on our honor to the last man!!"
+msgstr "Мои лесные братья! Сразимся же с неприятелем! Жизнь, честь и острые стрелы!"
+
+#: scenarios/09a_rotten_forest.cfg:171
+msgid "Coward king and heroic warrior...It's obvious which personnel is necessary for us."
+msgstr "Трусливый король и доблестный воин... Вот и понятно, кто нам нужен."
+
+#: scenarios/09a_rotten_forest.cfg:175
+msgid "Don't overlook him."
+msgstr "Не упустите его."
+
+#: scenarios/09a_rotten_forest.cfg:192
+msgid "Glory to Elves!!"
+msgstr "Слава эльфам!!!"
+
+#: scenarios/09a_rotten_forest.cfg:196
+msgid "We need his heroic spirit! Cut his heart out!!"
+msgstr "Нам просто необходим его героический дух! Вырвите сердце этого эльфа!!!"
+
+#: scenarios/09a_rotten_forest.cfg:238
+msgid "This is a heart of elf. Should he pick it up?"
+msgstr "Эльфийское сердце. Взять его или оставить?"
+
+#: scenarios/09a_rotten_forest.cfg:239
+msgid "The Heart of Elf"
+msgstr "Сердце Эльфа"
+
+#: scenarios/09a_rotten_forest.cfg:241
+msgid "He ate the heart and got ambush, marksman and other elvish feature!"
+msgstr "Он съел сердце и теперь может укрываться в засаде, а также получил ещё одну эльфийскую способность."
+
+#: scenarios/09a_rotten_forest.cfg:277 scenarios/09b_falling_sky.cfg:393
+#: scenarios/09c_rusty_axe.cfg:289
+msgid "Well done. If there is a man among you, let him eat the heart!"
+msgstr "Отлично. Если среди вас есть достойный, то пусть съест сердце храброго эльфийского воина!"
+
+#: scenarios/09b_falling_sky.cfg:6
+msgid "Falling Sky"
+msgstr "Рухнувшие небеса"
+
+#: scenarios/09b_falling_sky.cfg:18
+msgid "Macabre advanced into the desert which Drakes were based in."
+msgstr "Макабр повёл свою армию в пустыню, на встречу с драконами."
+
+#: scenarios/09b_falling_sky.cfg:48
+msgid "Chrysophylax"
+msgstr "Крисофилакс"
+
+#: scenarios/09b_falling_sky.cfg:68
+msgid "Saurian"
+msgstr "Ящер"
+
+#: scenarios/09b_falling_sky.cfg:167
+msgid "Damn Undead! Kill them all!"
+msgstr "Проклятые мертвецы! Убейте их всех!"
+
+#: scenarios/09b_falling_sky.cfg:171
+msgid "Support Drakes!!"
+msgstr "Поддержим драконов!"
+
+#: scenarios/09b_falling_sky.cfg:193
+msgid "Stop!!"
+msgstr "Стойте!"
+
+#: scenarios/09b_falling_sky.cfg:197
+msgid "What are you guarding?"
+msgstr "Что вы охраняете?"
+
+#: scenarios/09b_falling_sky.cfg:201
+msgid "Not guarding! There is a dangerous drake in this prison! We should never liberate him!"
+msgstr "В этой тюрьме содержат в заточении опасного дракона! Ему нельзя оказаться на свободе!"
+
+#: scenarios/09b_falling_sky.cfg:205
+msgid "Hm...interesting...very interesting. I really want to see him."
+msgstr "Гм... интересно... очень интересно. Мне хочется на него посмотреть."
+
+#: scenarios/09b_falling_sky.cfg:226
+msgid "....What...happened..."
+msgstr "...Что...произошло..."
+
+#: scenarios/09b_falling_sky.cfg:238
+msgid "Smok Wawelski"
+msgstr "Смок Вавельски"
+
+#: scenarios/09b_falling_sky.cfg:254
+msgid "....Undead?..."
+msgstr "...Мертвецы?.."
+
+#: scenarios/09b_falling_sky.cfg:258
+msgid "Yes, I hear you are mad. Show your madness!"
+msgstr "Да. Я слышал, дракон, что ты безумен. Так покажи мне своё безумие!"
+
+#: scenarios/09b_falling_sky.cfg:262
+msgid "...I was called a hero in a time past...But now I'm just called mad..."
+msgstr "...В былые дни меня называли героем... А сейчас называют безумцем..."
+
+#: scenarios/09b_falling_sky.cfg:266
+msgid "...Muhahahaha!!! OK! I will show my MADNESS! I will burn the whole world!!"
+msgstr "...Мухахахахаха!!! Хорошо! Я покажу тебе своё БЕЗУМИЕ! Я выжгу дотла весь мир!"
+
+#: scenarios/09b_falling_sky.cfg:270
+msgid "Good... Cut his heart out! That will give us a new power!!"
+msgstr "Отлично... Вырвите ему сердце! Оно наделит нас невиданной мощью!"
+
+#: scenarios/09b_falling_sky.cfg:281
+msgid "...It's over...Enjoy my mad heart..."
+msgstr "...Всё кончено... Наслаждайтесь моим безумным сердцем..."
+
+#: scenarios/09b_falling_sky.cfg:323
+msgid "This is a heart of drake. Should he pick it up?"
+msgstr "Это сердце дракона. Боец возьмёт его или оставит?"
+
+#: scenarios/09b_falling_sky.cfg:324
+msgid "The Heart of Drake"
+msgstr "Сердце дракона"
+
+#: scenarios/09b_falling_sky.cfg:326
+msgid "He ate the heart and got fire breath and fire resistance!"
+msgstr "Он съел сердце дракона и обрёл огненное дыхание и сопротивление к обжигающему пламени."
+
+#: scenarios/09b_falling_sky.cfg:329
+msgid "fire breath"
+msgstr "огненное дыхание"
+
+#: scenarios/09c_rusty_axe.cfg:6
+msgid "Rusty Axe"
+msgstr "ржавый топор"
+
+#: scenarios/09c_rusty_axe.cfg:18
+msgid "Macabre set foot on the mountainous region which is Dwarves' called home."
+msgstr "Макабр повёл свою армию в горы, в земли гномов."
+
+#: scenarios/09c_rusty_axe.cfg:48
+msgid "Balin"
+msgstr "Балин"
+
+#: scenarios/09c_rusty_axe.cfg:67
+msgid "monster"
+msgstr "монстр"
+
+#: scenarios/09c_rusty_axe.cfg:117
+msgid "Gimli"
+msgstr "Гимли"
+
+#: scenarios/09c_rusty_axe.cfg:134
+msgid "Bah! Nasty undead! Don't let them encroach on our territory!"
+msgstr "Вот те на! Поганые мертвецы! Не дадим им топтать наши горы!"
+
+#: scenarios/09c_rusty_axe.cfg:138
+msgid "Yes, si.."
+msgstr "Да, мой коро..."
+
+#: scenarios/09c_rusty_axe.cfg:161
+msgid "Damn, Yeti! Not now!! ...But I will never leave my position. It's my duty!"
+msgstr "Проклятье! Йети! Только не сейчас... Но я никогда не сдам рубежи. Я до конца исполню свой долг!"
+
+#: scenarios/09c_rusty_axe.cfg:168
+msgid "Good. Then go for it."
+msgstr "Хорошо. Он нам подойдёт."
+
+#: scenarios/09c_rusty_axe.cfg:190
+msgid "Arrgh!!...But I have no regrets about my death."
+msgstr "Аррг!!!... Я сражён... У меня нет оправданий своей гибели..."
+
+#: scenarios/09c_rusty_axe.cfg:194
+msgid "Salute. By the way, give me your heart, please."
+msgstr "Приветствую, воин. Дай нам, пожалуйста, своё сердце."
+
+#: scenarios/09c_rusty_axe.cfg:198
+msgid "...Do whatever you want..."
+msgstr "...Делайте, что хотите..."
+
+#: scenarios/09c_rusty_axe.cfg:202
+msgid "I'll take you up on your kind offer. Cut his heart out!"
+msgstr "Благодарю за добрую волю. Вырвите его сердце!"
+
+#: scenarios/09c_rusty_axe.cfg:244
+msgid "This is a heart of dwarf. Should he pick it up?"
+msgstr "Вот сердце гнома. Взять его или оставить?"
+
+#: scenarios/09c_rusty_axe.cfg:245
+msgid "The Heart of Dwarf"
+msgstr "сердце гнома"
+
+#: scenarios/09c_rusty_axe.cfg:247
+msgid "He ate the heart and got steadfast, all resistances and other dwarvish feature!"
+msgstr "Он съел сердце и его сопротивления возросли. Появилась и ещё одна гномья особенность."
+
+#: scenarios/12_the_magic_mountain.cfg:6
+msgid "The Magic Mountain"
+msgstr "Волшебная гора"
+
+#: scenarios/12_the_magic_mountain.cfg:18
+msgid "Macabre defeated Elves, Dwarves and Drakes. Now his target was none other than the damned master, the ancient lich. Macabre knew where the lich was. A long time ago he broke out of there. The lich's den is named Magic Mountain."
+msgstr "Макабр разбил драконов, эльфов и гномов. Теперь его целью стал не кто иной, как сам древний лич. Макабр знал, где искать своего врага. Давным-давно, он сумел уйти из его тайного логова. И место это называлось Волшебной Горой."
+
+#: scenarios/12_the_magic_mountain.cfg:22
+msgid "Contrary to expectation, the lich didn't hinder Macabre's access to the den. Was this a trap or resignation? Either way, Macabre didn't care. He had trampled the living underfoot, transformed them into the dead and governed them. For the sake of what? Now is the time to kill the lich and to change this damned death into liberation. He had no other choice."
+msgstr "Вопреки ожиданиям, лич не пытался остановить Макабра на пути к горе. Может быть, впереди уже подготовлена западня? Макабр старался об этом не думать. Он растоптал жизнь, обратил её в смерть и подчинил себе. И чего ради, чтобы отступить? Нет, он не сойдёт с выбранного пути, он убьёт лича и с помощью смерти принесёт освобождение. У Макабра не было иного выбора."
+
+#: scenarios/12_the_magic_mountain.cfg:71
+#: scenarios/12_the_magic_mountain.cfg:488
+msgid "Corvus"
+msgstr "Корвис"
+
+#: scenarios/12_the_magic_mountain.cfg:140
+msgid "This is a sacred ring which renders melee attacks arcane type and increases the resistance to arcane type. Should he pick it up?"
+msgstr "Это священное кольцо, которое добавляет мистическую атаку, а также увеличивает сопротивление к магическим атакам. Боец возьмёт его?"
+
+#: scenarios/12_the_magic_mountain.cfg:141
+msgid "The Sacred Ring"
+msgstr "Священное кольцо"
+
+#: scenarios/12_the_magic_mountain.cfg:143
+msgid "He put on the ring. As a result, his melee attacks changed into arcane type and his resistance to arcane type increased by 20%!"
+msgstr "Тот, кто оденет это кольцо получит магическую атаку и увеличит сопротивление к мистическим атакам на 20%!"
+
+#: scenarios/12_the_magic_mountain.cfg:158
+msgid "This is a wind cloak which enables the wearer to skirmish and increases his movement points. Should he pick it up?"
+msgstr "Владелец этого плаща сможет прокрадываться между противниками и меньше уставать в пути."
+
+#: scenarios/12_the_magic_mountain.cfg:159
+msgid "The Wind Cloak"
+msgstr "Плащ Ветра"
+
+#: scenarios/12_the_magic_mountain.cfg:161
+msgid "He put on the cloak. As a result, he got skirmisher ability and extra movement points!"
+msgstr "Он надевает плащ и становится неуловимым, а также получает дополнительные очки движения."
+
+#: scenarios/12_the_magic_mountain.cfg:177
+msgid "Vagabone"
+msgstr "Вагабон"
+
+#: scenarios/12_the_magic_mountain.cfg:240
+msgid "This is the den of the lich. We must exterminate him, but be careful! We don't know what traps he set up..."
+msgstr "Вот мы и в логове лича. Нужно действовать осторожно: ведь нет никакой уверенности, что он не заманивает нас в ловушку..."
+
+#: scenarios/12_the_magic_mountain.cfg:250
+msgid "IT'S TOO LATE!!"
+msgstr "СЛИШКОМ ПОЗДНО!!!"
+
+#: scenarios/12_the_magic_mountain.cfg:266
+msgid "!!"
+msgstr "!!"
+
+#: scenarios/12_the_magic_mountain.cfg:270
+msgid "You have no chance to get away. We've got you here!"
+msgstr "Теперь у вас нет ни шанса уйти отсюда!"
+
+#: scenarios/12_the_magic_mountain.cfg:274
+msgid "Bah! I'm not about to get away! Just you wait!!"
+msgstr "Я пришел сюда не для того, чтобы поворачивать обратно!"
+
+#: scenarios/12_the_magic_mountain.cfg:309
+msgid "Never wake him up! He may completely ignore any puppets, though. Oryzias"
+msgstr "Не стоит тревожить покой спящего! Ему нет дела до жалких марионеток."
+
+#: scenarios/12_the_magic_mountain.cfg:335
+msgid "What is this space?"
+msgstr "Что это за место?"
+
+#: scenarios/12_the_magic_mountain.cfg:351
+msgid "Orlok"
+msgstr "Орлок"
+
+#: scenarios/12_the_magic_mountain.cfg:370
+msgid "Who are you?"
+msgstr "Кто ты такой?"
+
+#: scenarios/12_the_magic_mountain.cfg:381
+msgid "I am Macabre."
+msgstr "Я Макабр."
+
+#: scenarios/12_the_magic_mountain.cfg:385
+msgid "Macabre? I know that name...but aren't you a zombie?"
+msgstr "Макабр? Я слышал это имя... но разве Макабр не зомби?"
+
+#: scenarios/12_the_magic_mountain.cfg:389
+msgid "I was born again."
+msgstr "Я родился вновь."
+
+#: scenarios/12_the_magic_mountain.cfg:395
+msgid "I...I'm a follower of Mr. Macabre."
+msgstr "Я... Я последователь Макабра."
+
+#: scenarios/12_the_magic_mountain.cfg:399
+msgid "Macabre? Ah... I have recently heard that there is an intelligent zombie that goes by that name. Is he here?"
+msgstr "Макабр? Ах да... Я слышал, что появился умный зомби с таким же именем. Он здесь?"
+
+#: scenarios/12_the_magic_mountain.cfg:403
+msgid "Now he is not a zombie...but you are right about the rest."
+msgstr "Теперь он не зомби... Но всё остальное правда."
+
+#: scenarios/12_the_magic_mountain.cfg:410
+msgid "Hm...and what are you doing now?"
+msgstr "Гм... и что ты намерен предпринять?"
+
+#: scenarios/12_the_magic_mountain.cfg:414
+msgid "We must kill an ancient lich."
+msgstr "Мы должны убить древнего лича."
+
+#: scenarios/12_the_magic_mountain.cfg:418
+msgid "Ancient lich? Ho...sounds fun."
+msgstr "Убить древнего лича? Хо!.. звучит забавно."
+
+#: scenarios/12_the_magic_mountain.cfg:422
+msgid "I'm an elder vampire named Orlok. Shall I do a favor for you?"
+msgstr "Я один из перворождённых вампиров. Имя мне Орлок. Я могу помочь вам?"
+
+#: scenarios/12_the_magic_mountain.cfg:426
+msgid "Really? How comforting! Of course yes!"
+msgstr "В самом деле? Это здорово! Конечно же!"
+
+#: scenarios/12_the_magic_mountain.cfg:471
+msgid "Give us your heart, SON OF A LICH!!"
+msgstr "Отдай нам своё сердце, СЫН ЛИЧА!"
+
+#: scenarios/12_the_magic_mountain.cfg:475
+msgid "Noooooo!!"
+msgstr "Нееееет!"
+
+#: scenarios/12_the_magic_mountain.cfg:479
+msgid "I'm not gonna let you!!!"
+msgstr "Я не позволю!!"
+
+#: scenarios/12_the_magic_mountain.cfg:503
+msgid "Muhahahahahahahaha!!"
+msgstr "Мухахахахахахахаха!"
+
+#: scenarios/12_the_magic_mountain.cfg:507
+msgid "Damn it!!"
+msgstr "Проклятье!"
+
+#: scenarios/12_the_magic_mountain.cfg:518
+msgid "Heck!"
+msgstr "Подонок!"
+
+#: scenarios/12_the_magic_mountain.cfg:523
+msgid "Vagabone! Close the rear!!"
+msgstr "Вагабон! Прикрой наш отход!"
+
+#: scenarios/12_the_magic_mountain.cfg:531
+msgid "Do you show your back to the enemy? Shame on you!!"
+msgstr "Показывать спину врагу? Какой позор!"
+
+#: scenarios/12_the_magic_mountain.cfg:535
+msgid "Humph!! I will tear through this cave!"
+msgstr "Сволочь! Я прорвусь через эту пещеру!"
+
+#: scenarios/12_the_magic_mountain.cfg:539 scenarios/14_bridge.cfg:102
+#: scenarios/14_night_of_the_living_dead.cfg:1558
+msgid "What!?"
+msgstr "Что!?"
+
+#: scenarios/12_the_magic_mountain.cfg:543
+msgid "Have fun!!"
+msgstr "Наслаждайтесь!"
+
+#: scenarios/12_the_magic_mountain.cfg:547
+#: scenarios/15_dawn_of_the_dead.cfg:413
+msgid "Wait!!"
+msgstr "Стой!!!"
+
+#: scenarios/12_the_magic_mountain.cfg:565
+msgid "God!!"
+msgstr "Ничего себе!!!"
+
+#: scenarios/12_the_magic_mountain.cfg:569
+msgid "Hey you, Vagabone! Why do you obey that bastard!? He left you to die!!"
+msgstr "Эй, Вагабон! Почему ты повинуешься этому ублюдку? Ведь он бросил вас на верную смерть!"
+
+#: scenarios/12_the_magic_mountain.cfg:573
+msgid "Meh"
+msgstr "."
+
+#: scenarios/12_the_magic_mountain.cfg:577
+msgid "...OK, you are the paragon of the undead!! Tear him apart!! Hurry up! We must break away and chase after the lich!!"
+msgstr "Ну ладно, ты, образец для подражания!.. Разбейте его на части! Быстрее! Нам ещё нужно догнать лича!"
+
+#: scenarios/12_the_magic_mountain.cfg:586
+msgid "Macabre must reach the signpost."
+msgstr "Макабр должен добраться до указателя."
+
+#: scenarios/12_the_magic_mountain.cfg:628
+msgid "All right! Let's chase after the lich!"
+msgstr "Хорошо! Вперёд, в погоню за личем!"
+
+#: scenarios/13_day_of_the_dead.cfg:6
+msgid "Day of the dead"
+msgstr "День мёртвых"
+
+#: scenarios/13_day_of_the_dead.cfg:45
+msgid "Theoden"
+msgstr "Теоден"
+
+#: scenarios/13_day_of_the_dead.cfg:72
+msgid "Smaug"
+msgstr "Смауг"
+
+#: scenarios/13_day_of_the_dead.cfg:96
+msgid "Gloin"
+msgstr "Глоин"
+
+#: scenarios/13_day_of_the_dead.cfg:119
+msgid "Troll"
+msgstr "Тролль"
+
+#: scenarios/13_day_of_the_dead.cfg:122
+msgid "Skalmad"
+msgstr "Скалмед"
+
+#: scenarios/13_day_of_the_dead.cfg:146
+msgid "Galadriel"
+msgstr "Галадриэль"
+
+#: scenarios/13_day_of_the_dead.cfg:180
+msgid "Defeat Enemy Leaders"
+msgstr "Победите Вражеских Лидеров"
+
+#: scenarios/13_day_of_the_dead.cfg:256
+msgid "Phew... That was really close."
+msgstr "Фууух... почти успели."
+
+#: scenarios/13_day_of_the_dead.cfg:260
+msgid "Shit! Almost!"
+msgstr "Дерьмо! Почти!"
+
+#: scenarios/13_day_of_the_dead.cfg:264
+msgid "Say your prayers!!"
+msgstr "Молись!"
+
+#: scenarios/13_day_of_the_dead.cfg:268
+msgid "Don't get carried away. Look around!"
+msgstr "Не тешь себя пустыми надеждами. Оглянись!"
+
+#: scenarios/13_day_of_the_dead.cfg:309
+msgid "What the hell is up!?"
+msgstr "Что произошло?"
+
+#: scenarios/13_day_of_the_dead.cfg:313
+msgid "Ha-ha! So-called...Lich Alliance!!"
+msgstr "Ха-ха! Познакомься: с.. пока ещё не известным миру... Альянсом Лича!"
+
+#: scenarios/13_day_of_the_dead.cfg:317
+msgid "Oh come on!! Why!? Why would you all form a stupid alliance with this bastard? Do you want to destroy the whole world?"
+msgstr "О нет! Почему? Почему вы все пошли на союз с этим ублюдком? Вы желаете погубить весь мир?"
+
+#: scenarios/13_day_of_the_dead.cfg:321
+msgid "Shurrup!! You killed many drakes!!"
+msgstr "Заткнииись! Ты убил множество драконов!!!"
+
+#: scenarios/13_day_of_the_dead.cfg:325
+msgid "This is a temporary alliance."
+msgstr "Это лишь временный союз."
+
+#: scenarios/13_day_of_the_dead.cfg:329
+msgid "To stop you!"
+msgstr "Остановить тебя!"
+
+#: scenarios/13_day_of_the_dead.cfg:333
+msgid "The lich seems to be a better politician than you..."
+msgstr "Лич показался нам более интересным политиком, чем ты."
+
+#: scenarios/13_day_of_the_dead.cfg:340
+msgid "You are an enemy of everything that is right!"
+msgstr "Ты враг всего живого!"
+
+#: scenarios/13_day_of_the_dead.cfg:345
+msgid "Ha ha ha! That kind of stuff."
+msgstr "Ха-ха-ха! Вот такие вот дела."
+
+#: scenarios/13_day_of_the_dead.cfg:353
+msgid "That's enough! You'll be sorry...after you become living dead."
+msgstr "Достаточно! Вы ещё пожалеете о содеянном... после того, как обратитесь в живые трупы!"
+
+#: scenarios/13_day_of_the_dead.cfg:357
+msgid "Well, do the best you can!"
+msgstr "Ну, покажите, на что способны!"
+
+#: scenarios/13_day_of_the_dead.cfg:400
+msgid "We seem to be completely surrounded."
+msgstr "Кажется, мы окружены."
+
+#: scenarios/13_day_of_the_dead.cfg:404
+msgid "Should we adopt a defensive stance, or an offensive stance?"
+msgstr "Что же нам делать: наступать или обороняться?"
+
+#: scenarios/13_day_of_the_dead.cfg:408
+msgid "Anyway, we must wipe out the all enemies. Let's go!"
+msgstr "Неважно. Имеет значение лишь смерть наших врагов."
+
+#: scenarios/13_day_of_the_dead.cfg:425
+msgid "Good, we've gotten rid of the foolish heroes. Now for the li..."
+msgstr "Хорошо, мы избавились от недалёких героев. Теперь возьмёмся за л..."
+
+#: scenarios/13_day_of_the_dead.cfg:436
+msgid "Oh, the humanity! What useless fellows!"
+msgstr "О жизнь! Куда низко ты пала! Слабые и бесполезные союзники..."
+
+#: scenarios/13_day_of_the_dead.cfg:442
+msgid "That is the lich's voice!"
+msgstr "Голос Лича!"
+
+#: scenarios/13_day_of_the_dead.cfg:446
+msgid "This is the end of our alliance... but I'm merciful. I will give you an opportunity to work as my servant..."
+msgstr "Увы, наш союз окончен. Но я милостив, и даю вам возможность стать моими слугами..."
+
+#: scenarios/13_day_of_the_dead.cfg:451
+msgid "Rise up! As the dead!!"
+msgstr "Восстаньте! Мёртвыми!"
+
+#: scenarios/13_day_of_the_dead.cfg:462
+msgid "Hehe. This is where you show your grit. Farewell!"
+msgstr "Хе-хе. А сейчас можете испытать свою стойкость. Прощайте!"
+
+#: scenarios/13_day_of_the_dead.cfg:472
+msgid "Oh my god! They are standing up!"
+msgstr "О нет! Они поднимаются!"
+
+#: scenarios/13_day_of_the_dead.cfg:476
+msgid "Shit! Double work!"
+msgstr "Дерьмо! Двойная работа!"
+
+#: scenarios/13_day_of_the_dead.cfg:480
+msgid "It is tough to fight a series of battles..."
+msgstr "Как же трудно сражаться раз за разом..."
+
+#: scenarios/13_day_of_the_dead.cfg:484
+msgid "No, it's better to push along to that bridge!"
+msgstr "Нет, лучше отойти к тому мосту!"
+
+#: scenarios/13_day_of_the_dead.cfg:494
+msgid "Yes, and after crossing the bridge, we can knock it out!"
+msgstr "Да! И после того, как пересечём мост, то сможем их разбить!"
+
+#: scenarios/13_day_of_the_dead.cfg:498
+msgid "Good! Everybody, head for that bridge!"
+msgstr "Отлично! Все к мосту!"
+
+#: scenarios/14_bridge.cfg:6
+msgid "The Bridge"
+msgstr "Мост"
+
+#: scenarios/14_bridge.cfg:79
+msgid "We are close to reaching land!"
+msgstr "Мы почти добрались!"
+
+#: scenarios/14_bridge.cfg:83
+msgid "OK, be ready to destroy this bridge."
+msgstr "Приготовьтесь обрушить мост."
+
+#: scenarios/14_bridge.cfg:96
+msgid "Oh, do you want to destroy it? Do I need to help you?"
+msgstr "О, вы хотите его разрушить? Мне вам помочь?"
+
+#: scenarios/14_bridge.cfg:129
+msgid "You don't have to thank me! Muwahahaha!"
+msgstr "Не нужно благодарностей! Мухахахахаха!"
+
+#: scenarios/14_bridge.cfg:139
+msgid "Bloody hell! We have been divided!"
+msgstr "Проклятье! Мы разделены!"
+
+#: scenarios/14_bridge.cfg:167
+msgid "We are obviously in the jaws of death!"
+msgstr "Мы буквально находимся между готовыми сомкнуться челюстями смерти!"
+
+#: scenarios/14_bridge.cfg:171
+msgid "That's not necessarily true. It is certain that they are weaker now than when they were alive. If we take advantage of this narrow bridge, we can defeat them one by one."
+msgstr "Всё не обязано закончиться именно так. Ведь сейчас они гораздо слабее, чем при жизни. Если мы воспользуемся этим узким мостом, то сможем одолеть их одного за другим."
+
+#: scenarios/14_bridge.cfg:175
+msgid "But it will take too much time! What if the lich's main forces came here!? Then we really will have hell to pay!"
+msgstr "Но сколько это займёт времени! Что если сюда поспеют главные силы лича? Тогда здесь будет действительно кровавое побоище!"
+
+#: scenarios/14_bridge.cfg:179
+msgid "......I have no choice but to go by myself."
+msgstr "…У меня нет иного выхода, кроме как идти самому."
+
+#: scenarios/14_bridge.cfg:183
+msgid "No! It's too dangerous!"
+msgstr "Нет! Это слишком опасно!"
+
+#: scenarios/14_bridge.cfg:187
+msgid "As Philosophy says, we have no time to lose. To hold back the lich's army, I must advance forward as far as possible and take up a position...even if I can only use fresh recruits."
+msgstr "Как сказал Философ, у нас нет ни одной лишней секунды. Чтобы сдержать армию лича, мне нужно максимально продвинуться вперёд и занять позицию.., даже если я останусь лишь с новичками."
+
+#: scenarios/14_bridge.cfg:191
+msgid "Hmm..."
+msgstr "Хм..."
+
+#: scenarios/14_bridge.cfg:195
+msgid "We the air army will go with you!"
+msgstr "Воздушная армия пойдёт с тобой!"
+
+#: scenarios/14_bridge.cfg:199
+msgid "No. How can those left behind ford the river without an air forces? Also in this situation, a waterborne assault will expedite victory. It's undoubtedly crunch time. Nothing ventured, nothing gained."
+msgstr "Нет. Как оставшиеся позади смогут преодолеть реку без вашей поддержки? Также, в сложившихся обстоятельства, нападение с реки может ускорить победу. Пришла пора рисковать. Кто не рискует, тот и не выигрывает."
+
+#: scenarios/14_bridge.cfg:207
+msgid "Focus on just the visible enemies! I'll devote all my energy to holding back the lich's army."
+msgstr "Сосредоточьте усилия на тех врага, которых можете достать! Я же все свои силы отдам, чтобы сдержать армию лича..."
+
+#: scenarios/14_bridge.cfg:211
+msgid "...As you wish."
+msgstr "...Как скажешь."
+
+#: scenarios/14_bridge.cfg:215
+msgid "OK. We'll catch you in a minute."
+msgstr "Хорошо. Мы скоро будем."
+
+#: scenarios/14_bridge.cfg:219
+msgid "Good luck, boss!"
+msgstr "Удачи, командир!"
+
+#: scenarios/14_bridge.cfg:223
+msgid "You too!"
+msgstr "И вам так же!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:6
+msgid "Night of the living dead"
+msgstr "Ночь живых мертвецов"
+
+#: scenarios/14_night_of_the_living_dead.cfg:235
+msgid "Survive in anyway possible"
+msgstr "Выживите"
+
+#: scenarios/14_night_of_the_living_dead.cfg:387
+msgid "Ahh...so you have abandoned your fellows, haven't you?"
+msgstr "Ах... ты оставил своих товарищей, не правда ли?"
+
+#: scenarios/14_night_of_the_living_dead.cfg:391
+msgid "Say what you want! I'm fed up with chasing. We're going to settle this here and now!"
+msgstr "Чего ты тянешь? Я уже сыт по горло твоим преследованием. Уладим всё здесь и сейчас!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:395
+msgid "Bah. What can you do without your main forces? I, however, have scraped together many souls of the dead and gained strength like never before. You can't even touch me, and you will perish here!"
+msgstr "Нет, мой друг. Что ты можешь без своей верной гвардии? Я же не терял понапрасну время и копил души мёртвых. Мои силы велики, как никогда прежде! Ты не сможешь и подобраться ко мне, не то что навредить. Вы все погибнете здесь!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:415
+msgid "(One gatekeeper and two mobile forces... If this goes on, I will be attacked from both sides. It's better to defeat the gatekeeper quickly and take up my position inside the castle...)"
+msgstr "(Один страж у ворот и две вражеские силы на подходе... Если оставить всё как есть, то меня раздавят со всех сторон. Лучше одолеть стража и занять позицию в замке...)"
+
+#: scenarios/14_night_of_the_living_dead.cfg:481
+msgid "Damn! What is this crap?"
+msgstr "Проклятье! Что за хрень!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:485
+msgid "What's wrong with you? Can't you defeat even a gatekeeper? Hehe."
+msgstr "Что такое? Уже не можешь одолеть и привратника? Хе-хе."
+
+#: scenarios/14_night_of_the_living_dead.cfg:489
+msgid "(There must be some tricks... OK, I'll defeat two other enemies. Though the task will be quite a challenge, I have no choice in this case.)"
+msgstr "(Здесь нужно действовать как-то иначе... Ну ладно, я буду сражаться с двумя противниками. Не знаю, что из этого выйдет, но выбора у меня нет)"
+
+#: scenarios/14_night_of_the_living_dead.cfg:559
+msgid "Boss!"
+msgstr "Командир!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:563
+msgid "Is that you, Boreas!?"
+msgstr "Это ты, Борей?"
+
+#: scenarios/14_night_of_the_living_dead.cfg:567
+msgid "Oh, thank heavens I made it in time! We annihilated the enemies."
+msgstr "Как хорошо, что я успел! Мы уничтожили врагов!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:571
+msgid "Good! What of the rest?"
+msgstr "Отлично. Как остальные?"
+
+#: scenarios/14_night_of_the_living_dead.cfg:575
+msgid "Everyone was all right. They should be here at dawn!"
+msgstr "Более-менее в порядке. Они прибудут сюда к рассвету!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:579
+msgid "OK. Just a little more patience! Everyone, build up the defenses and survive!"
+msgstr "Замечательно. Запасёмся терпением. Держать оборону!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:622
+msgid "Yoo-hoo!"
+msgstr "Йо-хо-хо!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:626
+msgid "Are you safe?"
+msgstr "Ты ещё жив?"
+
+#: scenarios/14_night_of_the_living_dead.cfg:630
+msgid "Philosophy! Merrin! The gamble has paid off...All that is left is to kill the lich."
+msgstr "Философ! Мэррин! Наш риск оправдал себя... Все, кто остались, вперёд, убьём лича!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:634
+msgid "You can count on me!"
+msgstr "Можешь рассчитывать на меня!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:638
+msgid "Now you can recall your units."
+msgstr "Теперь вы можете призывать своих бойцов."
+
+#: scenarios/14_night_of_the_living_dead.cfg:647
+msgid "Kill the Ancient Lich"
+msgstr "Убейте древнего лича"
+
+#: scenarios/14_night_of_the_living_dead.cfg:665
+msgid "This is the last battle."
+msgstr "Это последняя битва."
+
+#: scenarios/14_night_of_the_living_dead.cfg:673
+msgid "By the way, what is our immediate priority?"
+msgstr "Так. А в чём заключается наша непосредственная задача?"
+
+#: scenarios/14_night_of_the_living_dead.cfg:677
+msgid "I can't eliminate that gatekeeper. He must be protected by some sort of power."
+msgstr "Я смог одолеть стража. Должно быть, он защищён особыми силами."
+
+#: scenarios/14_night_of_the_living_dead.cfg:681
+msgid "Hmm... I suspect their keeps."
+msgstr "Хм... У меня имеются некоторые подозрения, касательно придающей им сил природы..."
+
+#: scenarios/14_night_of_the_living_dead.cfg:700
+msgid "Yes, shall we destroy them?"
+msgstr "И как, мы справимся?"
+
+#: scenarios/14_night_of_the_living_dead.cfg:704
+msgid "OK. Let's try it."
+msgstr "Полагаю, что да. Попытаемся."
+
+#: scenarios/14_night_of_the_living_dead.cfg:708
+msgid "Put your units on the two keeps, and they will be destroyed."
+msgstr "Поместите своих бойцов в две крепости и чары будут разрушены."
+
+#: scenarios/14_night_of_the_living_dead.cfg:745
+#: scenarios/14_night_of_the_living_dead.cfg:833
+msgid "The keep has been destroyed."
+msgstr "Крепость пала."
+
+#: scenarios/14_night_of_the_living_dead.cfg:763
+#: scenarios/14_night_of_the_living_dead.cfg:851
+msgid "Good. Let's see what happens..."
+msgstr "Неплохо. Посмотрим, что из этого получилось..."
+
+#: scenarios/14_night_of_the_living_dead.cfg:792
+#: scenarios/14_night_of_the_living_dead.cfg:880
+msgid "That guy has lost his strength remarkably!"
+msgstr "Страж потерял свою силу!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:796
+#: scenarios/14_night_of_the_living_dead.cfg:884
+msgid "All right. Now we can remove him."
+msgstr "Теперь мы одолеем его."
+
+#: scenarios/14_night_of_the_living_dead.cfg:903
+msgid "Good! Let's enter the Lich's nest!"
+msgstr "Вперёд! В логово лича."
+
+#: scenarios/14_night_of_the_living_dead.cfg:914
+msgid "You are annoying as usual... OK, play with them, my servants."
+msgstr "Умеете вы раздражать... Ну, ничего. Порезвитесь с ними, мои верные слуги."
+
+#: scenarios/14_night_of_the_living_dead.cfg:922
+msgid "Like you say."
+msgstr "Как прикажешь."
+
+#: scenarios/14_night_of_the_living_dead.cfg:949
+msgid "Ugh...nasty lava. If I become sleepy here, I will end up dead."
+msgstr "Тьфу... мерзкая лава. Если я тут усну, то мне конец."
+
+#: scenarios/14_night_of_the_living_dead.cfg:970
+msgid "I'm sleepy... No..."
+msgstr "Я засыпаю... Нет..."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1019
+msgid "Ugh! What is this pressure?"
+msgstr "Чувствуете? Что-то изменилось?"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1023
+msgid "I stink of power...I'll share it with you."
+msgstr "Я испускаю аромат силы... Я разделю его с вами."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1027
+msgid "Come out, my pets!"
+msgstr "Покажитесь, мои твари!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1054
+msgid "What was that noise!?"
+msgstr "Что за шум!?"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1064
+msgid "Look! D, Dragons!"
+msgstr "Смотрите! Драконы!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1076
+msgid "Hehe! Not only that. I think you'll enjoy it!"
+msgstr "Хе-хе. И не только. Наслаждайтесь, мои дорогие!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1080
+msgid "...OK, anything goes here. We'd better hurry up."
+msgstr "Сюда что-то движется. Поспешим!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1087
+msgid "Again, be cautious of enemy reinforcements!"
+msgstr "Опасайтесь вражеских подкреплений!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1150
+#: scenarios/14_night_of_the_living_dead.cfg:1221
+msgid "Damn! Useless necromancers... OK, hey, my fellow liches! Let's give those gate-crashers the glad hand!"
+msgstr "Проклятье! Бесполезные некроманты... Хорошо хоть, что меня поддерживают личи! Давайте протянем моим недовольным друзьям нашу крепкую руку!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1170
+#: scenarios/14_night_of_the_living_dead.cfg:1241
+msgid "Boss...I can't shake this bad feeling."
+msgstr "Командир... Я не могу избавиться от дурного предчувствия."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1174
+#: scenarios/14_night_of_the_living_dead.cfg:1245
+msgid "Yes...but we are definitely tracking the lich to his lair."
+msgstr "Да... Значит, мы в самом сердце вражеского логова."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1178
+#: scenarios/14_night_of_the_living_dead.cfg:1249
+msgid "Open gate!"
+msgstr "Открыть ворота!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1289
+msgid "Ay me! O, well, next!"
+msgstr "Вот и следующий!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1332
+msgid "Just great. This is a big sale in liches..."
+msgstr "Сегодня прямо таки распродажа личей..."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1336
+msgid "So true."
+msgstr "Похоже на то."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1340
+msgid "By the way, the keep is also odd, isn't it?"
+msgstr "Между прочим, крепость тоже выглядит странной, не так ли?"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1362
+msgid "Hmm... Yes, it looks more ominous. Let's try destroying it."
+msgstr "Хм... Ты прав, выглядит зловеще. Попытаемся её разрушить."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1432
+msgid "...It would seem that it has been binding the souls of dead people."
+msgstr "...Казалось, она связывала души мёртвых людей."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1436
+msgid "Yeah, he said he had scraped together many souls."
+msgstr "Он что-то говорил о накопленных душах."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1440
+msgid "Look. Another soul is coming."
+msgstr "Посмотри. К нам приближается одна душа..."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1478
+msgid "......!"
+msgstr "......!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1490
+msgid "Yes...It's been a long time, Macabre."
+msgstr "Да... Как много прошло времени, Макабр."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1494
+msgid "I...I can't believe it! Why?"
+msgstr "Я... Я не могу поверить! Почему?"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1498
+msgid "At that time, you did indeed release my soul from my cursed body. But...I was eventually bound by that lich...like so many other pitiful souls. And as he gathered more souls, he grew more powerful, as you know."
+msgstr "Тогда, ты и в самом деле освободил мою душу от проклятого тела. Но... лич оказался сильнее и покорил меня... как и многие другие души. И чем больше душ он собирал, тем сильнее становился."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1502
+msgid "That's why he are trying to fill the world with death. He hungers for the souls...which is the source of his power."
+msgstr "Вот почему, он заполняет мир смертью. Он жаждет получить души, ибо они источник его могущества."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1506
+msgid "Hmmm...I see. But...I don't know what I should say now..."
+msgstr "Я вижу. Я... Я не знаю, что сказать..."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1510
+msgid "I know....Who could have imagined that we would meet again in this way..."
+msgstr "Понимаю... Кто мог предположить, что мы увидимся вновь?"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1514
+msgid "I...I have already changed! I'm not what you knew... I'm a mere... cursed undead!"
+msgstr "Но я изменился! Я уже не тот, кого ты знала прежде... Я просто... ненавидимый всеми мертвец!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1518
+msgid "No! You still have your own mind! It means you are you."
+msgstr "Нет! Ты всё ещё сохранил разум! А это значит, что ты остался самим собой."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1526
+msgid "Also, you have released me again."
+msgstr "И кроме того, ты вновь освободил меня."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1530
+msgid "...Could you go to heaven?"
+msgstr "…Ты можешь отправиться на небеса?"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1534
+msgid "Yes, maybe."
+msgstr "Может быть."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1538
+msgid "Hm..."
+msgstr "Хм..."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1542
+msgid "Haha... Don't worry. I'm not going anywhere."
+msgstr "Ха-ха... Не волнуйся. Я никуда не уйду."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1546
+msgid "...What do you mean?"
+msgstr "…Что ты имеешь в виду?"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1550
+msgid "I haven't just been bound. I learned how the lich binds the souls."
+msgstr "Я не зря провела время в заточении у лича. Я изучила, как он пленит покорённые души."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1554
+msgid "So... I'm going to be your sword."
+msgstr "И.. и хочу стать твоим мечом."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1562
+msgid "I will possess your weapon. Then you can reave the lich's soul! Otherwise you couldn't annihilate him completely."
+msgstr "Я стану духом твоего оружия. И тогда ты сможешь похитить душу лича! А иначе, его не уничтожить."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1566
+msgid "But..."
+msgstr "Но..."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1574
+msgid "Macabre...I love you."
+msgstr "Макабр... Я люблю тебя."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1578
+msgid "No! Wait!"
+msgstr "Нет! Погоди!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1650
+msgid "soul reaver"
+msgstr "вхождение души"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1667
+msgid "...Vita..."
+msgstr "...Вита..."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1671
+msgid "You were just released... and now you are bound again...to my bloody sword..."
+msgstr "Только что ты была свободна, а теперь вновь заточена в моём кровавом мече..."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1679
+msgid "Boss..."
+msgstr "Командир..."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1683
+msgid "No, don't say anything. After all, sentiment is unbecoming to the undead."
+msgstr "Нет. Молчи... В конце концов, мертвецам не полагается проявлять чувства."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1687
+msgid "All right. Come with me, Vita, and let's kill the lich!"
+msgstr "Хорошо. Иди со мной, Вита! Довершим начатое и покончим с личем!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1696
+msgid "Everyone! I'll take point! Follow me!"
+msgstr "Все! Следуйте за мной!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1700
+msgid "That's what I wanted to hear!"
+msgstr "Как же я хотел услышать эти слова!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1704
+msgid "As you wish!"
+msgstr "Как пожелаешь!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1708
+msgid "Let's do it!"
+msgstr "Сделаем это!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1759
+#: scenarios/14_night_of_the_living_dead.cfg:1857
+msgid "Hey! Your damned fellows have been finished. It's about time for you to appear!"
+msgstr "Эй! С твоими проклятыми помощниками покончено. Не пора ли тебе и самому появиться?"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1770
+msgid "You seem to want to trouble me at any cost...OK...I'll show you myself..."
+msgstr "Вы, похоже, прямо таки хотите любой ценой побеспокоить меня... Ну хорошо... Я предстану перед вами..."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1787
+#: scenarios/14_night_of_the_living_dead.cfg:1885
+msgid "WITH YOUR DEATH!!"
+msgstr "ВМЕСТЕ С ВАШЕЙ СМЕРТЬЮ!!!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1868
+msgid "You seems to want to trouble me at any cost... OK... I'll show you myself..."
+msgstr "Вы, похоже, прямо таки хотите любой ценой побеспокоить меня... Ну хорошо... Я предстану перед вами..."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1959
+msgid "Well...done..."
+msgstr "Хорошо... сделано..."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1963
+msgid "You now meet your doom....Accept it gracefully, your highness."
+msgstr "Ты умираешь... Прими свою смерть как подобает."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1967
+msgid "Ha...ha...hahahahahahahahaha!!!"
+msgstr "Ха... ха... хахахахахахахаха!!!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1975
+#: scenarios/15_dawn_of_the_dead.cfg:262
+msgid "OK...I perish...But...You are NOT a winner...Both of us are LOSERS!"
+msgstr "Да... Я умираю... Но ты не победил меня... Мы оба ПРОИГРАВШИЕ!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:1979
+msgid "...Don't talk nonsense."
+msgstr "...Не говори чепухи."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1983
+msgid "You will soon know what I mean....Muhahahahahaha...."
+msgstr "Скоро ты узнаешь, что я имею в виду... Мухахахахахаха..."
+
+#: scenarios/14_night_of_the_living_dead.cfg:1994
+msgid "That..does...it."
+msgstr "Что... происходит?"
+
+#: scenarios/14_night_of_the_living_dead.cfg:2037
+msgid "Ugh!!"
+msgstr "Тьфу!!!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:2041
+msgid "But...you...haven't won yet!!"
+msgstr "Но... ты... ещё не победил!!! "
+
+#: scenarios/14_night_of_the_living_dead.cfg:2053
+msgid "Huff..huff...hehe... As long as there are souls in this world... I'll never perish!!"
+msgstr "Гнев... гнев... хе-хе... Пока в этом мире есть души... я никогда не погибну!!!"
+
+#: scenarios/14_night_of_the_living_dead.cfg:2057
+msgid "It's like Vita said... OK, retreat. I'll finish him."
+msgstr "Точно так же говорила Вита... Отступайте. Я прикончу его."
+
+#: scenarios/14_night_of_the_living_dead.cfg:2066
+msgid "Obey my order, poor soul!"
+msgstr "Выполняй мои приказы, душа!"
+
+#: scenarios/15_dawn_of_the_dead.cfg:5
+msgid "Dawn of the dead"
+msgstr "Рассвет мертвецов"
+
+#: scenarios/15_dawn_of_the_dead.cfg:17
+msgid "At last Macabre killed the lich."
+msgstr "Наконец Макабр убил лича."
+
+#: scenarios/15_dawn_of_the_dead.cfg:23
+msgid "Now I...no...we have earned our freedom. Thank you for fighting with me. I'm no longer your leader. Nothing governs you...in the true sense of the term. Go anywhere and lives as you like."
+msgstr "Мы выбороли нашу свободу. Спасибо за поддержку. Теперь, я больше не ваш предводитель, вы свободны, никто вами не управляет... в прямом смысле этих слов. Идите куда пожелаете и занимайтесь, чем придётся по нраву."
+
+#: scenarios/15_dawn_of_the_dead.cfg:26
+msgid "The zombies and other undead cheered. Most of them didn't understand what was going on, but at least felt free. They left Macabre slowly, and only a few of them stayed."
+msgstr "Большинство зомби с радостью восприняли эту новость, хоть и не поняло сути происходящего. Почти все они покинули Макабра и лишь несколько ходячих мертвецов осталось с ним."
+
+#: scenarios/15_dawn_of_the_dead.cfg:31
+msgid "We won't leave."
+msgstr "Мы никуда не уйдём."
+
+#: scenarios/15_dawn_of_the_dead.cfg:36
+msgid "Yes...we haven't lost our ability to reason. It's better to live with you."
+msgstr "Да... Мы утратили способность рассуждать. Лучше останемся с тобой."
+
+#: scenarios/15_dawn_of_the_dead.cfg:41
+msgid "Exactly. It's impossible to go back to the way things were. How about founding a kingdom for undead?"
+msgstr "И правда. К прошлой жизни вернуться невозможно. Как насчет того, чтобы основать королевство мертвецов?"
+
+#: scenarios/15_dawn_of_the_dead.cfg:46
+msgid "......Ha ha."
+msgstr "…Ха-ха."
+
+#: scenarios/15_dawn_of_the_dead.cfg:49
+msgid "and they lived happily ever after"
+msgstr "И жили они долго и счастливо."
+
+#: scenarios/15_dawn_of_the_dead.cfg:52
+msgid "...That was not a fact."
+msgstr "...Но не так."
+
+#: scenarios/15_dawn_of_the_dead.cfg:55
+msgid "Really it is not that simple. To begin with, the undead are not natural. All natural creatures age and die, but undead never age. They continue to move eternally and eat the flesh of the living. That's their nature. They shouldn't have returned to the world of the living."
+msgstr "На самом деле, всё было не так уж и просто. Ведь ходячие мертвецы не самые нормальные существа на свете. В природе всё устроено иначе: всё рождается, живёт и умирает. Но не зомби. Они неизменно мертвы и продолжают пожирать живую плоть. Это их суть. Они не должны были возвращаться в мир, который уже один раз оставили."
+
+#: scenarios/15_dawn_of_the_dead.cfg:58
+msgid "In the aftermath of victory and freedom, Macabre had forgotten this. Now this absurdity caused a serious problem."
+msgstr "Когда Макабр победил лича и обрёл свободу, то забыл о собственной ненормальности. А теперь всё оборачивалось серьёзной проблемой."
+
+#: scenarios/15_dawn_of_the_dead.cfg:61
+msgid "The difficulty of obtaining food."
+msgstr "Трудности пропитания."
+
+#: scenarios/15_dawn_of_the_dead.cfg:64
+msgid "The appetite of the zombies were exhausting the populations of every race which lived in the world. It was inevitable because they didn't have enough power to resist. Macabre had overly distorted the order of nature. He killed too much, yet the zombies didn't stop. Rather, the numbers of zombies kept growing and the scarcity of food became more and more serious. The whole world was filled with death. Soon there would be no food left anywhere."
+msgstr "Аппетит зомби возрастал с каждым днём. Не осталось в мире ни одного народа, который не пострадал от нашествия ходячих мертвецов. Случившееся было неизбежным. Макабр нанёс всем живущим слишком большой урон, и оставшиеся не могли противиться нашествию. Количество зомби всё возрастало и возрастало, а еды для них становилось всё меньше и меньше. Весь мир наполнился смертью. И вскоре еды вообще не осталось. Нигде."
+
+#: scenarios/15_dawn_of_the_dead.cfg:67
+msgid "Zombies were struggling against hunger. Flesh...No flesh...Where...Nowhere...Pain changed into complaint. Why...Why no flesh...Why...Unusual...Flesh...There must be flesh...Cruel treatment...And extensive complaints changed into a general will."
+msgstr "Теперь зомби сражались против голода. Плоть... Нет плоти... Где... Нигде... Боль переросла в жалобы... Почему... Почему нет плоти... Неправильно... Плоть... Должна быть плоть... Жестоко... А жалобы выросли в одну общую на всех мысль."
+
+#: scenarios/15_dawn_of_the_dead.cfg:70
+msgid "He...did...this."
+msgstr "Это... сделал... он."
+
+#: scenarios/15_dawn_of_the_dead.cfg:73
+msgid "It was Macabre who had led them, made them fight and then left them alone to starve. This difficulty of obtaining food was caused by Macabre...They reached this conclusion easily. They couldn't help but feel so."
+msgstr "Это он виновник всех бед, это он повёл их на битву, а затем бросил на произвол судьбы, это он привёл к тяжкому голоду. Макабр!.. Вывод пришел сам собой. Они не могли думать иначе."
+
+#: scenarios/15_dawn_of_the_dead.cfg:76
+msgid "He...He is bones...So he doesn't want flesh...He isn't hungry...Our pain...He doesn't know...Can't know...UNALLOWABLE..."
+msgstr "Он... Он скелет... потому он не жаждет плоти... Ему не ведом голод... Наша боль... он не знает боли... Не может знать... НЕЛЬЗЯ... "
+
+#: scenarios/15_dawn_of_the_dead.cfg:79
+msgid "This general will led all zombies to Macabre."
+msgstr "Охватившее ходячих мертвецов чувство привело их к Макабру."
+
+#: scenarios/15_dawn_of_the_dead.cfg:123
+msgid "Zombie"
+msgstr "Зомби"
+
+#: scenarios/15_dawn_of_the_dead.cfg:222
+msgid "A horde of zombies are coming with great verve!!"
+msgstr "Сюда направляется орда зомби!"
+
+#: scenarios/15_dawn_of_the_dead.cfg:226
+msgid "Hm...what brings them here?"
+msgstr "Гм... что они тут забыли?"
+
+#: scenarios/15_dawn_of_the_dead.cfg:230
+msgid "Hmm. The foundation ceremony is held today. They must wanna attend it."
+msgstr "Хм. Возможно сегодня состоится какая-то церемония и они спешат принять в ней участие."
+
+#: scenarios/15_dawn_of_the_dead.cfg:239
+msgid "(Perhaps...they have exhausted their food supply...It's not surprising. Why didn't I expect this? But there is no food here either. My trusted friends can control their desire, but they are also suffering from hunger. Whereas those who don't have reason...)"
+msgstr "(Может быть... у них закончилась пища... Это не удивительно. Почему я не предвидел этого? Но тут нет никакой еды. Мои друзья мучаются от голода, но держат себя в руках. Хотя, отсутствие разума...)"
+
+#: scenarios/15_dawn_of_the_dead.cfg:253
+msgid "Macabre recalled the warning of that lich. He had thought that it had been mere provocation."
+msgstr "Макабр вспоминал предсмертные слова лича, но думал о них, как о последней пакости сражённого врага."
+
+#: scenarios/15_dawn_of_the_dead.cfg:258
+msgid "(OK... Now I know. After all, I filled the whole world with death. I wanted to defeat him. And he hungered for power. As a result, we cooperated to ruin this world.)"
+msgstr "(Теперь я понимаю... В попытке одолеть друг друга, лич и я, мы до краёв наполнили этот мир смертью. Мы разрушили этот мир.)"
+
+#: scenarios/15_dawn_of_the_dead.cfg:267
+msgid "(And he must have foreseen this empty ending...)"
+msgstr "(И старый лич прекрасно видел последствия моей победы...)"
+
+#: scenarios/15_dawn_of_the_dead.cfg:272
+msgid "Ha!!"
+msgstr "Ха!!!"
+
+#: scenarios/15_dawn_of_the_dead.cfg:279
+msgid "W..what's the problem, sir?"
+msgstr "В... в чём проблема, командир?"
+
+#: scenarios/15_dawn_of_the_dead.cfg:283
+msgid "...Never mind."
+msgstr "… Не важно."
+
+#: scenarios/15_dawn_of_the_dead.cfg:287
+msgid "(We are merely unproductive beings. We shouldn't have gotten freedom. Our liberty...fills this world with death, bane and barrenness. We...should have eternally been...slaves and foolish puppets!!)"
+msgstr "(Мы — ходячие мертвецы — просто не можем быть самостоятельными. Наша свобода — заполнять мир смертью, отравой и бесплодием. Мы должны навеки оставаться рабами и марионетками!!!)"
+
+#: scenarios/15_dawn_of_the_dead.cfg:291
+msgid "...I'm better off dead..."
+msgstr "...Я более развитый мертвец..."
+
+#: scenarios/15_dawn_of_the_dead.cfg:295
+msgid "Pardon?"
+msgstr "Прошу прощения?"
+
+#: scenarios/15_dawn_of_the_dead.cfg:299
+msgid "(But what about my friends? They have longed for me and stayed here. How can I give account?)"
+msgstr "(Но как на счёт моих друзей? Они преданны мне и остались со мной. Что же делать?)"
+
+#: scenarios/15_dawn_of_the_dead.cfg:303
+msgid "They are near at hand!"
+msgstr "Они уже близко!"
+
+#: scenarios/15_dawn_of_the_dead.cfg:307
+msgid "(You are also sent to your doom...I can't say such a thing. What...should I do?)"
+msgstr "(Я должен отправить вас на верную гибель... Но не могу сказать это... Что же мне делать?!)"
+
+#: scenarios/15_dawn_of_the_dead.cfg:326
+msgid "They are rushing into here, sir Macabre!!"
+msgstr "Они мчатся сюда, Макабр!"
+
+#: scenarios/15_dawn_of_the_dead.cfg:330
+msgid "W..why!? Why do they have feelings of hatred?"
+msgstr "Но почему? Почему они ненавидят нас?"
+
+#: scenarios/15_dawn_of_the_dead.cfg:334
+msgid "...un"
+msgstr "…..ун"
+
+#: scenarios/15_dawn_of_the_dead.cfg:342
+msgid "JUST RUN!!!"
+msgstr "СПАСАЙТЕСЬ!!!"
+
+#: scenarios/15_dawn_of_the_dead.cfg:346
+msgid "They have a legitimate reason to feel hatred. They are filled with pain from their hunger. Maybe...the pain was caused by me after all. So they hate me. But it's not your problem. Even so, if you are here, they will aim their attack at you...So run away."
+msgstr "Правда на их стороне, и ненависть их вполне законна. Моих братьев переполняет голод и боль... И, может быть, эта боль вызвана мной. Моих братьев ведёт ненависть, но эта ненависть направлена только на меня. Мои братья хотят растерзать меня, но если вы, мои верные товарищи, останетесь тут, то печальная участь не минует и вас. "
+
+#: scenarios/15_dawn_of_the_dead.cfg:350
+msgid "That...That's fine by us. But what will you do?"
+msgstr "Понятно... Но что ты будешь делать?"
+
+#: scenarios/15_dawn_of_the_dead.cfg:354
+msgid "...I will try to persuade them not to. That's the only thing I can do. Am I wrong?"
+msgstr "…Попытаюсь убедить их. Вот и всё, на что я способен. Я неправ?"
+
+#: scenarios/15_dawn_of_the_dead.cfg:358
+msgid "You are kidding! They will never accept your persuasion!"
+msgstr "Не шути! Они никогда не примут твоё предложение!"
+
+#: scenarios/15_dawn_of_the_dead.cfg:362
+msgid "Exactly! Because they don't have the ability to reason, they hate you! It's impossible to talk with them!"
+msgstr "Точно! Они лишены способности рассуждать и испытывают к тебе жуткую ненависть! Ты никогда не договоришься с ними!"
+
+#: scenarios/15_dawn_of_the_dead.cfg:366
+msgid "Let's run away together!!"
+msgstr "Уйдём вместе!"
+
+#: scenarios/15_dawn_of_the_dead.cfg:370
+msgid "Enough!!"
+msgstr "Прекратите!!!"
+
+#: scenarios/15_dawn_of_the_dead.cfg:377
+msgid "I...must take responsibility. I...stay here."
+msgstr "Я... должен принять всю ответственность за случившееся. Я... остаюсь."
+
+#: scenarios/15_dawn_of_the_dead.cfg:381
+msgid "...Well, go..."
+msgstr "...Уходите же..."
+
+#: scenarios/15_dawn_of_the_dead.cfg:385
+msgid "I stay here, too."
+msgstr "Я тоже остаюсь."
+
+#: scenarios/15_dawn_of_the_dead.cfg:389
+msgid "It's impossible to do otherwise."
+msgstr "Иначе и нельзя."
+
+#: scenarios/15_dawn_of_the_dead.cfg:393
+msgid "Good grief...What an awful mess this foundation ceremony has become."
+msgstr "Какое горе... Церемония оборачивается полным бардаком!"
+
+#: scenarios/15_dawn_of_the_dead.cfg:397
+msgid "No! You shall not die in vain! If you run away now, they will never attack you! You really will be free!"
+msgstr "Нет! Вы не должны умирать напрасно! Если вы уйдёте сейчас, то они никогда вас не нападут! Вы и в самом деле останетесь свободными!"
+
+#: scenarios/15_dawn_of_the_dead.cfg:401
+msgid "We have no time. They are right around the corner. Well...this will be the most rough-and-tumble battle of my life."
+msgstr "Не будем тратить время, мой друг. Наши друзья правы... Но это будет самая великая битва в моей жизни."
+
+#: scenarios/15_dawn_of_the_dead.cfg:405
+msgid "Yes. For the first time in a long while, I'll exorcise evil spirits."
+msgstr "Да. Впервые за долгое время. Я изгоню прочь злых духов."
+
+#: scenarios/15_dawn_of_the_dead.cfg:409
+msgid "Don't worry. I will make the last divine wind blow."
+msgstr "Не волнуйся. Ветер судьбы ещё повеет над нами."
+
+#: scenarios/15_dawn_of_the_dead.cfg:430 scenarios/15_dawn_of_the_dead.cfg:434
+msgid "Nobody knows"
+msgstr "Никто не знает"
+
+#: scenarios/15_dawn_of_the_dead.cfg:487
+msgid "Divine...wind...no...longer...blow..."
+msgstr "Ветер... судьбы... больше... не... веет..."
+
+#: scenarios/15_dawn_of_the_dead.cfg:491
+msgid "Boreas!!"
+msgstr "Борей!!!"
+
+#: scenarios/15_dawn_of_the_dead.cfg:502
+msgid "I'm...sorry...to...leave...early..."
+msgstr "Мне... жаль.. так... рано... уходить..."
+
+#: scenarios/15_dawn_of_the_dead.cfg:506
+msgid "Merrin!!"
+msgstr "Мэррин!!!"
+
+#: scenarios/15_dawn_of_the_dead.cfg:517
+msgid "It...was...a...good...foundation...ceremony..."
+msgstr "Неплохая... вышла... церемония...."
+
+#: scenarios/15_dawn_of_the_dead.cfg:521
+msgid "Philosophy!!"
+msgstr "Философ!!!"
+
+#: scenarios/15_dawn_of_the_dead.cfg:532
+msgid "If...I...hadn't...broken...my...leg..."
+msgstr "Если... я... не... сломал... свою... ногу..."
+
+#: scenarios/15_dawn_of_the_dead.cfg:536
+msgid "Neckfrill!!"
+msgstr "Некфрилл!!!"
+
+#: scenarios/15_dawn_of_the_dead.cfg:547
+msgid "The sky...is...falling..."
+msgstr "Небо... падает..."
+
+#: scenarios/15_dawn_of_the_dead.cfg:551
+msgid "Pech!!"
+msgstr "Печ!!!"
+
+#: scenarios/15_dawn_of_the_dead.cfg:562
+msgid "I...hate...undead...after...all..."
+msgstr "Я... ненавижу... мертвецов..."
+
+#: scenarios/15_dawn_of_the_dead.cfg:566
+msgid "Spelk!!"
+msgstr "Спилк!!!"
+
+#: scenarios/15_dawn_of_the_dead.cfg:592
+msgid "Drop...a...curtain..."
+msgstr "Занавес... пал..."
+
+#: scenarios/15_dawn_of_the_dead.cfg:596
+msgid "...Dance...is...over..."
+msgstr "...Танец... окончен..."
+
+#: utils/deaths.cfg:11
+msgid "Merrin! ...I couldn't accomplish my goal without him. It's over."
+msgstr "Мэррин!.. Мне не достичь без него своей цели!"
+
+#: utils/deaths.cfg:27
+msgid "Boreas! ...I couldn't accomplish my goal without him. It's over."
+msgstr "Борей!.. Я ничего без него не добьюсь. Всё кончено."
+
+#: utils/deaths.cfg:43
+msgid "Philosophy! ...I couldn't accomplish my goal without him. It's over."
+msgstr "Философ!.. Мне не справиться без него! Всё кончено."
+
+#: utils/deaths.cfg:59
+msgid "I can't perish...until defeating him..."
+msgstr "Я не могу погибнуть... не отправив на тот свет своего врага..."
+
+#: utils/deaths.cfg:72
+msgid "Oops! My fellows are starving... They won't obey my order any longer. I've spent too much time... I lost."
+msgstr "Мои братья голодают... Теперь они не будут повиноваться моим приказам. Слишком много времени ушло впустую... Я проиграл."
+
+#: utils/macros.cfg:92
+msgid "darken"
+msgstr "затемнение"
+
+#: utils/macros.cfg:93
+msgid ""
+"This unit darkens the surrounding area, making chaotic units fight better, and lawful units fight worse.\n"
+"\n"
+"Any units adjacent to this unit will fight as if it were dusk when it is day, and as if it were night when it is dusk."
+msgstr ""
+"Боец затемняет окружающее пространство, благодаря чему хаотические бойцы сражаются сильнее, а порядочные слабее.\n"
+"\n"
+" Все бойцы, находящиеся рядом, будут сражаться днём, как в сумерках, а в сумерки, как ночью."
+
+#: utils/macros.cfg:145
+msgid "regenerates +12"
+msgstr "восстановление +12"
+
+#: utils/macros.cfg:146
+msgid "female^regenerates +12"
+msgstr "восстановление +12"
+
+#: utils/macros.cfg:147
+msgid "The unit will heal itself 12 HP per turn. If it is poisoned, it will remove the poison instead of healing."
+msgstr "Боец исцеляет 12 ЗД за ход. Если боец отравлен, то вместо исцеления, он излечится от яда."
+
+#: utils/macros.cfg:159
+msgid "regenerates +16"
+msgstr "восстановление +16"
+
+#: utils/macros.cfg:160
+msgid "female^regenerates +16"
+msgstr "восстановление +16"
+
+#: utils/macros.cfg:161
+msgid "The unit will heal itself 16 HP per turn. If it is poisoned, it will remove the poison instead of healing."
+msgstr "Боец исцеляет 16 ЗД за ход. Если боец отравлен, то вместо исцеления, он излечится от яда."
+
+#: utils/macros.cfg:173
+msgid "regenerates +20"
+msgstr "восстановление +20"
+
+#: utils/macros.cfg:174
+msgid "female^regenerates +20"
+msgstr "восстановление +20"
+
+#: utils/macros.cfg:175
+msgid "The unit will heal itself 20 HP per turn. If it is poisoned, it will remove the poison instead of healing."
+msgstr "Боец исцеляет 20 ЗД за ход. Если боец отравлен, то вместо исцеления, он излечится от яда."
+
+#: utils/macros.cfg:519
+msgid "Take it"
+msgstr "взять"
+
+#: utils/macros.cfg:540
+msgid "Leave it"
+msgstr "оставить"
+
+#: utils/macros.cfg:616
+msgid "terror"
+msgstr "ужас"
+
+#: utils/macros.cfg:617
+msgid ""
+"This unit can frighten enemy units that are next to it, making them fight worse.\n"
+"\n"
+"Adjacent enemy units of lower level will do less damage in battle. When an enemy unit of the same or lower level is adjacent and engages in combat, its attacks do 15% less damage times the difference in their levels + 15%."
+msgstr ""
+"Воин может напугать находящихся рядом с ним вражеских бойцов, из-за чего они будут хуже сражаться.\n"
+"\n"
+" Соседние вражеские бойцы более низкого уровня нанесут меньше повреждений в битве. Когда вражеский воин того же или более низкого уровня находится рядом и участвует в бою, его атака причиняет повреждений меньше на 15% на время разницы в уровнях бойцов +15%."
+
+#: utils/macros.cfg:685 utils/macros.cfg:689
+msgid "seclusion"
+msgstr "уединение"
+
+#: utils/macros.cfg:686
+msgid ""
+"The unit always becomes invisible.\n"
+"\n"
+"Enemy units cannot see this unit, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement."
+msgstr ""
+"Боец невидим для противника.\n"
+"\n"
+" Этот боец остаётся незамеченным для противника, пока тот не окажется рядом с ним. Когда вражеский боец его обнаруживает, то теряет все очки перемещения."
+
+#: utils/macros.cfg:690
+msgid ""
+"Seclusion:\n"
+"The unit always becomes invisible.\n"
+"\n"
+"Enemy units cannot see this unit, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement."
+msgstr ""
+"Уединение: \n"
+" Этот боец невидим для противника.\n"
+"\n"
+" Этот боец остаётся незамеченным для противника, пока тот не окажется рядом с ним. Когда вражеский боец его обнаруживает, то теряет все очки перемещения."
+
+#: utils/macros.cfg:702
+msgid "sleep"
+msgstr "сон"
+
+#: utils/macros.cfg:703
+msgid "This unit cannot move in the daytime."
+msgstr "Боец не может перемещаться днём."
+
+#: utils/macros.cfg:720
+msgid "wakeup"
+msgstr "пробуждение"
+
+#: utils/macros.cfg:721
+msgid "This unit recovers mobility when it grows dark."
+msgstr "Боец возвратит подвижность, когда стемнеет."
+
+#: utils/macros.cfg:850
+msgid "souldrain"
+msgstr "поглощение"
+
+#: utils/macros.cfg:851
+msgid "This unit drains a part of the soul from undead units or living units. It heals itself for 50% of the damage it deals to undead units and 25% of the damage it deals to living units (rounded down)."
+msgstr "Боец поглощает часть души у мёртвых воинов или живых бойцов. Благодаря чему исцеляет до 50% урона, когда имеет дело с мёртвыми противниками до 25%, когда сражается против живых."
+
+#: utils/macros.cfg:858 utils/macros.cfg:859
+msgid "soulbind"
+msgstr "пленение духа"
+
+#: utils/macros.cfg:860
+msgid "Units killed by this attack have their souls bound to the will of their killer."
+msgstr "Бойцы с такой атакой завладевают духом своего противника."
+
+#: utils/macros.cfg:1079
+msgid " During battle, this unit can drain a part of the soul from victims to renew its own health."
+msgstr "Во время сражения боец высасывает часть души противника, чтобы восстановить потерянное здоровье."
+
+#: utils/macros.cfg:1082
+msgid " This unit darkens the surrounding area, making chaotic units fight better, and lawful units fight worse."
+msgstr "Боец затемняет окружающее пространство, благодаря чему хаотические бойцы сражаются сильнее, а порядочные слабее."
+
+#: utils/macros.cfg:1085
+msgid " This unit recovers mobility when it grows dark."
+msgstr "Боец возвратит подвижность, когда стемнеет."
+
+#: utils/macros.cfg:1088
+msgid " This unit cannot move in the daytime."
+msgstr "Боец не может перемещаться днём."
+
+#: utils/macros.cfg:1091
+msgid " Enemy units cannot see this unit, except if they have units next to it."
+msgstr "Воины противника не видят этого бойца, пока не окажутся с ним рядом."
+
+#: utils/macros.cfg:1094
+msgid " This unit can frighten enemy units that are next to it, making them fight worse."
+msgstr "Боец пугает вражеских воинов, заставляя их хуже сражаться."
+
+#: utils/macros.cfg:1099
+msgid "cursed poison"
+msgstr "проклятый яд"
+
+#: utils/macros.cfg:1100
+msgid "This attack poisons not only the living but also the undead. Poisoned units lose 8 HP every turn until they are cured or are reduced to 1 HP. Poison can not, of itself, kill a unit."
+msgstr "Атака с помощью проклятого яда поражает не только живых, но и мертвецов. Отравленные бойцы теряют 8 ЗД каждый ход, в течение которого не лечатся, пока их здоровье не достигнет 1 ЗД. Яд не способен убить вражеского воина."
+
+#: utils/macros.cfg:1129 utils/macros.cfg:1159
+msgid "poisoned"
+msgstr "отравление"
+
+#: units/a0_DM_Walking_Corpse.cfg:6
+msgid "Walking Corpse"
+msgstr "Ходячий труп"
+
+#: units/a0_DM_Walking_Corpse.cfg:18
+msgid "Walking Corpses are the bodies of the dead, re-animated by dark magic. Though not especially dangerous to a trained soldier, the sight of one's former comrades amongst their number is frightening to say the least."
+msgstr "Ходячие трупы — это мертвецы, реанимированные чёрной магией. Хотя они и неопасны для опытных солдат, но сам вид бывшего товарища в их рядах по меньшей мере устрашает."
+
+#: units/a0_DM_Walking_Corpse.cfg:24 units/a1_DM_Soulless.cfg:25
+#: units/a2_Running_Corpse.cfg:25 units/a3_Brain_Eater.cfg:25
+#: units/a4_Battalion.cfg:26 units/boreas_battalion.cfg:50
+#: units/boreas_brain.cfg:35 units/boreas_running.cfg:35
+#: units/boreas_soulless.cfg:35 units/crows_Lich.cfg:50
+#: units/d4_Necro_Oracle.cfg:41 units/merrin_battalion.cfg:84
+#: units/merrin_brain.cfg:83 units/merrin_running.cfg:81
+#: units/merrin_soulless.cfg:82 units/neckfrill_battalion.cfg:81
+#: units/neckfrill_brain.cfg:80 units/neckfrill_running.cfg:80
+#: units/neckfrill_soulless.cfg:80 units/oryzias.cfg:50
+#: units/oryzias_new.cfg:53 units/pech_battalion.cfg:75
+#: units/pech_brain.cfg:74 units/pech_running.cfg:74
+#: units/pech_soulless.cfg:74 units/spelk_battalion.cfg:82
+#: units/spelk_brain.cfg:81 units/spelk_running.cfg:81
+#: units/spelk_soulless.cfg:81 units/zombie_leader.cfg:33
+#: units/zombie_lord.cfg:34
+msgid "touch"
+msgstr "касание"
+
+#: units/a1_DM_Soulless.cfg:6 units/boreas_soulless.cfg:4
+#: units/merrin_soulless.cfg:4 units/neckfrill_soulless.cfg:4
+#: units/pech_soulless.cfg:4 units/spelk_soulless.cfg:4
+msgid "Soulless"
+msgstr "Бездушный"
+
+#: units/a1_DM_Soulless.cfg:19 units/merrin_soulless.cfg:21
+#: units/neckfrill_soulless.cfg:20 units/pech_soulless.cfg:20
+#: units/spelk_soulless.cfg:20
+msgid "The technique of animating a dead body is unfortunately well-known to the dark arts; practitioners often use it to raise servants and soldiers from unwilling corpses. These shamblers are often numerous, but fragile; a touch of combat can waken them, though, making them far more formidable."
+msgstr "Техника оживления тела умершего, к сожалению, очень хорошо известна адептам тёмных искусств. Часто с её помощью из трупов создают слуг и жестоких солдат. Эти волочащие ноги тела, как правило, многочисленны, но слабы. Опыт битвы может, однако, пробудить их, делая их гораздо более опасными противниками."
+
+#: units/a2_Running_Corpse.cfg:6 units/boreas_running.cfg:4
+#: units/merrin_running.cfg:4 units/neckfrill_running.cfg:4
+#: units/pech_running.cfg:4 units/spelk_running.cfg:4
+msgid "Running Corpse"
+msgstr "Подвижный труп"
+
+#: units/a2_Running_Corpse.cfg:19 units/boreas_running.cfg:21
+#: units/merrin_running.cfg:21 units/neckfrill_running.cfg:20
+#: units/pech_running.cfg:20 units/spelk_running.cfg:20
+msgid "Most of corpses animated by Necromancer are slow of movement. But only a few corpses, who have escaped death for a long time and chanced on many meals, regains freshness and can run again. It is difficult to escape from them, so still many living beings will become food for them."
+msgstr "Большинство оживлённых некромантами трупов медлительны и малоподвижны, но со временем, избегая окончательной смерти, в непрестанных поисках пищи они восстанавливают скорость движения и способность к бегу. И ещё больше живых существ станет для них пищей..."
+
+#: units/a3_Brain_Eater.cfg:6 units/boreas_brain.cfg:4
+#: units/merrin_brain.cfg:4 units/neckfrill_brain.cfg:4 units/pech_brain.cfg:4
+#: units/spelk_brain.cfg:4
+msgid "Brain Eater"
+msgstr "Поедатель мозгов."
+
+#: units/a3_Brain_Eater.cfg:19 units/boreas_brain.cfg:21
+#: units/merrin_brain.cfg:22 units/neckfrill_brain.cfg:20
+#: units/pech_brain.cfg:20 units/spelk_brain.cfg:20
+msgid "Brain Eaters are epicurean corpses who take pleasure in eating brains. Brains become the greatest delicacies for them. Do brain lovers change into Brain Eaters, or do Brain Eaters need to eat brains? Anyway, they can run faster and attack stronger than in life. They scare even elite units."
+msgstr "Это своеобразные гурманы, которые получают удовольствие, поедая мозги своих жертв. Возможно, благодаря такой диете, поедатели мозгов и в скорости, и в атаке превосходят других мертвецов."
+
+#: units/a4_Battalion.cfg:6 units/boreas_battalion.cfg:4
+#: units/merrin_battalion.cfg:4 units/neckfrill_battalion.cfg:4
+#: units/pech_battalion.cfg:4 units/spelk_battalion.cfg:4
+msgid "Battalion"
+msgstr "Батальон"
+
+#: units/a4_Battalion.cfg:20 units/boreas_battalion.cfg:22
+#: units/merrin_battalion.cfg:23 units/neckfrill_battalion.cfg:21
+#: units/pech_battalion.cfg:21 units/spelk_battalion.cfg:21
+msgid "How on the earth has this one been entertained? It is not a product of necromancy, but unexpected disaster. Without horses, we couldn't escape from this disaster. Even solid armor can be blown sky-high. For this very reason, they are called Battalion and feared by everyone."
+msgstr "Кто не имеет себе равных на этом свете? Это существо не результат некромантии, но нежданное бедствие. И без резвых лошадей не уйти от него, не скрыться... Понадеяться на броню? Но и она не устоит против невероятной силы одного существа, которое именуют числом многих — батальон."
+
+#: units/b1_Necrophobia.cfg:4
+msgid "Necrophobia"
+msgstr "Некрофобия"
+
+#: units/b1_Necrophobia.cfg:24
+msgid "While Ghoul eats chiefly dead flesh, Necrophobia eats his paralyzed game alive. So, they are called Necrophobia, whcih means extreme fear of dead bodies."
+msgstr "В отличие от вампиров, которые употребляют в пищу мёртвую плоть, некрофобии парализуют жертву и съедают её живьём."
+
+#: units/b1_Necrophobia.cfg:32
+msgid "claws"
+msgstr "когти"
+
+#: units/b2_Ghast.cfg:4
+msgid "Ghast"
+msgstr "гуль"
+
+#: units/b2_Ghast.cfg:22
+msgid "The ghast is a creature taken from humankind's most primal nightmares. Unlike their lesser cousins, ghouls and necrophages, ghasts are not patient enough to wait for their victim to die from poison before consuming the body. They attack directly with their enormous mouths, trying to rip the flesh straight from their foes. Once their enemy is defeated, they eat the rest of the body, gaining strength in the process."
+msgstr "Эти существа - истинные порождения людских кошмаров. В отличие от своих младших родственников, вампиров и некрофагов, гули не дожидаются, пока жертва начнёт умирать от действия яда, а сразу же нападают и разрывают слабую плоть огромными пастями. Как только жертва прекратит сопротивляться, они съедают её целиком и восстанавливают свои силы."
+
+#: units/b2_Ghast.cfg:39 units/L_Ghast.cfg:30 units/zzzVampire.cfg:56
+msgid "bite"
+msgstr "укус"
+
+#: units/b2_Ghast.cfg:51 units/L_Ghast.cfg:42
+msgid "poisoning breath"
+msgstr "отравление дыхание"
+
+#: units/boreas_soulless.cfg:21
+msgid "The technique of animating a dead body is unfortunately well-known to the dark arts; practitioners often use it to raise unwilling servants and soldiers from corpses. These zombies are often numerous, but fragile; a touch of combat can waken them, though, making them far more formidable."
+msgstr "Техника оживления тела умершего, к сожалению, очень хорошо известна адептам тёмных искусств. Часто с её помощью из трупов создают слуг и солдат. Эти трупы, как правило, многочисленны, но слабы. Опыт битвы может, однако, пробудить их, делая их гораздо более опасными противниками."
+
+#: units/c2_DM_Chocobone.cfg:4
+msgid "Chocobone"
+msgstr "Мертвый всадник"
+
+#: units/c2_DM_Chocobone.cfg:20
+msgid "Riding the bones of ostrich-like large birds once used as mounts by a lost civilization, the skeletal Chocobones can move faster than most cavalry units."
+msgstr "Верхом на скелете огромной, похожей на страуса птицы, которую забытые цивилизации использовали вместо лошади, мёртвые всадники могут передвигаться быстрее, чем большинство конных бойцов."
+
+#: units/c2_DM_Chocobone.cfg:25 units/c5_Chocoknight.cfg:26
+#: units/L_Chocoknight.cfg:29 units/neckfrill_battalion.cfg:95
+#: units/neckfrill_brain.cfg:94 units/neckfrill_running.cfg:93
+#: units/neckfrill_soulless.cfg:93
+msgid "spear"
+msgstr "копьё"
+
+#: units/c3_Skeleton_Rider.cfg:4
+msgid "Skeleton Rider"
+msgstr "Скелет всадник"
+
+#: units/c3_Skeleton_Rider.cfg:41
+msgid "These mounted bones are often troublesome scouts because of their peculiar resistance. But skeletal horses can't run as fast as living horses."
+msgstr "Хотя скелеты лошадей и не могут сравниться по скорости с живыми лошадьми, наездники-скелеты из-за особых сопротивлений оказываются неприятными противниками."
+
+#: units/c3_Skeleton_Rider.cfg:62 units/L_Draug.cfg:33
+msgid "axe"
+msgstr "топор"
+
+#: units/c5_Chocoknight.cfg:4 units/L_Chocoknight.cfg:4
+msgid "Chocoknight"
+msgstr "Мёртвый рыцарь"
+
+#: units/c5_Chocoknight.cfg:21 units/L_Chocoknight.cfg:24
+msgid "These skeletal knights are frightening because of their fearlessness of death. If you see this unit, don't embrace the illusion of security behind the defense line."
+msgstr "Эти рыцари-скелеты не ведают страха смерти. Если вам доведётся повстречать такого бойца, то не тешьте напрасных иллюзий, и оставайтесь в безопасном удалении."
+
+#: units/c6_Bone_Dragoon.cfg:5
+msgid "Bone Dragoon"
+msgstr "Костяной драгун"
+
+#: units/c6_Bone_Dragoon.cfg:18
+msgid "This bones on zombie war-horse can run faster than on skeletal horse. Besides that, they have good resistance of human Dragoon."
+msgstr "Костяной всадник верхом на лошади-зомби движется куда быстрее, чем на лошадином скелете. К тому же всадник обладает сопротивлениями человеческого драгуна."
+
+#: units/c6_Bone_Dragoon.cfg:24 units/c7_Dark_Cavalier.cfg:40
+#: units/L_Dark_Cavalier.cfg:47 units/Lord.cfg:35
+msgid "sword"
+msgstr "меч"
+
+#: units/c7_Dark_Cavalier.cfg:5 units/L_Dark_Cavalier.cfg:5
+msgid "Dark Cavalier"
+msgstr "Темный кирасир"
+
+#: units/c7_Dark_Cavalier.cfg:19 units/L_Dark_Cavalier.cfg:21
+msgid "Dark Cavaliers are running nightmares for the living."
+msgstr "Тёмные кирасиры непревзойдённо владеют мечом и копьём. Они покрыты тяжёлой бронёй с головы до пят, поэтому кирасиры используют лошадей не для быстрых перемещений, а для нанесения мощного удара. Эти воины формируют ядро конной армии и выглядят настолько ужасающе, что при виде их пехота неприятеля часто спасается бегством, даже не начиная атаку."
+
+#: units/c8_Deathbringer.cfg:4 units/L_Deathbringer.cfg:4
+msgid "Deathbringer"
+msgstr "Несущий смерть"
+
+#: units/c8_Deathbringer.cfg:22 units/L_Deathbringer.cfg:20
+msgid "Deathbringers generate a sense of helplessness in any living swordsman. Because they are already dead and never fear the blade of his opponent."
+msgstr "Несущие смерть вызывают беспомощность в любом опытном фехтовальщике, так как мёртвый уже умереть не может и не боится лезвий своего противника."
+
+#: units/c8_Deathbringer.cfg:153 units/L_Deathbringer.cfg:152
+msgid "bloody axe"
+msgstr "кровавый топор"
+
+#: units/crows_Lich.cfg:25
+msgid ""
+"A lich is the physical embodiment of black magic's first goal: the quest to achieve immortality. Though a great deal is sacrificed in the rebirth, in becoming a lich one cheats death of that which truly gives it terror. For it is the mind that is retained, and the spirit which follows, though the body may wither away.\n"
+"\n"
+"It is not known, save perhaps by the inner circles of necromancy, whether life is prolonged indefinitely or simply extended. But the fact that this question can be raised at all, testifies to the magnitude of what their order has achieved."
+msgstr ""
+"Лич — это наглядное воплощение главной цели тёмной магии — поисков бессмертия. После того, как при перерождении была принесена великая жертва, ставший личем может обмануть смерть. Его разум сохраняется, душа следует за ним, хотя тела может уже и не быть.\n"
+"\n"
+"Неизвестно, сохраняется ли жизнь посвященного в некромантию навечно, или просто надолго продлевается. Но уже сама постановка вопроса говорит об успехе, которого достигли тёмные колдуны."
+
+#: units/crows_Lich.cfg:62 units/oryzias.cfg:62 units/oryzias_new.cfg:66
+msgid "chill tempest"
+msgstr "холодная буря"
+
+#: units/crows_Lich.cfg:74 units/d2_Dead_Priest.cfg:53
+#: units/d4_Necro_Oracle.cfg:54 units/oryzias.cfg:74 units/oryzias_new.cfg:79
+msgid "shadow wave"
+msgstr "теневая волна"
+
+#: units/d1_Zombie_Mage.cfg:5
+msgid "Zombie Mage"
+msgstr "Зомби Маг"
+
+#: units/d1_Zombie_Mage.cfg:28
+msgid "Zombie Mages are thinly distributed. They are formidable corpses who retain knowledge of magic."
+msgstr "Способные к магии зомби встречаются очень редко. Они — устрашающие трупы, которые сохранили магические знания."
+
+#: units/d1_Zombie_Mage.cfg:37 units/d2_Dead_Priest.cfg:40
+#: units/d3_Dead_Sorcerer.cfg:34 units/d5_Necro_Wizard.cfg:38
+#: units/philosophy_lv3.cfg:37 units/philosophy_lv4.cfg:42
+msgid "plague staff"
+msgstr "чумной посох"
+
+#: units/d1_Zombie_Mage.cfg:50 units/d3_Dead_Sorcerer.cfg:48
+#: units/d5_Necro_Wizard.cfg:51 units/philosophy_lv3.cfg:50
+#: units/philosophy_lv4.cfg:55
+msgid "fireball"
+msgstr "шаровая молния"
+
+#: units/d1_Zombie_Mage.cfg:63 units/d3_Dead_Sorcerer.cfg:61
+#: units/d5_Necro_Wizard.cfg:64 units/philosophy_lv3.cfg:63
+#: units/philosophy_lv4.cfg:68
+msgid "iceball"
+msgstr "ледяной шар"
+
+#: units/d2_Dead_Priest.cfg:4
+msgid "Dead Priest"
+msgstr "Мёртвый жрец"
+
+#: units/d2_Dead_Priest.cfg:27
+msgid "Dead Priests are healers for the dead."
+msgstr "Мертвый Жрец — своеобразный целитель мёртвых тел."
+
+#: units/d3_Dead_Sorcerer.cfg:4
+msgid "Dead Sorcerer"
+msgstr "Мёртвый волшебник"
+
+#: units/d3_Dead_Sorcerer.cfg:28
+msgid "They like well-done or freezing flesh."
+msgstr "Мёртвые колдуны питают склонность к замораживанию плоти."
+
+#: units/d4_Necro_Oracle.cfg:4
+msgid "Necro Oracle"
+msgstr "Мёртвый оракул"
+
+#: units/d4_Necro_Oracle.cfg:28
+msgid "Necro Oracles always sentence the living to death."
+msgstr "Мёртвые оракулы всегда приговаривают жизнь к смерти."
+
+#: units/d5_Necro_Wizard.cfg:4 units/philosophy_lv3.cfg:4
+msgid "Necro Wizard"
+msgstr "Мёртвый колдун"
+
+#: units/d5_Necro_Wizard.cfg:29 units/philosophy_lv3.cfg:28
+msgid "Necro Wizards look distressed. Because their magic is so strong that the victims are completely destroyed. They are always hungery."
+msgstr "Мёртвые колдуны часто выглядят несчастными, потому что их магия настолько сильна, что их жертвы моментально рассыпаются в прах. Им нетдостойных соперников, и потому они вечно злы."
+
+#: units/deathlord.cfg:4
+msgid "Death Lord"
+msgstr "Лорд смерти"
+
+#: units/deathlord.cfg:18
+msgid "Death Lord is a particular kind of Deathblade who can lead other undead."
+msgstr "Это особая разновидность клинка смерти, которые способны вести за собой других мертвецов."
+
+#: units/deathlord.cfg:150 units/deathmaster.cfg:150 units/deathruler.cfg:151
+msgid "plague axe"
+msgstr "чумной топор"
+
+#: units/deathmaster.cfg:4
+msgid "Death Master"
+msgstr "Повелитель смерти"
+
+#: units/deathmaster.cfg:18
+msgid "Death Master is something of Marshal for the dead."
+msgstr "Повелитель смерти — маршал мёртвых."
+
+#: units/deathruler.cfg:4
+msgid "Death Ruler"
+msgstr "Король мёртвых"
+
+#: units/deathruler.cfg:19
+msgid "Death Ruler is a legend for the dead."
+msgstr "Король мётрвых - легендарный мертвец."
+
+#: units/L_Banebow.cfg:4
+msgid "Banebow"
+msgstr "Проклятый лучник"
+
+#: units/L_Banebow.cfg:19
+msgid "The most powerful of the undead archers invariably end up being those who were themselves archers in their previous life. They wander the fields of battle, guided by the fading memory of their former skill, neither knowing, nor caring what their purpose or foes might be. They are driven only by a malice born of their empty and tortured existence."
+msgstr "Самые могущественные из мёртвых лучников ещё при жизни были хорошими стрелками. Они бродят по полю боя, ведомые угасающей памятью об их навыках, не зная ни своего предназначения, ни кто их враг. Их ведет только злоба, порожденная муками пустого и бессмысленного существования."
+
+#: units/L_Banebow.cfg:33
+msgid "dagger"
+msgstr "кинжал"
+
+#: units/L_Banebow.cfg:42 units/Lord.cfg:44
+msgid "bow"
+msgstr "лук"
+
+#: units/L_Draug.cfg:4
+msgid "Draug"
+msgstr "Драуг"
+
+#: units/L_Draug.cfg:20
+msgid "There is little left, in these towering ruins, of the men they once were. Warriors at heart, they are now lost in the dream of unlife; wandering through the battles of their memory and fighting desperately for release, for a peace bought only by strength of arms. And so they struggle; both unthinking, and unrelenting."
+msgstr "В этих солдатах, возвышающихся над прочими, мало осталось от прежней человеческой натуры. Воины в душе, они заблудились во сне своей не-жизни. Они блуждают по битвам своих воспоминаний, и отчаянно бьются за освобождение, за мир, который приобретается только силой оружия. Потому они дерутся, бездумно и беспощадно."
+
+#: units/L_Ghast.cfg:5
+msgid "Cursed Ghast"
+msgstr "Проклятый гуль"
+
+#: units/L_Ghast.cfg:21
+msgid "This ghast is put under a curse by Ancient Lich. As a result, its poison can work against even undead units."
+msgstr "Когда-то на этого гуля наложил проклятие древний лич, и теперь яд упыря способен поразить даже мёртвых бойцов"
+
+#: units/Lord.cfg:7
+msgid "Generalissimo"
+msgstr "Генералиссимус"
+
+#: units/merrin_battalion.cfg:96 units/merrin_brain.cfg:95
+#: units/merrin_running.cfg:93 units/merrin_soulless.cfg:94
+msgid "plaguebeam"
+msgstr "чумное сияние"
+
+#: units/oryzias.cfg:4 units/oryzias_new.cfg:4
+msgid "Ancient Lich"
+msgstr "Древний Лич"
+
+#: units/oryzias.cfg:27 units/oryzias_new.cfg:28
+msgid "A being of this order is a revenant of ages long past. Anyone who encounters an Ancient Lich likely has far worse things to worry about than death."
+msgstr "Они пришли из древних времен. Любому, кто встретит древнего лича, следует опасаться вещей гораздо более худших, нежели смерть."
+
+#: units/philosophy_lv4.cfg:4
+msgid "Necro Sophist"
+msgstr "Мёртвый мудрец"
+
+#: units/philosophy_lv4.cfg:33
+msgid "Necro Sohist is a Zombie Mage who reached  perfection of magic after having been dead."
+msgstr "Мёртвыми мудрецами называют магов зомби, которые достигли колдовского совершенства."
+
+#: units/Princess.cfg:4
+msgid "Aide-de-Camp"
+msgstr "Советница"
+
+#: units/Princess.cfg:30 units/Princess_spirit.cfg:31
+msgid "A noble by birth, the Princess has learnt swordplay with the greatest generals and battle tactics with the greatest sages, making her both a great combatant and leader. The units of lower level around the Princess will fight better due to her presence. The Princess is also nimble and dextrous, having skills like that of a thief."
+msgstr "Принцесса, потомок знатного рода, училась искусству владения мечом у величайших воинов, тактике боя у выдающихся стратегов, став великой воительницей и лидером. Сильная волей, закалённая в боях, она поможет всем, кто окружает её, сражаться ещё искуснее."
+
+#: units/Princess.cfg:34 units/Princess_spirit.cfg:39
+msgid "saber"
+msgstr "сабля"
+
+#: units/Princess_spirit.cfg:5
+msgid "The Soul"
+msgstr "Душа"
+
+#: units/zombie_leader.cfg:4
+msgid "Zombie Leader"
+msgstr "Вожак зомби"
+
+#: units/zombie_leader.cfg:19
+msgid "In rare cases, there is a zombie who can lead other zombies. To be Zombie Leader, he must have the charima and leadership as well as intelligence and will. Indeed, it sounds more like a joke."
+msgstr "Очень редко встречается зомби, который превосходит своих мёртвых 'товарищей' в силе и ловкости. А чтобы повести за собой лишённых разума мертвецов такой зомби должен обладать харизмой и каким-никаким интеллектом. Походит на шутку, не правда ли?"
+
+#: units/zombie_lord.cfg:4
+msgid "Zombie Lord"
+msgstr "Лорд зомби"
+
+#: units/zombie_lord.cfg:20
+msgid "Zombie Lord is a skilled Zombie Leader who can lead more undead units. That's really a dream of corpses. Maybe."
+msgstr "Это особый, практически не встречающийся, зомби, который способен вести за собой мёртвых. Возможно, лорд зомби всего лишь плод мечтаний неупокоенных воинов."
+
+#: units/zz_Giant_Ant.cfg:5
+msgid "Giant Ant"
+msgstr "Гигантский Муравей"
+
+#: units/zz_Giant_Ant.cfg:19
+msgid "Ants are common in almost any environment, from caverns deep under the earth to the tops of tall mountains. Those that live deep underground tend to grow up over their normal size. Though normally not hostile, they can bite at close range, dealing more damage than a normal-sized ant."
+msgstr "Гигантских муравьёв можно встретить практически везде — от пещер глубоко под землёй до горных вершин. Обычно они не агрессивны, но если вы нарушите границы их территорий, то они могут напасть на вас."
+
+#: units/zz_Giant_Ant.cfg:24 units/zz_Hound.cfg:25
+msgid "fangs"
+msgstr "клыки"
+
+#: units/zz_Hound.cfg:5
+msgid "Hound"
+msgstr "Пёс"
+
+#: units/zz_Hound.cfg:20
+msgid "Vicious dogs."
+msgstr "Злобные собаки"
+
+#: units/zzzVampire.cfg:5
+msgid "Vampire"
+msgstr "Вампир"
+
+#: units/zzzVampire.cfg:20
+msgid "Vampire (especially elder one) is King of Night. During the hours of darkness, he is invincible. He can transform himself into fog and bat."
+msgstr ""
+"Вампиры подлинные короли ночи: когда тьма окутывает мир, они не знают себе равных. \n"
+" Особое: вампиры могут обратиться туманом и летучей мышью."
+
+#: units/zzzVampire.cfg:46
+msgid "slash"
+msgstr "разрез"
+
+#: units/zzzVampire.cfg:69 units/zzzVampire_sleeping.cfg:64
+msgid "dominate"
+msgstr "подавление"
+
+#: units/zzzVampire_sleeping.cfg:5
+msgid "Sleeping Vampire"
+msgstr "Спящий Вампир"
+
+#: units/zzzVampire_sleeping.cfg:20
+msgid "During the day, Vampire is an useless fellow. He can't move one bit."
+msgstr "Днём от вампира толку мало. Он способен переместиться лишь на один гекс."

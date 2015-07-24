@@ -1,0 +1,11 @@
+#textdomain wesnoth-Danse_Macabre
+
+[unit_type]
+    [base_unit]
+        id=Death Knight
+    [/base_unit]
+    id=Death Knight DM
+    [advancefrom]
+        unit=Revenant
+    [/advancefrom]
+[/unit_type]
