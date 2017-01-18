@@ -1,0 +1,4728 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Danse_Macabre-1.12\n"
+"POT-Creation-Date: 2017-01-18 11:07 UTC\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [unit_type]: id=L Deathbringer, race=undead
+#. [unit_type]: id=Deathbringer, race=undead
+#: Danse_Macabre/units/L_Deathbringer.cfg:4
+#: Danse_Macabre/units/c8_Deathbringer.cfg:4
+msgid "Deathbringer"
+msgstr ""
+
+#. [unit_type]: id=L Deathbringer, race=undead
+#. [unit_type]: id=Deathbringer, race=undead
+#: Danse_Macabre/units/L_Deathbringer.cfg:20
+#: Danse_Macabre/units/c8_Deathbringer.cfg:22
+msgid "Deathbringers generate a sense of helplessness in any living swordsman. Because they are already dead and never fear the blade of his opponent."
+msgstr ""
+
+#. [attack]: type=blade
+#: Danse_Macabre/units/L_Deathbringer.cfg:152
+#: Danse_Macabre/units/c8_Deathbringer.cfg:153
+msgid "bloody axe"
+msgstr ""
+
+#. [unit_type]: id=Brain Neckfrill, race=undead
+#. [unit_type]: id=Brain Merrin, race=undead
+#. [unit_type]: id=Brain Pech, race=undead
+#. [unit_type]: id=Brain Spelk, race=undead
+#. [unit_type]: id=Brain Eater, race=undead
+#. [unit_type]: id=Brain Boreas, race=undead
+#: Danse_Macabre/units/neckfrill_brain.cfg:4
+#: Danse_Macabre/units/merrin_brain.cfg:4
+#: Danse_Macabre/units/pech_brain.cfg:4
+#: Danse_Macabre/units/spelk_brain.cfg:5
+#: Danse_Macabre/units/a3_Brain_Eater.cfg:6
+#: Danse_Macabre/units/boreas_brain.cfg:4
+msgid "Brain Eater"
+msgstr ""
+
+#. [unit_type]: id=Brain Neckfrill, race=undead
+#. [unit_type]: id=Brain Merrin, race=undead
+#. [unit_type]: id=Brain Pech, race=undead
+#. [unit_type]: id=Brain Spelk, race=undead
+#. [unit_type]: id=Brain Eater, race=undead
+#. [unit_type]: id=Brain Boreas, race=undead
+#: Danse_Macabre/units/neckfrill_brain.cfg:20
+#: Danse_Macabre/units/merrin_brain.cfg:22
+#: Danse_Macabre/units/pech_brain.cfg:20
+#: Danse_Macabre/units/spelk_brain.cfg:21
+#: Danse_Macabre/units/a3_Brain_Eater.cfg:19
+#: Danse_Macabre/units/boreas_brain.cfg:21
+msgid "Brain Eaters are epicurean corpses who take pleasure in eating brains. Brains become the greatest delicacies for them. Do brain lovers change into Brain Eaters, or do Brain Eaters need to eat brains? Anyway, they can run faster and attack stronger than in life. They scare even elite units."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Danse_Macabre/units/merrin_brain.cfg:95
+#: Danse_Macabre/units/merrin_running.cfg:93
+#: Danse_Macabre/units/merrin_battalion.cfg:96
+msgid "plaguebeam"
+msgstr ""
+
+#. [unit_type]: id=Giant Ant, race=monster
+#: Danse_Macabre/units/zz_Giant_Ant.cfg:5
+msgid "Giant Ant"
+msgstr ""
+
+#. [unit_type]: id=Giant Ant, race=monster
+#: Danse_Macabre/units/zz_Giant_Ant.cfg:19
+msgid "Ants are common in almost any environment, from caverns deep under the earth to the tops of tall mountains. Those that live deep underground tend to grow up over their normal size. Though normally not hostile, they can bite at close range, dealing more damage than a normal-sized ant."
+msgstr ""
+
+#. [unit_type]: id=Running Spelk, race=undead
+#. [unit_type]: id=Running Merrin, race=undead
+#. [unit_type]: id=Running Neckfrill, race=undead
+#. [unit_type]: id=Running Pech, race=undead
+#. [unit_type]: id=Running Corpse, race=undead
+#. [unit_type]: id=Running Boreas, race=undead
+#: Danse_Macabre/units/spelk_running.cfg:5
+#: Danse_Macabre/units/merrin_running.cfg:4
+#: Danse_Macabre/units/neckfrill_running.cfg:4
+#: Danse_Macabre/units/pech_running.cfg:4
+#: Danse_Macabre/units/a2_Running_Corpse.cfg:6
+#: Danse_Macabre/units/boreas_running.cfg:4
+msgid "Running Corpse"
+msgstr ""
+
+#. [unit_type]: id=Running Spelk, race=undead
+#. [unit_type]: id=Running Merrin, race=undead
+#. [unit_type]: id=Running Neckfrill, race=undead
+#. [unit_type]: id=Running Pech, race=undead
+#. [unit_type]: id=Running Corpse, race=undead
+#. [unit_type]: id=Running Boreas, race=undead
+#: Danse_Macabre/units/spelk_running.cfg:21
+#: Danse_Macabre/units/merrin_running.cfg:21
+#: Danse_Macabre/units/neckfrill_running.cfg:20
+#: Danse_Macabre/units/pech_running.cfg:20
+#: Danse_Macabre/units/a2_Running_Corpse.cfg:19
+#: Danse_Macabre/units/boreas_running.cfg:21
+msgid "Most of corpses animated by Necromancer are slow of movement. But only a few corpses, who have escaped death for a long time and chanced on many meals, regains freshness and can run again. It is difficult to escape from them, so still many living beings will become food for them."
+msgstr ""
+
+#. [unit_type]: id=Dead Sorcerer, race=undead
+#: Danse_Macabre/units/d3_Dead_Sorcerer.cfg:4
+msgid "Dead Sorcerer"
+msgstr ""
+
+#. [unit_type]: id=Dead Sorcerer, race=undead
+#: Danse_Macabre/units/d3_Dead_Sorcerer.cfg:28
+msgid "They like well-done or freezing flesh."
+msgstr ""
+
+#. [attack]: type=cold
+#: Danse_Macabre/units/d3_Dead_Sorcerer.cfg:61
+#: Danse_Macabre/units/philosophy_lv3.cfg:64
+#: Danse_Macabre/units/philosophy_lv4.cfg:69
+#: Danse_Macabre/units/d1_Zombie_Mage.cfg:63
+#: Danse_Macabre/units/d5_Necro_Wizard.cfg:64
+msgid "iceball"
+msgstr ""
+
+#. [unit_type]: id=Princess, race=human
+#: Danse_Macabre/units/Princess.cfg:5
+msgid "Aide-de-Camp"
+msgstr ""
+
+#. [unit_type]: id=Princess, race=human
+#. [unit_type]: id=SpiritPrincess, race=undead
+#: Danse_Macabre/units/Princess.cfg:31
+#: Danse_Macabre/units/Princess_spirit.cfg:31
+msgid "A noble by birth, the Princess has learnt swordplay with the greatest generals and battle tactics with the greatest sages, making her both a great combatant and leader. The units of lower level around the Princess will fight better due to her presence. The Princess is also nimble and dextrous, having skills like that of a thief."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Danse_Macabre/units/b2_Ghast.cfg:53
+#: Danse_Macabre/units/L_Ghast.cfg:42
+msgid "poisoning breath"
+msgstr ""
+
+#. [unit_type]: id=Wizard philosophy, race=undead
+#. [unit_type]: id=Necro Wizard, race=undead
+#: Danse_Macabre/units/philosophy_lv3.cfg:5
+#: Danse_Macabre/units/d5_Necro_Wizard.cfg:4
+msgid "Necro Wizard"
+msgstr ""
+
+#. [unit_type]: id=Wizard philosophy, race=undead
+#. [unit_type]: id=Necro Wizard, race=undead
+#: Danse_Macabre/units/philosophy_lv3.cfg:29
+#: Danse_Macabre/units/d5_Necro_Wizard.cfg:29
+msgid "Necro Wizards look distressed. Because their magic is so strong that the victims are completely destroyed. They are always hungery."
+msgstr ""
+
+#. [unit_type]: id=Vampire, race=undead
+#: Danse_Macabre/units/zzzVampire.cfg:5
+msgid "Vampire"
+msgstr ""
+
+#. [unit_type]: id=Vampire, race=undead
+#: Danse_Macabre/units/zzzVampire.cfg:20
+msgid "Vampire (especially elder one) is King of Night. During the hours of darkness, he is invincible. He can transform himself into fog and bat."
+msgstr ""
+
+#. [attack]: type=blade
+#: Danse_Macabre/units/zzzVampire.cfg:46
+msgid "slash"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Danse_Macabre/units/zzzVampire.cfg:69
+#: Danse_Macabre/units/zzzVampire_sleeping.cfg:64
+msgid "dominate"
+msgstr ""
+
+#. [unit_type]: id=Bone Dragoon, race=undead
+#: Danse_Macabre/units/c6_Bone_Dragoon.cfg:5
+msgid "Bone Dragoon"
+msgstr ""
+
+#. [unit_type]: id=Bone Dragoon, race=undead
+#: Danse_Macabre/units/c6_Bone_Dragoon.cfg:18
+msgid "This bones on zombie war-horse can run faster than on skeletal horse. Besides that, they have good resistance of human Dragoon."
+msgstr ""
+
+#. [unit_type]: id=Necrophobia, race=undead
+#: Danse_Macabre/units/b1_Necrophobia.cfg:4
+msgid "Necrophobia"
+msgstr ""
+
+#. [unit_type]: id=Necrophobia, race=undead
+#: Danse_Macabre/units/b1_Necrophobia.cfg:24
+msgid "While Ghoul eats chiefly dead flesh, Necrophobia eats his paralyzed game alive. So, they are called Necrophobia, whcih means extreme fear of dead bodies."
+msgstr ""
+
+#. [unit_type]: id=Necro Oracle, race=undead
+#: Danse_Macabre/units/d4_Necro_Oracle.cfg:4
+msgid "Necro Oracle"
+msgstr ""
+
+#. [unit_type]: id=Necro Oracle, race=undead
+#: Danse_Macabre/units/d4_Necro_Oracle.cfg:28
+msgid "Necro Oracles always sentence the living to death."
+msgstr ""
+
+#. [unit_type]: id=L Chocoknight, race=undead
+#. [unit_type]: id=Chocoknight, race=undead
+#: Danse_Macabre/units/L_Chocoknight.cfg:4
+#: Danse_Macabre/units/c5_Chocoknight.cfg:4
+msgid "Chocoknight"
+msgstr ""
+
+#. [unit_type]: id=L Chocoknight, race=undead
+#. [unit_type]: id=Chocoknight, race=undead
+#: Danse_Macabre/units/L_Chocoknight.cfg:24
+#: Danse_Macabre/units/c5_Chocoknight.cfg:21
+msgid "These skeletal knights are frightening because of their fearlessness of death. If you see this unit, don't embrace the illusion of security behind the defense line."
+msgstr ""
+
+#. [unit_type]: id=Sleeping Vampire, race=undead
+#: Danse_Macabre/units/zzzVampire_sleeping.cfg:5
+msgid "Sleeping Vampire"
+msgstr ""
+
+#. [unit_type]: id=Sleeping Vampire, race=undead
+#: Danse_Macabre/units/zzzVampire_sleeping.cfg:20
+msgid "During the day, Vampire is an useless fellow. He can't move one bit."
+msgstr ""
+
+#. [unit_type]: id=Sophist philosophy, race=undead
+#: Danse_Macabre/units/philosophy_lv4.cfg:5
+msgid "Necro Sophist"
+msgstr ""
+
+#. [unit_type]: id=Sophist philosophy, race=undead
+#: Danse_Macabre/units/philosophy_lv4.cfg:34
+msgid "Necro Sohist is a Zombie Mage who reached  perfection of magic after having been dead."
+msgstr ""
+
+#. [unit_type]: id=Death Lord, race=undead
+#: Danse_Macabre/units/deathlord.cfg:4
+msgid "Death Lord"
+msgstr ""
+
+#. [unit_type]: id=Death Lord, race=undead
+#: Danse_Macabre/units/deathlord.cfg:18
+msgid "Death Lord is a particular kind of Deathblade who can lead other undead."
+msgstr ""
+
+#. [attack]: type=blade
+#: Danse_Macabre/units/deathlord.cfg:150
+#: Danse_Macabre/units/deathruler.cfg:151
+#: Danse_Macabre/units/deathmaster.cfg:150
+msgid "plague axe"
+msgstr ""
+
+#. [unit_type]: id=Hound, race=monster
+#: Danse_Macabre/units/zz_Hound.cfg:5
+msgid "Hound"
+msgstr ""
+
+#. [unit_type]: id=Hound, race=monster
+#: Danse_Macabre/units/zz_Hound.cfg:20
+msgid "Vicious dogs."
+msgstr ""
+
+#. [unit_type]: id=Dark Cavalier, race=undead
+#. [unit_type]: id=L Dark Cavalier, race=undead
+#: Danse_Macabre/units/c7_Dark_Cavalier.cfg:5
+#: Danse_Macabre/units/L_Dark_Cavalier.cfg:5
+msgid "Dark Cavalier"
+msgstr ""
+
+#. [unit_type]: id=Dark Cavalier, race=undead
+#. [unit_type]: id=L Dark Cavalier, race=undead
+#: Danse_Macabre/units/c7_Dark_Cavalier.cfg:19
+#: Danse_Macabre/units/L_Dark_Cavalier.cfg:21
+msgid "Dark Cavaliers are running nightmares for the living."
+msgstr ""
+
+#. [unit_type]: id=L Ghast, race=undead
+#: Danse_Macabre/units/L_Ghast.cfg:5
+msgid "Cursed Ghast"
+msgstr ""
+
+#. [unit_type]: id=L Ghast, race=undead
+#: Danse_Macabre/units/L_Ghast.cfg:21
+msgid "This ghast is put under a curse by Ancient Lich. As a result, its poison can work against even undead units."
+msgstr ""
+
+#. [unit_type]: id=Battalion Merrin, race=undead
+#. [unit_type]: id=Battalion Pech, race=undead
+#. [unit_type]: id=Battalion, race=undead
+#. [unit_type]: id=Battalion Neckfrill, race=undead
+#. [unit_type]: id=Battalion Boreas, race=undead
+#. [unit_type]: id=Battalion Spelk, race=undead
+#: Danse_Macabre/units/merrin_battalion.cfg:4
+#: Danse_Macabre/units/pech_battalion.cfg:4
+#: Danse_Macabre/units/a4_Battalion.cfg:6
+#: Danse_Macabre/units/neckfrill_battalion.cfg:4
+#: Danse_Macabre/units/boreas_battalion.cfg:4
+#: Danse_Macabre/units/spelk_battalion.cfg:5
+msgid "Battalion"
+msgstr ""
+
+#. [unit_type]: id=Battalion Merrin, race=undead
+#. [unit_type]: id=Battalion Pech, race=undead
+#. [unit_type]: id=Battalion, race=undead
+#. [unit_type]: id=Battalion Neckfrill, race=undead
+#. [unit_type]: id=Battalion Boreas, race=undead
+#. [unit_type]: id=Battalion Spelk, race=undead
+#: Danse_Macabre/units/merrin_battalion.cfg:23
+#: Danse_Macabre/units/pech_battalion.cfg:21
+#: Danse_Macabre/units/a4_Battalion.cfg:20
+#: Danse_Macabre/units/neckfrill_battalion.cfg:21
+#: Danse_Macabre/units/boreas_battalion.cfg:22
+#: Danse_Macabre/units/spelk_battalion.cfg:22
+msgid "How on the earth has this one been entertained? It is not a product of necromancy, but unexpected disaster. Without horses, we couldn't escape from this disaster. Even solid armor can be blown sky-high. For this very reason, they are called Battalion and feared by everyone."
+msgstr ""
+
+#. [unit_type]: id=Zombie Leader, race=undead
+#: Danse_Macabre/units/zombie_leader.cfg:4
+msgid "Zombie Leader"
+msgstr ""
+
+#. [unit_type]: id=Zombie Leader, race=undead
+#: Danse_Macabre/units/zombie_leader.cfg:19
+msgid "In rare cases, there is a zombie who can lead other zombies. To be Zombie Leader, he must have the charima and leadership as well as intelligence and will. Indeed, it sounds more like a joke."
+msgstr ""
+
+#. [unit_type]: id=Lord, race=human
+#: Danse_Macabre/units/Lord.cfg:7
+msgid "Generalissimo"
+msgstr ""
+
+#. [unit_type]: id=Death Ruler, race=undead
+#: Danse_Macabre/units/deathruler.cfg:4
+msgid "Death Ruler"
+msgstr ""
+
+#. [unit_type]: id=Death Ruler, race=undead
+#: Danse_Macabre/units/deathruler.cfg:19
+msgid "Death Ruler is a legend for the dead."
+msgstr ""
+
+#. [unit_type]: id=Dead Priest, race=undead
+#: Danse_Macabre/units/d2_Dead_Priest.cfg:5
+msgid "Dead Priest"
+msgstr ""
+
+#. [unit_type]: id=Dead Priest, race=undead
+#: Danse_Macabre/units/d2_Dead_Priest.cfg:28
+msgid "Dead Priests are healers for the dead."
+msgstr ""
+
+#. [unit_type]: id=Zombie Mage, race=undead
+#: Danse_Macabre/units/d1_Zombie_Mage.cfg:5
+msgid "Zombie Mage"
+msgstr ""
+
+#. [unit_type]: id=Zombie Mage, race=undead
+#: Danse_Macabre/units/d1_Zombie_Mage.cfg:28
+msgid "Zombie Mages are thinly distributed. They are formidable corpses who retain knowledge of magic."
+msgstr ""
+
+#. [unit_type]: id=Zombie Lord, race=undead
+#: Danse_Macabre/units/zombie_lord.cfg:4
+msgid "Zombie Lord"
+msgstr ""
+
+#. [unit_type]: id=Zombie Lord, race=undead
+#: Danse_Macabre/units/zombie_lord.cfg:20
+msgid "Zombie Lord is a skilled Zombie Leader who can lead more undead units. That's really a dream of corpses. Maybe."
+msgstr ""
+
+#. [unit_type]: id=SpiritPrincess, race=undead
+#: Danse_Macabre/units/Princess_spirit.cfg:5
+msgid "The Soul"
+msgstr ""
+
+#. [unit_type]: id=Skeleton Rider, race=undead
+#: Danse_Macabre/units/c3_Skeleton_Rider.cfg:4
+msgid "Skeleton Rider"
+msgstr ""
+
+#. [unit_type]: id=Skeleton Rider, race=undead
+#: Danse_Macabre/units/c3_Skeleton_Rider.cfg:41
+msgid "These mounted bones are often troublesome scouts because of their peculiar resistance. But skeletal horses can't run as fast as living horses."
+msgstr ""
+
+#. [unit_type]: id=Death Master, race=undead
+#: Danse_Macabre/units/deathmaster.cfg:4
+msgid "Death Master"
+msgstr ""
+
+#. [unit_type]: id=Death Master, race=undead
+#: Danse_Macabre/units/deathmaster.cfg:18
+msgid "Death Master is something of Marshal for the dead."
+msgstr ""
+
+#. [scenario]: id=14_night_of_the_living_dead
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:6
+msgid "Night of the living dead"
+msgstr ""
+
+#. [side]: type=Death Lord, id=Macabre
+#. [side]: type=Zombie Leader, id=Macabre
+#. [unit]: type=Death Lord, id=Macabre
+#. [part]
+#. [side]
+#. [side]: type=Lord, id=Macabre0
+#. [side]: type=DM Soulless, id=Macabre1
+#. [message]: speaker=narrator
+#. [unit]: id=Macabre, type=Zombie Leader
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:20
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:23
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:27
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:30
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:38
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:40
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:418
+#: Danse_Macabre/scenarios/14_bridge.cfg:18
+#: Danse_Macabre/scenarios/14_bridge.cfg:21
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:25
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:28
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:23
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:46
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:88
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:90
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:103
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:104
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:17
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:20
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:37
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:40
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:30
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:33
+#: Danse_Macabre/scenarios/08_the_dead_bondage0c.cfg:15
+#: Danse_Macabre/scenarios/08_the_dead_bondage0c.cfg:18
+#: Danse_Macabre/scenarios/08_the_dead_bondage0c.cfg:26
+#: Danse_Macabre/scenarios/08_the_dead_bondage0c.cfg:28
+#: Danse_Macabre/scenarios/08_the_dead_bondage0c.cfg:261
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:27
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:30
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:27
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:30
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:39
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:42
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:24
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:27
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:40
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:67
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:70
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:16
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:19
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:52
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:54
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:620
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:48
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:50
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:39
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:42
+msgid "Macabre"
+msgstr ""
+
+#. [side]: type=newMal Oryzias, id=Mal Oryzias
+#. [side]: type=Lich, id=leader3
+#. [side]: type=Lich, id=leader4
+#. [side]: type=Lich, id=leader5
+#. [side]: type=Necromancer, id=leader6
+#. [side]: type=Necromancer, id=leader7
+#. [side]: type=Necromancer, id=leader8
+#. [side]: type=Necromancer, id=leader9
+#. [side]: type=Mal Oryzias, id=Mal Oryzias
+#. [side]: type=crows, id=crows
+#. [side]
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:38
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:73
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:93
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:114
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:135
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:156
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:178
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:194
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:34
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:48
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:68
+#: Danse_Macabre/scenarios/08_the_dead_bondage0c.cfg:40
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:32
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:55
+msgid "Lich"
+msgstr ""
+
+#. [side]: type=newMal Oryzias, id=Mal Oryzias
+#. [side]: type=Mal Oryzias, id=Mal Oryzias
+#. [unit]: type=Mal Oryzias, id=Mal Oryzias
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:41
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:37
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:51
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:205
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:121
+msgid "Mal Oryzias"
+msgstr ""
+
+#. [objective]: condition=win
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:235
+msgid "Survive in anyway possible"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:239
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:651
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:96
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:748
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:88
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:108
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:590
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:144
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:132
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:238
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:184
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:761
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:711
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:348
+msgid "Death of Macabre"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:387
+msgid "Ahh...so you have abandoned your fellows, haven't you?"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:391
+msgid "Say what you want! I'm fed up with chasing. We're going to settle this here and now!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:395
+msgid "Bah. What can you do without your main forces? I, however, have scraped together many souls of the dead and gained strength like never before. You can't even touch me, and you will perish here!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:415
+msgid "(One gatekeeper and two mobile forces... If this goes on, I will be attacked from both sides. It's better to defeat the gatekeeper quickly and take up my position inside the castle...)"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:481
+msgid "Damn! What is this crap?"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:485
+msgid "What's wrong with you? Can't you defeat even a gatekeeper? Hehe."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:489
+msgid "(There must be some tricks... OK, I'll defeat two other enemies. Though the task will be quite a challenge, I have no choice in this case.)"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:559
+msgid "Boss!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:563
+msgid "Is that you, Boreas!?"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:567
+msgid "Oh, thank heavens I made it in time! We annihilated the enemies."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:571
+msgid "Good! What of the rest?"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:575
+msgid "Everyone was all right. They should be here at dawn!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:579
+msgid "OK. Just a little more patience! Everyone, build up the defenses and survive!"
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:622
+msgid "Yoo-hoo!"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:626
+msgid "Are you safe?"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:630
+msgid "Philosophy! Merrin! The gamble has paid off...All that is left is to kill the lich."
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:634
+msgid "You can count on me!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:638
+msgid "Now you can recall your units."
+msgstr ""
+
+#. [objective]: condition=win
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:647
+msgid "Kill the Ancient Lich"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:655
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:100
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:752
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:92
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:112
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:594
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:148
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:136
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:242
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:188
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:765
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:352
+msgid "Death of Merrin"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:659
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:104
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:756
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:116
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:598
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:152
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:140
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:246
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:192
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:769
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:356
+msgid "Death of Boreas"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:663
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:108
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:120
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:602
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:156
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:144
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:196
+msgid "Death of Philosophy"
+msgstr ""
+
+#. [objectives]
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:665
+msgid "This is the last battle."
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:673
+msgid "By the way, what is our immediate priority?"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:677
+msgid "I can't eliminate that gatekeeper. He must be protected by some sort of power."
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:681
+msgid "Hmm... I suspect their keeps."
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:700
+msgid "Yes, shall we destroy them?"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:704
+msgid "OK. Let's try it."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:708
+msgid "Put your units on the two keeps, and they will be destroyed."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:745
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:833
+msgid "The keep has been destroyed."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:763
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:851
+msgid "Good. Let's see what happens..."
+msgstr ""
+
+#. [message]: speaker=gateman
+#. [message]: speaker=Macabre
+#. [message]: speaker=Boreas
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:788
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:876
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1522
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1675
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:677
+#: Danse_Macabre/scenarios/14_bridge.cfg:203
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:871
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:234
+msgid "......"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:792
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:880
+msgid "That guy has lost his strength remarkably!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:796
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:884
+msgid "All right. Now we can remove him."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:903
+msgid "Good! Let's enter the Lich's nest!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:914
+msgid "You are annoying as usual... OK, play with them, my servants."
+msgstr ""
+
+#. [message]: speaker=leader6
+#. [message]: speaker=bakabone
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:918
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:527
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:120
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:790
+msgid "As you wish."
+msgstr ""
+
+#. [message]: speaker=leader7
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:922
+msgid "Like you say."
+msgstr ""
+
+#. [message]: speaker=orlok
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:949
+msgid "Ugh...nasty lava. If I become sleepy here, I will end up dead."
+msgstr ""
+
+#. [message]: speaker=orlok
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:970
+msgid "I'm sleepy... No..."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1019
+msgid "Ugh! What is this pressure?"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1023
+msgid "I stink of power...I'll share it with you."
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1027
+msgid "Come out, my pets!"
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1054
+msgid "What was that noise!?"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1064
+msgid "Look! D, Dragons!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1076
+msgid "Hehe! Not only that. I think you'll enjoy it!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1080
+msgid "...OK, anything goes here. We'd better hurry up."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1087
+msgid "Again, be cautious of enemy reinforcements!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1150
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1221
+msgid "Damn! Useless necromancers... OK, hey, my fellow liches! Let's give those gate-crashers the glad hand!"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1170
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1241
+msgid "Boss...I can't shake this bad feeling."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1174
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1245
+msgid "Yes...but we are definitely tracking the lich to his lair."
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1178
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1249
+msgid "Open gate!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1289
+msgid "Ay me! O, well, next!"
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1332
+msgid "Just great. This is a big sale in liches..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1336
+msgid "So true."
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1340
+msgid "By the way, the keep is also odd, isn't it?"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1362
+msgid "Hmm... Yes, it looks more ominous. Let's try destroying it."
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1432
+msgid "...It would seem that it has been binding the souls of dead people."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1436
+msgid "Yeah, he said he had scraped together many souls."
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1440
+msgid "Look. Another soul is coming."
+msgstr ""
+
+#. [unit]: id=SpiritVita, type=SpiritPrincess
+#. [unit]: id=Vita, type=Princess
+#. [unit]: id=zvita, type=DM Soulless
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1455
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:53
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:193
+msgid "Vita"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1478
+msgid "......!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#. [message]: speaker=Macabre0
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1486
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:202
+msgid "Vi...Vita?"
+msgstr ""
+
+#. [message]: speaker=SpiritVita
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1490
+msgid "Yes...It's been a long time, Macabre."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1494
+msgid "I...I can't believe it! Why?"
+msgstr ""
+
+#. [message]: speaker=SpiritVita
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1498
+msgid "At that time, you did indeed release my soul from my cursed body. But...I was eventually bound by that lich...like so many other pitiful souls. And as he gathered more souls, he grew more powerful, as you know."
+msgstr ""
+
+#. [message]: speaker=SpiritVita
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1502
+msgid "That's why he are trying to fill the world with death. He hungers for the souls...which is the source of his power."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1506
+msgid "Hmmm...I see. But...I don't know what I should say now..."
+msgstr ""
+
+#. [message]: speaker=SpiritVita
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1510
+msgid "I know....Who could have imagined that we would meet again in this way..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1514
+msgid "I...I have already changed! I'm not what you knew... I'm a mere... cursed undead!"
+msgstr ""
+
+#. [message]: speaker=SpiritVita
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1518
+msgid "No! You still have your own mind! It means you are you."
+msgstr ""
+
+#. [message]: speaker=SpiritVita
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1526
+msgid "Also, you have released me again."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1530
+msgid "...Could you go to heaven?"
+msgstr ""
+
+#. [message]: speaker=SpiritVita
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1534
+msgid "Yes, maybe."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1538
+msgid "Hm..."
+msgstr ""
+
+#. [message]: speaker=SpiritVita
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1542
+msgid "Haha... Don't worry. I'm not going anywhere."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1546
+msgid "...What do you mean?"
+msgstr ""
+
+#. [message]: speaker=SpiritVita
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1550
+msgid "I haven't just been bound. I learned how the lich binds the souls."
+msgstr ""
+
+#. [message]: speaker=SpiritVita
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1554
+msgid "So... I'm going to be your sword."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1558
+#: Danse_Macabre/scenarios/14_bridge.cfg:102
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:539
+msgid "What!?"
+msgstr ""
+
+#. [message]: speaker=SpiritVita
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1562
+msgid "I will possess your weapon. Then you can reave the lich's soul! Otherwise you couldn't annihilate him completely."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1566
+msgid "But..."
+msgstr ""
+
+#. [message]: speaker=SpiritVita
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1574
+msgid "Macabre...I love you."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1578
+msgid "No! Wait!"
+msgstr ""
+
+#. [effect]: type=arcane
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1650
+msgid "soul reaver"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1667
+msgid "...Vita..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1671
+msgid "You were just released... and now you are bound again...to my bloody sword..."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1679
+msgid "Boss..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1683
+msgid "No, don't say anything. After all, sentiment is unbecoming to the undead."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1687
+msgid "All right. Come with me, Vita, and let's kill the lich!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1696
+msgid "Everyone! I'll take point! Follow me!"
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1700
+msgid "That's what I wanted to hear!"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1704
+msgid "As you wish!"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1708
+msgid "Let's do it!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1759
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1857
+msgid "Hey! Your damned fellows have been finished. It's about time for you to appear!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1770
+msgid "You seem to want to trouble me at any cost...OK...I'll show you myself..."
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1787
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1885
+msgid "WITH YOUR DEATH!!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1868
+msgid "You seems to want to trouble me at any cost... OK... I'll show you myself..."
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1959
+msgid "Well...done..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1963
+msgid "You now meet your doom....Accept it gracefully, your highness."
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1967
+msgid "Ha...ha...hahahahahahahahaha!!!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#. [message]: speaker=heroicdwarf
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1971
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:148
+#: Danse_Macabre/scenarios/14_bridge.cfg:146
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:268
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:272
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:106
+msgid "!?"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1975
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:262
+msgid "OK...I perish...But...You are NOT a winner...Both of us are LOSERS!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1979
+msgid "...Don't talk nonsense."
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1983
+msgid "You will soon know what I mean....Muhahahahahaha...."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:1994
+msgid "That..does...it."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:2037
+msgid "Ugh!!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:2041
+msgid "But...you...haven't won yet!!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:2053
+msgid "Huff..huff...hehe... As long as there are souls in this world... I'll never perish!!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:2057
+msgid "It's like Vita said... OK, retreat. I'll finish him."
+msgstr ""
+
+#. [scenario]: id=14_night_of_the_living_dead
+#: Danse_Macabre/scenarios/14_night_of_the_living_dead.cfg:2066
+msgid "Obey my order, poor soul!"
+msgstr ""
+
+#. [scenario]: id=09c_rusty_axe
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:6
+msgid "Rusty Axe"
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:18
+msgid "Macabre set foot on the mountainous region which is Dwarves' called home."
+msgstr ""
+
+#. [side]: type=Dwarvish Lord, id=dwarfking
+#. [side]: type=Dwarvish Runemaster, id=dwarfboss
+#. [side]: type=Dwarvish Steelclad, id=dwarfleader
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:45
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:93
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:166
+msgid "Dwarf"
+msgstr ""
+
+#. [side]: type=Dwarvish Lord, id=dwarfking
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:48
+msgid "Balin"
+msgstr ""
+
+#. [side]
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:67
+msgid "monster"
+msgstr ""
+
+#. [objective]: condition=win
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:92
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:744
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:84
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:104
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:140
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:128
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:234
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:707
+msgid "Defeat Enemy Leader"
+msgstr ""
+
+#. [unit]: type=heroicdwarf, id=heroicdwarf
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:117
+msgid "Gimli"
+msgstr ""
+
+#. [message]: speaker=dwarfking
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:134
+msgid "Bah! Nasty undead! Don't let them encroach on our territory!"
+msgstr ""
+
+#. [message]: speaker=heroicdwarf
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:138
+msgid "Yes, si.."
+msgstr ""
+
+#. [message]: speaker=heroicdwarf
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:161
+msgid "Damn, Yeti! Not now!! ...But I will never leave my position. It's my duty!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:168
+msgid "Good. Then go for it."
+msgstr ""
+
+#. [message]: id=heroicdwarf
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:190
+msgid "Arrgh!!...But I have no regrets about my death."
+msgstr ""
+
+#. [message]: id=Macabre
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:194
+msgid "Salute. By the way, give me your heart, please."
+msgstr ""
+
+#. [message]: id=heroicdwarf
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:198
+msgid "...Do whatever you want..."
+msgstr ""
+
+#. [message]: id=Macabre
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:202
+msgid "I'll take you up on your kind offer. Cut his heart out!"
+msgstr ""
+
+#. [event]
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:244
+msgid "This is a heart of dwarf. Should he pick it up?"
+msgstr ""
+
+#. [object]
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:245
+msgid "The Heart of Dwarf"
+msgstr ""
+
+#. [object]
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:247
+msgid "He ate the heart and got steadfast, all resistances and other dwarvish feature!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/09c_rusty_axe.cfg:289
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:393
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:277
+msgid "Well done. If there is a man among you, let him eat the heart!"
+msgstr ""
+
+#. [scenario]: id=06_return_of_the_living_dead
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:6
+msgid "Return of the Living Dead"
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:16
+msgid "There was a reason that the living feared them. They were not a disorderly lot that acted out of selfish desires, nor apathetic puppets of necromancers. They seemed to have both intelligence and a will of their own. But these odd zombies were only a few like Macabre, Merrin, etc. For other zombies, it didn't make any difference who led them. They just obey their master's order and fill their stomach."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:22
+msgid "The undead who were deprived of the stronghold left for Macabre. But Macabre had already been killed by the mage. They lost their commander and were bewildered. They were at a loss of what to do next and could only wait for their instinct to revive."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:27
+msgid "Then the smell of the living wafted in. The dead couldn't think anymore. Flesh...There is flesh..."
+msgstr ""
+
+#. [side]: type=Orcish Sovereign, id=orcchief
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:52
+msgid "Orcs"
+msgstr ""
+
+#. [side]: type=Orcish Sovereign, id=orcchief
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:55
+msgid "Bakgodek"
+msgstr ""
+
+#. [message]: speaker=orcchief
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:112
+msgid "Ha ha ha! I got this stronghold thanks to the living dead!"
+msgstr ""
+
+#. [message]: speaker=grunt1
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:116
+msgid "Hehe, does this mean that there is a major change in the power structure?"
+msgstr ""
+
+#. [message]: speaker=orcchief
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:120
+msgid "Something like that. Though we lagged behind humans in the recent war, that's not going to happen any longer!"
+msgstr ""
+
+#. [message]: speaker=wolfrider1
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:143
+msgid "Chief! The living dead are coming back!"
+msgstr ""
+
+#. [message]: speaker=orcchief
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:148
+msgid "Bah! With their leader?"
+msgstr ""
+
+#. [message]: speaker=wolfrider1
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:153
+msgid "No! That guy was killed by a human mage!"
+msgstr ""
+
+#. [message]: speaker=orcchief
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:158
+msgid "This is perfect! They have really become like the normal living dead!"
+msgstr ""
+
+#. [message]: speaker=orcchief
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:182
+msgid "Blow them up!!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:187
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:352
+msgid "Yes, sir!"
+msgstr ""
+
+#. [message]: speaker=grunt1
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:232
+msgid "Return to your grave!"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:272
+msgid "Wait! Don't hurry to your death!!"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#. [message]: speaker=prisonguard
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:279
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:209
+msgid "No!!"
+msgstr ""
+
+#. [message]: speaker=grunt1
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:304
+msgid "Silly twit!"
+msgstr ""
+
+#. [message]: speaker=orcchief
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:332
+msgid "Muhahaha! Let me do it!!"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:340
+msgid "Oops!"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:386
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:696
+msgid "Arrgh!!"
+msgstr ""
+
+#. [message]: speaker=orcchief
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:392
+msgid "Go to hell, obtrusive fly!!"
+msgstr ""
+
+#. [message]: speaker=orcchief
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:557
+msgid "Oooouuuuchhhhh!!!!"
+msgstr ""
+
+#. [message]: speaker=grunt1
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:565
+msgid "Chief!"
+msgstr ""
+
+#. [message]: speaker=orcchief
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:626
+msgid "What the fuck!! ...I never heard that such a guy exists!"
+msgstr ""
+
+#. [message]: speaker=wolfrider1
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:644
+msgid "Wait! Chief!"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:668
+msgid "Wh...Who are you?"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:673
+msgid "Do you fail to recognize the face of your boss? ...though I'm not surprised."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#. [message]: speaker=unit
+#. [message]: speaker=ruffian
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:681
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:366
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:549
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:652
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:463
+msgid "!!!"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:689
+msgid "My boss!? Is it really you?"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:696
+msgid "Exactly."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:701
+msgid "I...I can't believe it!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:705
+msgid "That magician was at death's door, so he didn't have enough power to burn down my bones. And I can still move...maybe it takes a strong will. I will teach my comrades this special trick. We will get a troop of skeletons."
+msgstr ""
+
+#. [message]: speaker=orcchief
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:710
+msgid "Shit! This is an unexpected thing...but it is just a case of having to capture the stronghold again!"
+msgstr ""
+
+#. [message]: speaker=orcchief
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:721
+msgid "Hold the enemy in check! I will lead from the rear."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:727
+msgid "A...anyways, I'm glad to see you aga..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:731
+msgid "Enough of that. We must fight these Orcs...and STOP THEIR BREATH!"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/06_return_of_the_living_dead.cfg:735
+msgid "Y...Yes, sir!"
+msgstr ""
+
+#. [scenario]: id=14_bridge
+#: Danse_Macabre/scenarios/14_bridge.cfg:6
+msgid "The Bridge"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/14_bridge.cfg:79
+msgid "We are close to reaching land!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_bridge.cfg:83
+msgid "OK, be ready to destroy this bridge."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/14_bridge.cfg:96
+msgid "Oh, do you want to destroy it? Do I need to help you?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/14_bridge.cfg:129
+msgid "You don't have to thank me! Muwahahaha!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_bridge.cfg:139
+msgid "Bloody hell! We have been divided!"
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/14_bridge.cfg:167
+msgid "We are obviously in the jaws of death!"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/14_bridge.cfg:171
+msgid "That's not necessarily true. It is certain that they are weaker now than when they were alive. If we take advantage of this narrow bridge, we can defeat them one by one."
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/14_bridge.cfg:175
+msgid "But it will take too much time! What if the lich's main forces came here!? Then we really will have hell to pay!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_bridge.cfg:179
+msgid "......I have no choice but to go by myself."
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/14_bridge.cfg:183
+msgid "No! It's too dangerous!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_bridge.cfg:187
+msgid "As Philosophy says, we have no time to lose. To hold back the lich's army, I must advance forward as far as possible and take up a position...even if I can only use fresh recruits."
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/14_bridge.cfg:191
+msgid "Hmm..."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/14_bridge.cfg:195
+msgid "We the air army will go with you!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_bridge.cfg:199
+msgid "No. How can those left behind ford the river without an air forces? Also in this situation, a waterborne assault will expedite victory. It's undoubtedly crunch time. Nothing ventured, nothing gained."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_bridge.cfg:207
+msgid "Focus on just the visible enemies! I'll devote all my energy to holding back the lich's army."
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/14_bridge.cfg:211
+msgid "...As you wish."
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/14_bridge.cfg:215
+msgid "OK. We'll catch you in a minute."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/14_bridge.cfg:219
+msgid "Good luck, boss!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/14_bridge.cfg:223
+msgid "You too!"
+msgstr ""
+
+#. [scenario]: id=05_lie_down_in_darkness
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:6
+msgid "Lie down in Darkness"
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:16
+msgid "Macabre captured the stronghold quicker than he thought he would. But he had no time to feel elated by his victory. Mages were coming. Macabre entrusted the defense of the stronghold to his henchmen and went to the southeast forest to attack the mages himself."
+msgstr ""
+
+#. [side]: type=Great Mage, id=philosophy
+#. [side]: type=philosophy, id=philosophy0
+#. [side]: type=Silver Mage, id=silver
+#. [side]: type=Red Mage, id=arch
+#. [side]: type=White Mage, id=white
+#. [side]
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:43
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:63
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:88
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:105
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:119
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:133
+msgid "Mages"
+msgstr ""
+
+#. [side]: type=Great Mage, id=philosophy
+#. [part]
+#. [side]: type=philosophy, id=philosophy0
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:46
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:41
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:66
+msgid "Philosophy"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:106
+msgid "Mages...are...coming. Go!"
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:226
+msgid "Are we there yet? I'm tired."
+msgstr ""
+
+#. [message]: speaker=mage2
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:232
+msgid "I see the stronghold! We are near!"
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:236
+msgid "Good. Brace up! A fierce battle is expected in the stronghold."
+msgstr ""
+
+#. [message]: speaker=narrator
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:240
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:214
+msgid "Yes, sir."
+msgstr ""
+
+#. [message]: speaker=mage2
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:245
+msgid "Wait...That's strange..."
+msgstr ""
+
+#. [message]: speaker=philosophy
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:249
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:338
+msgid "What?"
+msgstr ""
+
+#. [message]: speaker=mage2
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:255
+msgid "It's too quiet...as if the battle were over. Has the general already vanquished the zombies?"
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:260
+msgid "That's not likely. I hear that the new zombies are formidable opponents."
+msgstr ""
+
+#. [message]: speaker=philosophy
+#. [message]: speaker=Mal Oryzias
+#. [message]: speaker=Macabre1
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:280
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:479
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:89
+#: Danse_Macabre/scenarios/08_the_dead_bondage0c.cfg:84
+msgid "!"
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:333
+msgid "What the fuck! Kill them!"
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:468
+msgid "Well done!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:473
+msgid "...Are...you...sure?"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:516
+msgid "You will...capitulate...at my gates, magician. By becoming...a corpse..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:701
+msgid "You...die...now!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:750
+msgid "Now you are our frie..."
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:762
+msgid "NOT YET!!"
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:863
+msgid "I did it!!"
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:867
+msgid "Avoid further bloodshed! Retreat!"
+msgstr ""
+
+#. [message]: speaker=philosophy
+#. [message]: speaker=Boreas
+#. [message]: speaker=unit
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:876
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:958
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:457
+msgid "?"
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:905
+msgid "Oh shit!!"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:937
+msgid "Emergency!"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:950
+msgid "The main host of Orcs attacked us! The stronghold has been captured!"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/05_lie_down_in_darkness.cfg:962
+msgid "Where is boss?"
+msgstr ""
+
+#. [scenario]: id=15_dawn_of_the_dead
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:5
+msgid "Dawn of the dead"
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:17
+msgid "At last Macabre killed the lich."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:23
+msgid "Now I...no...we have earned our freedom. Thank you for fighting with me. I'm no longer your leader. Nothing governs you...in the true sense of the term. Go anywhere and lives as you like."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:26
+msgid "The zombies and other undead cheered. Most of them didn't understand what was going on, but at least felt free. They left Macabre slowly, and only a few of them stayed."
+msgstr ""
+
+#. [part]
+#. [side]: type=Boreas, id=Boreas0
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:31
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:57
+msgid "Boreas"
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:31
+msgid "We won't leave."
+msgstr ""
+
+#. [part]
+#. [unit]: id=Merrin, type=Soulless Merrin
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:36
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:768
+msgid "Merrin"
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:36
+msgid "Yes...we haven't lost our ability to reason. It's better to live with you."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:41
+msgid "Exactly. It's impossible to go back to the way things were. How about founding a kingdom for undead?"
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:46
+msgid "......Ha ha."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:49
+msgid "and they lived happily ever after"
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:52
+msgid "...That was not a fact."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:55
+msgid "Really it is not that simple. To begin with, the undead are not natural. All natural creatures age and die, but undead never age. They continue to move eternally and eat the flesh of the living. That's their nature. They shouldn't have returned to the world of the living."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:58
+msgid "In the aftermath of victory and freedom, Macabre had forgotten this. Now this absurdity caused a serious problem."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:61
+msgid "The difficulty of obtaining food."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:64
+msgid "The appetite of the zombies were exhausting the populations of every race which lived in the world. It was inevitable because they didn't have enough power to resist. Macabre had overly distorted the order of nature. He killed too much, yet the zombies didn't stop. Rather, the numbers of zombies kept growing and the scarcity of food became more and more serious. The whole world was filled with death. Soon there would be no food left anywhere."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:67
+msgid "Zombies were struggling against hunger. Flesh...No flesh...Where...Nowhere...Pain changed into complaint. Why...Why no flesh...Why...Unusual...Flesh...There must be flesh...Cruel treatment...And extensive complaints changed into a general will."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:70
+msgid "He...did...this."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:73
+msgid "It was Macabre who had led them, made them fight and then left them alone to starve. This difficulty of obtaining food was caused by Macabre...They reached this conclusion easily. They couldn't help but feel so."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:76
+msgid "He...He is bones...So he doesn't want flesh...He isn't hungry...Our pain...He doesn't know...Can't know...UNALLOWABLE..."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:79
+msgid "This general will led all zombies to Macabre."
+msgstr ""
+
+#. [side]: type=Battalion, id=battalionleader
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:123
+msgid "Zombie"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:222
+msgid "A horde of zombies are coming with great verve!!"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:226
+msgid "Hm...what brings them here?"
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:230
+msgid "Hmm. The foundation ceremony is held today. They must wanna attend it."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:239
+msgid "(Perhaps...they have exhausted their food supply...It's not surprising. Why didn't I expect this? But there is no food here either. My trusted friends can control their desire, but they are also suffering from hunger. Whereas those who don't have reason...)"
+msgstr ""
+
+#. [message]: speaker=narrator
+#. [part]
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:243
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:32
+msgid "...Fill the whole world with death..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#. [part]
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:248
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:26
+msgid "...No matter how hard you struggle, your destiny is in my hand..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:253
+msgid "Macabre recalled the warning of that lich. He had thought that it had been mere provocation."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:258
+msgid "(OK... Now I know. After all, I filled the whole world with death. I wanted to defeat him. And he hungered for power. As a result, we cooperated to ruin this world.)"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:267
+msgid "(And he must have foreseen this empty ending...)"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:272
+msgid "Ha!!"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:279
+msgid "W..what's the problem, sir?"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:283
+msgid "...Never mind."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:287
+msgid "(We are merely unproductive beings. We shouldn't have gotten freedom. Our liberty...fills this world with death, bane and barrenness. We...should have eternally been...slaves and foolish puppets!!)"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:291
+msgid "...I'm better off dead..."
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:295
+msgid "Pardon?"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:299
+msgid "(But what about my friends? They have longed for me and stayed here. How can I give account?)"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:303
+msgid "They are near at hand!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:307
+msgid "(You are also sent to your doom...I can't say such a thing. What...should I do?)"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:326
+msgid "They are rushing into here, sir Macabre!!"
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:330
+msgid "W..why!? Why do they have feelings of hatred?"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:334
+msgid "...un"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:342
+msgid "JUST RUN!!!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:346
+msgid "They have a legitimate reason to feel hatred. They are filled with pain from their hunger. Maybe...the pain was caused by me after all. So they hate me. But it's not your problem. Even so, if you are here, they will aim their attack at you...So run away."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:350
+msgid "That...That's fine by us. But what will you do?"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:354
+msgid "...I will try to persuade them not to. That's the only thing I can do. Am I wrong?"
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:358
+msgid "You are kidding! They will never accept your persuasion!"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:362
+msgid "Exactly! Because they don't have the ability to reason, they hate you! It's impossible to talk with them!"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:366
+msgid "Let's run away together!!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:370
+msgid "Enough!!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:377
+msgid "I...must take responsibility. I...stay here."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:381
+msgid "...Well, go..."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:385
+msgid "I stay here, too."
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:389
+msgid "It's impossible to do otherwise."
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:393
+msgid "Good grief...What an awful mess this foundation ceremony has become."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:397
+msgid "No! You shall not die in vain! If you run away now, they will never attack you! You really will be free!"
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:401
+msgid "We have no time. They are right around the corner. Well...this will be the most rough-and-tumble battle of my life."
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:405
+msgid "Yes. For the first time in a long while, I'll exorcise evil spirits."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:409
+msgid "Don't worry. I will make the last divine wind blow."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:413
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:547
+msgid "Wait!!"
+msgstr ""
+
+#. [objective]: condition=win
+#. [objective]: condition=lose
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:430
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:434
+msgid "Nobody knows"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:487
+msgid "Divine...wind...no...longer...blow..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:491
+msgid "Boreas!!"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:502
+msgid "I'm...sorry...to...leave...early..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:506
+msgid "Merrin!!"
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:517
+msgid "It...was...a...good...foundation...ceremony..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:521
+msgid "Philosophy!!"
+msgstr ""
+
+#. [message]: speaker=Neckfrill
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:532
+msgid "If...I...hadn't...broken...my...leg..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:536
+msgid "Neckfrill!!"
+msgstr ""
+
+#. [message]: speaker=Pech
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:547
+msgid "The sky...is...falling..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:551
+msgid "Pech!!"
+msgstr ""
+
+#. [message]: speaker=Spelk
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:562
+msgid "I...hate...undead...after...all..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:566
+msgid "Spelk!!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:592
+msgid "Drop...a...curtain..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/15_dawn_of_the_dead.cfg:596
+msgid "...Dance...is...over..."
+msgstr ""
+
+#. [scenario]: id=08_the_dead_bondage0b
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:5
+msgid "Retrospection 1"
+msgstr ""
+
+#. [message]: speaker=Macabre0
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:68
+msgid "Surrender, lich! You shall know the wrath of all the unknown soldiers and citizens killed by you!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:72
+msgid "Tsk! I didn't think.. I would be taken from behind by mere humans.."
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:93
+msgid "...he he he..."
+msgstr ""
+
+#. [message]: speaker=Macabre0
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:97
+msgid "Have you gone mad?"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:101
+msgid "Get her!"
+msgstr ""
+
+#. [message]: speaker=Vita
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:129
+msgid "Aaaaaarrrrrhhhh!!!"
+msgstr ""
+
+#. [message]: speaker=Macabre0
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:133
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:162
+msgid "Vita!!"
+msgstr ""
+
+#. [message]: speaker=Vita
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:166
+msgid "Macabre... Sorry... I...I can't...be...with you...any more..."
+msgstr ""
+
+#. [message]: speaker=Macabre0
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:170
+msgid "No!! Vita! Don't die!"
+msgstr ""
+
+#. [message]: speaker=Macabre0
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:179
+msgid "Noooooooo!!!!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:184
+msgid "Ha ha ha! I'm sorry to come between the two of you...But I lack the manpower. Arise and serve me now..."
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:207
+msgid "Muwahahahaha!! You shall know eternal life which is worse than death!"
+msgstr ""
+
+#. [message]: speaker=Macabre0
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:228
+msgid "Vita!? Stop! Get a hold of yourself!!"
+msgstr ""
+
+#. [message]: speaker=Macabre0
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:249
+msgid "Arhhh!!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:254
+msgid "Wahahaha! It won't get you anywhere! She can't hear you any longer! Now she is my mere puppet!"
+msgstr ""
+
+#. [message]: speaker=zvita
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:263
+msgid "...ill...me..."
+msgstr ""
+
+#. [message]: speaker=Macabre0
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:273
+msgid "! Vita?"
+msgstr ""
+
+#. [message]: speaker=zvita
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:278
+msgid "...please...kill...me...Macabre... My...body...has...a...mind...of...its...own... I...don't...wanna...kill...you..."
+msgstr ""
+
+#. [message]: speaker=Macabre0
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:283
+msgid "Vita!! Do you hear me!?"
+msgstr ""
+
+#. [message]: speaker=Macabre0
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:304
+msgid "Nooo!!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:309
+msgid "Will wonders never cease! She didn't seem to lose her intelligence. But...haha... It's obvious that she has lost her will!"
+msgstr ""
+
+#. [message]: speaker=zvita
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:314
+msgid "KILL ME!!! MACABRE!!!"
+msgstr ""
+
+#. [message]: speaker=Macabre0
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:319
+msgid "...OOOOOOOOHHHHHHHHHHHHH!!!!"
+msgstr ""
+
+#. [message]: speaker=zvita
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:347
+msgid "...Thank...you... I...love..."
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:358
+msgid "He he he... You killed your wife. What an infernal deed! Your wife would have lived eternally. He he he..."
+msgstr ""
+
+#. [message]: speaker=Macabre0
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:363
+msgid "I won't take it..."
+msgstr ""
+
+#. [message]: speaker=Macabre0
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:374
+msgid "I'M GOING TO GET YOU!!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:379
+msgid "Humph! Injured you versus me...It is obvious who will win, isn't it? Well, come on. But I will never send you to your wife. You shall live eternally as my puppet!"
+msgstr ""
+
+#. [message]: speaker=Macabre0
+#: Danse_Macabre/scenarios/08_the_dead_bondage0b.cfg:384
+msgid "Cut the crap!!"
+msgstr ""
+
+#. [scenario]: id=02_animal_liberation
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:9
+msgid "Animal Liberation"
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:19
+msgid "The disappearances were the work of Macabre, a zombie who has retained his intelligence and will. How did he become one of the living dead? Why didn't he lose his ability to reason? Why does he attack villages and make hordes of undead?"
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:22
+msgid "Anyhow, he is satisfied with the fruits of this last battle. Dead Merrin still has the ability to reason like Macabre. It is necessary to acquire undead such as Merrin and himself. But in the heart of the mountain there are only nameless people. It is rare that to find people like Merrin."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:25
+msgid "Thus Macabre and his party climbed down the mountain and went out into the plains. Zombies began to murmur, 'Flesh...smell of flesh...' There are animals on the plains. For zombies, animals are mere food, but now is not the time to attack animals. 'Meh. They are hungry. I can't help it,' Macabre told himself."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:29
+msgid "But upon seeing the herd of animals, his thoughts changed completely. The animals were already on alert and unity of purpose. The animals quickly responded to their presence and formed ranks. Is this the power of nature? Macabre braced the ranks of his undead in expectation."
+msgstr ""
+
+#. [side]: type=Boreas, id=Boreas0
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:54
+msgid "Animal"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:95
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:606
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:249
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:714
+msgid "Turns run out"
+msgstr ""
+
+#. [unit]: id=Pech, type=Pech
+#. [unit]: id=Pech, type=Soulless Pech
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:119
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:343
+msgid "Pech"
+msgstr ""
+
+#. [unit]: type=Spelk, id=Spelk
+#. [unit]: id=Spelk, type=Soulless Spelk
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:130
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:296
+msgid "Spelk"
+msgstr ""
+
+#. [message]: speaker=Boreas0
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:152
+msgid "Here come corpses! Let's pull together and drive them back!"
+msgstr ""
+
+#. [message]: speaker=Pech
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:157
+msgid "Iiii muuuust cooooveeer my chiiiild. Dooon't Geeeet aaanyyyy cloooseeeerrrr, ooorrrr I'll attaaaaaccckkkk yooouuu!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:162
+msgid "This...is...not...invasion...but...liberation...from...mortality."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:167
+msgid "Notice: In this campaign, there are some enemy units (sometimes hidden somewhere) who will join your party as loyal fellows. They are also much stronger than normal recruits. If you find any remarkable enemy, try zombifying them."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:206
+msgid "A sacred tree."
+msgstr ""
+
+#. [message]: speaker=Spelk
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:234
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:265
+msgid "Hello. I hate undead. You shall die, fuckin corpse."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:313
+msgid "Do you still hate undead, Spelk?"
+msgstr ""
+
+#. [message]: speaker=Spelk
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:317
+msgid "I don't have any memory of it."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:360
+msgid "Welcome...to..the...world...of...death, Pech. Serve...your...child...for...dinner."
+msgstr ""
+
+#. [message]: speaker=Pech
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:364
+msgid "Sorry, I have already eaten it up."
+msgstr ""
+
+#. [message]: speaker=Boreas0
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:376
+msgid "No! Stop! Get off me! Die!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:381
+msgid "Be...quiet. I won't stop, nor get off you. And I'm already dead."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:417
+msgid "Oh I'm free! Divine wind will blow for you!!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:421
+msgid "What a self-centered creature... Anyway, your...little body...and wide vision...are really useful. Serve me...as my scout."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/02_animal_liberation.cfg:425
+msgid "As you bid me, sir!"
+msgstr ""
+
+#. [scenario]: id=12_the_magic_mountain
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:6
+msgid "The Magic Mountain"
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:18
+msgid "Macabre defeated Elves, Dwarves and Drakes. Now his target was none other than the damned master, the ancient lich. Macabre knew where the lich was. A long time ago he broke out of there. The lich's den is named Magic Mountain."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:22
+msgid "Contrary to expectation, the lich didn't hinder Macabre's access to the den. Was this a trap or resignation? Either way, Macabre didn't care. He had trampled the living underfoot, transformed them into the dead and governed them. For the sake of what? Now is the time to kill the lich and to change this damned death into liberation. He had no other choice."
+msgstr ""
+
+#. [side]: type=crows, id=crows
+#. [unit]: type=crows Lich, id=crowslich
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:71
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:488
+msgid "Corvus"
+msgstr ""
+
+#. [event]
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:140
+msgid "This is a sacred ring which renders melee attacks arcane type and increases the resistance to arcane type. Should he pick it up?"
+msgstr ""
+
+#. [object]
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:141
+msgid "The Sacred Ring"
+msgstr ""
+
+#. [object]
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:143
+msgid "He put on the ring. As a result, his melee attacks changed into arcane type and his resistance to arcane type increased by 20%!"
+msgstr ""
+
+#. [event]
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:158
+msgid "This is a wind cloak which enables the wearer to skirmish and increases his movement points. Should he pick it up?"
+msgstr ""
+
+#. [object]
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:159
+msgid "The Wind Cloak"
+msgstr ""
+
+#. [object]
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:161
+msgid "He put on the cloak. As a result, he got skirmisher ability and extra movement points!"
+msgstr ""
+
+#. [unit]: type=Death Knight, id=bakabone
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:177
+msgid "Vagabone"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:240
+msgid "This is the den of the lich. We must exterminate him, but be careful! We don't know what traps he set up..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:250
+msgid "IT'S TOO LATE!!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:266
+msgid "!!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:270
+msgid "You have no chance to get away. We've got you here!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:274
+msgid "Bah! I'm not about to get away! Just you wait!!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:309
+msgid "Never wake him up! He may completely ignore any puppets, though. Oryzias"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:335
+msgid "What is this space?"
+msgstr ""
+
+#. [unit]: type=Vampire, id=orlok
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:351
+msgid "Orlok"
+msgstr ""
+
+#. [message]: speaker=orlok
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:370
+msgid "Who are you?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:381
+msgid "I am Macabre."
+msgstr ""
+
+#. [message]: speaker=orlok
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:385
+msgid "Macabre? I know that name...but aren't you a zombie?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:389
+msgid "I was born again."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:395
+msgid "I...I'm a follower of Mr. Macabre."
+msgstr ""
+
+#. [message]: speaker=orlok
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:399
+msgid "Macabre? Ah... I have recently heard that there is an intelligent zombie that goes by that name. Is he here?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:403
+msgid "Now he is not a zombie...but you are right about the rest."
+msgstr ""
+
+#. [message]: speaker=orlok
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:410
+msgid "Hm...and what are you doing now?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:414
+msgid "We must kill an ancient lich."
+msgstr ""
+
+#. [message]: speaker=orlok
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:418
+msgid "Ancient lich? Ho...sounds fun."
+msgstr ""
+
+#. [message]: speaker=orlok
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:422
+msgid "I'm an elder vampire named Orlok. Shall I do a favor for you?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:426
+msgid "Really? How comforting! Of course yes!"
+msgstr ""
+
+#. [message]: speaker=orlok
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:430
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:543
+msgid "Good."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:471
+msgid "Give us your heart, SON OF A LICH!!"
+msgstr ""
+
+#. [message]: speaker=crows
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:475
+msgid "Noooooo!!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:479
+msgid "I'm not gonna let you!!!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:503
+msgid "Muhahahahahahahaha!!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:507
+msgid "Damn it!!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:518
+msgid "Heck!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:523
+msgid "Vagabone! Close the rear!!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:531
+msgid "Do you show your back to the enemy? Shame on you!!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:535
+msgid "Humph!! I will tear through this cave!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:543
+msgid "Have fun!!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:565
+msgid "God!!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:569
+msgid "Hey you, Vagabone! Why do you obey that bastard!? He left you to die!!"
+msgstr ""
+
+#. [message]: speaker=bakabone
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:573
+msgid "Meh"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:577
+msgid "...OK, you are the paragon of the undead!! Tear him apart!! Hurry up! We must break away and chase after the lich!!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:586
+msgid "Macabre must reach the signpost."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/12_the_magic_mountain.cfg:628
+msgid "All right! Let's chase after the lich!"
+msgstr ""
+
+#. [scenario]: id=08_the_dead_bondage0c
+#: Danse_Macabre/scenarios/08_the_dead_bondage0c.cfg:5
+msgid "Retrospection 2"
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/08_the_dead_bondage0c.cfg:15
+msgid "Of course I was defeated. The lich transformed me into a living dead. But things fell short of his expectations. I had not only intelligence, but also a strong will. It was the will to kill the lich, but I couldn't allow him to catch wind of my intentions."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/08_the_dead_bondage0c.cfg:18
+msgid "If he had realized it, he would have destroyed me without hesitating. I saw it immediately, so I waited until the right conditions were met. I continued to behave as an obedient, hungry and pitiful puppet. Several years later, I saw my chance and broke out of the den of the lich."
+msgstr ""
+
+#. [side]
+#: Danse_Macabre/scenarios/08_the_dead_bondage0c.cfg:51
+msgid "Villager"
+msgstr ""
+
+#. [message]: speaker=Macabre1
+#: Danse_Macabre/scenarios/08_the_dead_bondage0c.cfg:75
+msgid "This...should...be...far...enough."
+msgstr ""
+
+#. [message]: speaker=ghost2
+#: Danse_Macabre/scenarios/08_the_dead_bondage0c.cfg:128
+msgid "Did you find him?"
+msgstr ""
+
+#. [message]: speaker=ghost1
+#: Danse_Macabre/scenarios/08_the_dead_bondage0c.cfg:132
+msgid "Nay. But there's a human village further on. They will kill him."
+msgstr ""
+
+#. [message]: speaker=Macabre1
+#. [part]
+#: Danse_Macabre/scenarios/08_the_dead_bondage0c.cfg:157
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:30
+msgid "(...human village? It is certainly dangerous, but I can't go back. I must act with caution...)"
+msgstr ""
+
+#. [message]: speaker=narrator
+#. [part]
+#: Danse_Macabre/scenarios/08_the_dead_bondage0c.cfg:261
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:36
+msgid "You...all...are...ready...Follow...me...I'll...treat...you...to...dinner."
+msgstr ""
+
+#. [scenario]: id=09b_falling_sky
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:6
+msgid "Falling Sky"
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:18
+msgid "Macabre advanced into the desert which Drakes were based in."
+msgstr ""
+
+#. [side]: type=Drake Flameheart, id=drakeking
+#. [side]: type=Armageddon Drake, id=drakeboss
+#. [side]: type=Drake Flare, id=drakeleader
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:45
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:69
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:218
+msgid "Drake"
+msgstr ""
+
+#. [side]: type=Drake Flameheart, id=drakeking
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:48
+msgid "Chrysophylax"
+msgstr ""
+
+#. [side]
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:68
+msgid "Saurian"
+msgstr ""
+
+#. [side]
+#. [part]
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:87
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:30
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:36
+msgid "???"
+msgstr ""
+
+#. [message]: speaker=drakeking
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:167
+msgid "Damn Undead! Kill them all!"
+msgstr ""
+
+#. [message]: speaker=saurianleader
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:171
+msgid "Support Drakes!!"
+msgstr ""
+
+#. [message]: speaker=prisonguard
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:193
+msgid "Stop!!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:197
+msgid "What are you guarding?"
+msgstr ""
+
+#. [message]: speaker=prisonguard
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:201
+msgid "Not guarding! There is a dangerous drake in this prison! We should never liberate him!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:205
+msgid "Hm...interesting...very interesting. I really want to see him."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:226
+msgid "....What...happened..."
+msgstr ""
+
+#. [unit]: type=maddrake, id=maddrake
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:238
+msgid "Smok Wawelski"
+msgstr ""
+
+#. [message]: speaker=maddrake
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:254
+msgid "....Undead?..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:258
+msgid "Yes, I hear you are mad. Show your madness!"
+msgstr ""
+
+#. [message]: speaker=maddrake
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:262
+msgid "...I was called a hero in a time past...But now I'm just called mad..."
+msgstr ""
+
+#. [message]: speaker=maddrake
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:266
+msgid "...Muhahahaha!!! OK! I will show my MADNESS! I will burn the whole world!!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:270
+msgid "Good... Cut his heart out! That will give us a new power!!"
+msgstr ""
+
+#. [message]: id=maddrake
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:281
+msgid "...It's over...Enjoy my mad heart..."
+msgstr ""
+
+#. [event]
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:323
+msgid "This is a heart of drake. Should he pick it up?"
+msgstr ""
+
+#. [object]
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:324
+msgid "The Heart of Drake"
+msgstr ""
+
+#. [object]
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:326
+msgid "He ate the heart and got fire breath and fire resistance!"
+msgstr ""
+
+#. [effect]: type=fire
+#: Danse_Macabre/scenarios/09b_falling_sky.cfg:329
+msgid "fire breath"
+msgstr ""
+
+#. [scenario]: id=09a_rotten_forest
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:6
+msgid "Rotten Forest"
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:18
+msgid "Macabre took strides toward the forest which Elves lived in."
+msgstr ""
+
+#. [side]: type=Elvish Marshal, id=elfking
+#. [side]
+#. [side]: type=Elvish Sylph, id=elfboss
+#. [side]: type=Elvish Captain, id=elfleader
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:45
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:73
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:143
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:132
+msgid "Elf"
+msgstr ""
+
+#. [side]: type=Elvish Marshal, id=elfking
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:48
+msgid "Thranduil"
+msgstr ""
+
+#. [unit]: type=heroicelf, id=heroicelf
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:99
+msgid "Legolas"
+msgstr ""
+
+#. [message]: speaker=elfking
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:155
+msgid "Oh my god! Why couldn't humans annihilate them? It's over...All of us Elves will become ZOMBIES!!"
+msgstr ""
+
+#. [message]: id=heroicelf
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:159
+msgid "Please never say that, King! We are the glorious Elves! Let's fight!"
+msgstr ""
+
+#. [message]: speaker=elfking
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:163
+msgid "Hmm...ok, We have no choice but to do so..."
+msgstr ""
+
+#. [message]: id=heroicelf
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:167
+msgid "My force of rangers! Fight on our honor to the last man!!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:171
+msgid "Coward king and heroic warrior...It's obvious which personnel is necessary for us."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:175
+msgid "Don't overlook him."
+msgstr ""
+
+#. [message]: id=heroicelf
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:192
+msgid "Glory to Elves!!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:196
+msgid "We need his heroic spirit! Cut his heart out!!"
+msgstr ""
+
+#. [event]
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:238
+msgid "This is a heart of elf. Should he pick it up?"
+msgstr ""
+
+#. [object]
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:239
+msgid "The Heart of Elf"
+msgstr ""
+
+#. [object]
+#: Danse_Macabre/scenarios/09a_rotten_forest.cfg:241
+msgid "He ate the heart and got ambush, marksman and other elvish feature!"
+msgstr ""
+
+#. [scenario]: id=04_pride_and_prejudice
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:6
+msgid "Pride and Prejudice"
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:18
+msgid "Macabre had cloaked the battlefield in the darkness of death. Those who had escaped from death ran back to their homeland and cried of calamity from an already bloody battlefield and a horde of undead that appeared from nowhere and caused the death of their comrades. It was also evident that by the horde swallowing up the battlefield, the number of undead would increase causing a calamity that would endanger the whole world."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:24
+msgid "So all the living agreed to a ceasefire in order to prepare their countermeasures against the undead. Some factions built up their defenses at home, and other factions tried to get the first strike."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:29
+msgid "First, Macabre set his eyes on the Humans who had gained an upper hand in the last war. He understood the need to train his increased army and to enhance his capability. From that standpoint, powerful and intrepid Humans were the best opponents to fight against. As soon as Macabre found out where the Humans' outlying castle was, he began to advance his army in silence. The Humans' response came to meet Macabre's expectations."
+msgstr ""
+
+#. [side]: type=General, id=humangeneral
+#. [side]: type=Grand Marshal, id=humanboss
+#. [side]: type=Lieutenant, id=humanleader
+#. [side]
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:57
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:42
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:85
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:65
+msgid "Human"
+msgstr ""
+
+#. [side]: type=General, id=humangeneral
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:60
+msgid "Eomer"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:104
+msgid "We have much dead flesh as a result of the recent war."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:108
+msgid "...so?"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:112
+msgid "Some heavy eaters transformed into Ghouls."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:116
+msgid "That's...good news. Provide them...with an adequate diet."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:137
+msgid "There is a stronghold of humans!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:144
+msgid "How...are...they...doing?"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:148
+msgid "They are preparing to fight!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:152
+msgid "How...many...mages...are...there?"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:156
+msgid "None! But a troop of magi are in the southeast forest! It'll probably take a while before they arrive at the stronghold."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:160
+msgid "(...They will probably annihilate us after the mages arrive. We must capture the stronghold before that so we can launch a surprise attack on the mages in the forest.)"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:164
+msgid "Let's...contend...with...Humans!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:168
+msgid "(I hope they don't turn chicken.)"
+msgstr ""
+
+#. [message]: speaker=humangeneral
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:186
+msgid "Scout!"
+msgstr ""
+
+#. [message]: speaker=humanscout
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:210
+msgid "General, corpses are attacking us!"
+msgstr ""
+
+#. [message]: speaker=humangeneral
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:215
+msgid "Humph! To hell with the defense-only policy! Politicians are too cowardly. Wait for weak magicians? Nonsense! We are the best and the brightest!"
+msgstr ""
+
+#. [message]: speaker=humangeneral
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:219
+msgid "Bear arms! Blow up foolish corpses! God bless us!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:223
+msgid "(I'm glad the general is simple-minded.)"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:227
+msgid "Eat...up...arrogant...humans!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:264
+msgid "It's not...too late yet. I will hasten to the forest...and backstab Mages. Boreas, Merrin, defend this stronghold...and protect the rear."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:277
+msgid "Boss! The Mages have arrived!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/04_pride_and_prejudice.cfg:281
+msgid "We've spent too much time... Our operation ended in failure."
+msgstr ""
+
+#. [scenario]: id=13_day_of_the_dead
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:6
+msgid "Day of the dead"
+msgstr ""
+
+#. [side]: type=Grand Marshal, id=humanboss
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:45
+msgid "Theoden"
+msgstr ""
+
+#. [side]: type=Armageddon Drake, id=drakeboss
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:72
+msgid "Smaug"
+msgstr ""
+
+#. [side]: type=Dwarvish Runemaster, id=dwarfboss
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:96
+msgid "Gloin"
+msgstr ""
+
+#. [side]: type=Great Troll, id=trollboss
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:119
+msgid "Troll"
+msgstr ""
+
+#. [side]: type=Great Troll, id=trollboss
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:122
+msgid "Skalmad"
+msgstr ""
+
+#. [side]: type=Elvish Sylph, id=elfboss
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:146
+msgid "Galadriel"
+msgstr ""
+
+#. [objective]: condition=win
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:180
+msgid "Defeat Enemy Leaders"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:256
+msgid "Phew... That was really close."
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:260
+msgid "Shit! Almost!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:264
+msgid "Say your prayers!!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:268
+msgid "Don't get carried away. Look around!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:309
+msgid "What the hell is up!?"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:313
+msgid "Ha-ha! So-called...Lich Alliance!!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:317
+msgid "Oh come on!! Why!? Why would you all form a stupid alliance with this bastard? Do you want to destroy the whole world?"
+msgstr ""
+
+#. [message]: speaker=drakeboss
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:321
+msgid "Shurrup!! You killed many drakes!!"
+msgstr ""
+
+#. [message]: speaker=dwarfboss
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:325
+msgid "This is a temporary alliance."
+msgstr ""
+
+#. [message]: speaker=trollboss
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:329
+msgid "To stop you!"
+msgstr ""
+
+#. [message]: speaker=elfboss
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:333
+msgid "The lich seems to be a better politician than you..."
+msgstr ""
+
+#. [message]: speaker=humanboss
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:340
+msgid "You are an enemy of everything that is right!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:345
+msgid "Ha ha ha! That kind of stuff."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:353
+msgid "That's enough! You'll be sorry...after you become living dead."
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:357
+msgid "Well, do the best you can!"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:400
+msgid "We seem to be completely surrounded."
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:404
+msgid "Should we adopt a defensive stance, or an offensive stance?"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:408
+msgid "Anyway, we must wipe out the all enemies. Let's go!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:425
+msgid "Good, we've gotten rid of the foolish heroes. Now for the li..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:436
+msgid "Oh, the humanity! What useless fellows!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:442
+msgid "That is the lich's voice!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:446
+msgid "This is the end of our alliance... but I'm merciful. I will give you an opportunity to work as my servant..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:451
+msgid "Rise up! As the dead!!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:462
+msgid "Hehe. This is where you show your grit. Farewell!"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:472
+msgid "Oh my god! They are standing up!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:476
+msgid "Shit! Double work!"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:480
+msgid "It is tough to fight a series of battles..."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:484
+msgid "No, it's better to push along to that bridge!"
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:494
+msgid "Yes, and after crossing the bridge, we can knock it out!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/13_day_of_the_dead.cfg:498
+msgid "Good! Everybody, head for that bridge!"
+msgstr ""
+
+#. [scenario]: id=03_the_shadow_over_the_battlefield
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:9
+msgid "The Shadow over the Battlefield"
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:27
+msgid "...Come to heel, ingrate..."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:36
+msgid "...Come to heel..."
+msgstr ""
+
+#. [part]
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:40
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:197
+msgid "SHUT UP!!"
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:45
+msgid "After turning the herd of animals into undead, an abhorrent voice began to echo in his mind. It was a voice from long ago, the last voice he wanted to hear. Macabre yelled until the voice was dispelled."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:52
+msgid "The next thing he knows is the smell of blood in the air. ...War. An uproar over the forest tells of the a battle. Zombies murmur, 'Flesh...a lot of...flesh...of different kinds.' The zombies are unable to suppress the craving for flesh."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:57
+msgid "Macabre was buried in deliberation. If there is a war, there must be elite troops of every race. Usually zombies don't have enough power to beat them. But they are impoverished by the war now. Besides, this is a chance to get more flesh and new fellows."
+msgstr ""
+
+#. [side]: type=Lieutenant, id=humanleader
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:88
+msgid "Gamling"
+msgstr ""
+
+#. [side]: type=Elvish Captain, id=elfleader
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:135
+msgid "Haldir"
+msgstr ""
+
+#. [side]: type=Dwarvish Steelclad, id=dwarfleader
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:169
+msgid "Thorin"
+msgstr ""
+
+#. [side]: type=Orcish Ruler, id=orcleader
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:191
+msgid "Orc"
+msgstr ""
+
+#. [side]: type=Orcish Ruler, id=orcleader
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:194
+msgid "Vatgit"
+msgstr ""
+
+#. [side]: type=Drake Flare, id=drakeleader
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:221
+msgid "Glaurung"
+msgstr ""
+
+#. [unit]: id=Neckfrill, type=Neckfrill
+#. [unit]: id=Neckfrill, type=Soulless Neckfrill
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:299
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:1162
+msgid "Neckfrill"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:347
+msgid "Smell...of...war. Go...scouting, Boreas."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:369
+msgid "A great war! There are humans, elves, dwarves, orcs and drakes. Free for all!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:373
+msgid "How...are...things...going?"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:377
+msgid "Humans have an advantage! Elves and Drakes are far outnumbered!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:381
+msgid "OK. Let's...divide...soldiers...and...attack...Elves...Drakes...from...behind. My...own...troops...will...attack...Humans."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:477
+msgid "By the way, I have made a friend."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:481
+msgid "Who?"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:485
+msgid "Come out! Gingly!"
+msgstr ""
+
+#. [unit]: id=gingly, type=Ghost
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:496
+msgid "Gingly"
+msgstr ""
+
+#. [message]: speaker=gingly
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:507
+msgid "Hi, Mr. Macabre."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:511
+msgid "Hi. What...are...you...doing...here?"
+msgstr ""
+
+#. [message]: speaker=gingly
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:515
+msgid "I have just been killed in the war. However I can't go to Heaven."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:519
+msgid "Why?"
+msgstr ""
+
+#. [message]: speaker=gingly
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:523
+msgid "I don't know."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#. [message]: speaker=Boreas
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:527
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:251
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:602
+msgid "..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:531
+msgid "(He doesn't seem like a puppet for that bastard...and ghosts are really useful.)"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:535
+msgid "Mr. Gingly, if...you...have...nowhere...to...go, join...us."
+msgstr ""
+
+#. [message]: speaker=gingly
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:539
+msgid "Sure, thanks. From now on, we ghosts will come under your umbrella, Macabre."
+msgstr ""
+
+#. [message]: speaker=humanleader
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:592
+msgid "The time is now! Kill them all!"
+msgstr ""
+
+#. [message]: speaker=elfleader
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:696
+msgid "Oops! We must retreat and regroup!"
+msgstr ""
+
+#. [message]: speaker=drakeleader
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:707
+msgid "Blast! The damage is considerable. Retreat!"
+msgstr ""
+
+#. [message]: speaker=Neckfrill
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:712
+msgid "Sir! I broke my leg...I can't move!"
+msgstr ""
+
+#. [message]: speaker=drakeleader
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:716
+msgid "You're useless! Drop dead here!"
+msgstr ""
+
+#. [message]: speaker=Neckfrill
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:720
+msgid "That's too cruel!"
+msgstr ""
+
+#. [message]: speaker=humanleader
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:735
+msgid "Well done! Leave the cowards alone! Kill the dwarves and orcs!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:744
+msgid "Well...our...turn. Don't...miss...the...escaped...leaders. Eat...and...plague...all...living...creatures!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:749
+msgid "The Elvish and Drake leaders intend to run away to their nearest signpost. The more leaders you kill, the more gold you get."
+msgstr ""
+
+#. [objective]: condition=win
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:757
+msgid "Defeat at least one Enemy Leader"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:772
+msgid "Turns run out without killing any leaders"
+msgstr ""
+
+#. [message]: speaker=elfleader
+#. [message]: speaker=drakeleader
+#. [message]: speaker=dwarfleader
+#. [message]: speaker=orcleader
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:788
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:803
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:1268
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:1283
+msgid "Safe! All forces, retreat!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:830
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:862
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:895
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:930
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:962
+msgid "You got 80g!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:842
+msgid "Humans have lost their leader and fallen into confusion (they never move)."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:872
+msgid "Elves have lost their leader and fallen into confusion (they never move)"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:907
+msgid "Orcs have lost their leader and fallen into confusion (they never move)."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:942
+msgid "Dwarves have lost their leader and fallen into confusion (they never move)."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:972
+msgid "Drakes have lost their leader and fallen into confusion (they never move)."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:989
+msgid "Fuckin Corpse! Die!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:1005
+msgid "Oh my god!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:1021
+msgid "What an ugly creature!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:1037
+msgid "Bah! Go to hell!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:1053
+msgid "Get out of the way!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:1179
+msgid "Welcome, Neckfrill. Has...your...broken...bone...already...healed?"
+msgstr ""
+
+#. [message]: speaker=Neckfrill
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:1183
+msgid "...Not yet."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:1193
+msgid "(Probably won't be long before Dwarves and Orcs retreat. We shouldn't let them escape.)"
+msgstr ""
+
+#. [message]: speaker=dwarfleader
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:1208
+msgid "Enough already... Let's go home!"
+msgstr ""
+
+#. [message]: speaker=orcleader
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:1230
+msgid "Shit! It's a waste of time!"
+msgstr ""
+
+#. [message]: speaker=humanleader
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:1252
+msgid "Stand-down!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:1297
+msgid "We did badly..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:1304
+msgid "That's...not good enough."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:1311
+msgid "Not too bad."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:1318
+msgid "Very good."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:1325
+msgid "Excellent!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:1347
+msgid "We didn't achieve anything... We've lost."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:1356
+msgid "We mustn't take up any more of our time. It's over."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/03_the_shadow_over_the_battlefield.cfg:1367
+msgid "And then there were none... It's over."
+msgstr ""
+
+#. [scenario]: id=08_the_dead_bondage
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:4
+msgid "The Dead Bondage 2"
+msgstr ""
+
+#. [option]
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:74
+msgid "Elves"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:85
+msgid "Let's rot the forest in which elves live!"
+msgstr ""
+
+#. [option]
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:101
+msgid "Dwarves"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:113
+msgid "Let's bury Dwarves alive!"
+msgstr ""
+
+#. [option]
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:129
+msgid "Drakes"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:141
+msgid "Let's hunt Drakes!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:158
+msgid "Attack..."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:174
+msgid "Elves are in the forest. They are skillful marksmen. Their dexterity will be useful to us."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:187
+msgid "Dwarves are in the mountain. They have unmatched protection. Their resistance will compensate our weakness."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:200
+msgid "Drakes are in the sand. They wield fire. If we can get their dreadful power..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:214
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:221
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:228
+msgid "Everything went perfectly."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:243
+msgid "So as the undead and as the living, I've got a score to settle with the lich."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:247
+msgid "My goal is both to avenge my wife's death and to liberate all undead from his rule. For this reason, I must have a showdown with him."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:255
+msgid "You are utterly at a loss for words, aren't you?"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:263
+msgid "No! That's the stuff!!"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:267
+msgid "Anyway, you are the only leader of ours, sir."
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:277
+msgid "It's exciting to finally hunt a big one again. I'll organize a troop of zombie mages!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:282
+msgid "...Thank you."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:286
+msgid "Now that that's been decided on, let's enhance our capabilities! Elves, Dwarves and Drakes are still powerful. Which of these will you fight first?"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/08_the_dead_bondage.cfg:316
+msgid "Well, it's time to fight against the ancient lich!"
+msgstr ""
+
+#. [scenario]: id=01_beginning_of_the_tragedy
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:6
+msgid "Beginning of the Tragedy"
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:19
+msgid "The events portrayed in this story are all true. The names are real names of real people and real organizations."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:22
+msgid "...Did you find him?..."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:26
+msgid "...Nay. But there's a human village further on. They will kill him..."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:33
+msgid "...a few hours later"
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:39
+msgid "Villagers are disappearing. This mysterious phenomenon is making progress, but despite the mysterious nature of the disappearances, they are never talked about due to the isolation that encompasses each village in their remote mountain settings. Anyone who passes through villages hit by this phenomenon merely assumes that the village is deserted."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:44
+msgid "This story starts with last of these remote mountain villages. Though this is the last case of the mysterious phenomenon, it is also the beginning of an unprecedented disaster set to envelope the whole world."
+msgstr ""
+
+#. [message]: speaker=woodsman1
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:142
+msgid "Hi."
+msgstr ""
+
+#. [message]: speaker=peasant_A
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:146
+msgid "Hi, you're going home?"
+msgstr ""
+
+#. [message]: speaker=woodsman1
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:150
+msgid "Hey, have you ever heard of zombies?"
+msgstr ""
+
+#. [message]: speaker=peasant_A
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:154
+msgid "What? You mean those evil, walking corpses?"
+msgstr ""
+
+#. [message]: speaker=woodsman1
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:158
+msgid "Yeah, in fact they eat ..."
+msgstr ""
+
+#. [message]: speaker=peasant_A
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:162
+msgid "Eat what?"
+msgstr ""
+
+#. [message]: speaker=woodsman1
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:166
+msgid "...humans."
+msgstr ""
+
+#. [message]: speaker=peasant_A
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:170
+msgid "Whatever. It's all just superstition."
+msgstr ""
+
+#. [message]: speaker=woodsman1
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:174
+msgid "No! They really exist. I heard it from Father Merrin."
+msgstr ""
+
+#. [message]: speaker=peasant_A
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:178
+msgid "How can a corpse move!?"
+msgstr ""
+
+#. [message]: speaker=woodsman1
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:182
+msgid "There are evil magicians who animate corpses."
+msgstr ""
+
+#. [message]: speaker=peasant_A
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:186
+msgid "Why would a magician do that?"
+msgstr ""
+
+#. [message]: speaker=woodsman1
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:190
+msgid "They use corpses to invade countries."
+msgstr ""
+
+#. [message]: speaker=peasant_A
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:194
+msgid "Well even if it is true, no magician would want to invade this useless little village."
+msgstr ""
+
+#. [message]: speaker=woodsman1
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:198
+msgid "...True."
+msgstr ""
+
+#. [message]: speaker=woodsman1
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:202
+msgid "Well, see you tomorrow."
+msgstr ""
+
+#. [message]: speaker=peasant_A
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:206
+msgid "See you."
+msgstr ""
+
+#. [message]: speaker=peasant_A
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:219
+msgid "That's all for today."
+msgstr ""
+
+#. [message]: speaker=peasant_A
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:245
+msgid "!!!!!!!!"
+msgstr ""
+
+#. [message]: speaker=peasant_A
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:249
+msgid "Zo, zo, zom..."
+msgstr ""
+
+#. [message]
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:282
+msgid "...BRAINS!!...FLESH!!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:300
+msgid "Mama! Papa is back!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:305
+msgid "My boy, open the door for papa."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:310
+msgid "Good evening, papa!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:331
+msgid "Nooooooooooooooooo!!!!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:364
+msgid "MORE BRAINS!!! MORE FLESH!!!"
+msgstr ""
+
+#. [message]: speaker=ruffian
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:395
+msgid "What the hell is that!? ...Are those the zombies that father was talking about?"
+msgstr ""
+
+#. [message]: speaker=ruffian
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:406
+msgid "Father! Corpses are attacking our village!"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:428
+msgid "Really?"
+msgstr ""
+
+#. [message]: speaker=ruffian
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:432
+msgid "Yes! I saw it with my own eyes!"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:436
+msgid "Hmmm...Call everyone here!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:450
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:497
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:242
+msgid "...ten minutes later"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:475
+msgid "Zombies are attacking us, and some people have already become prey to them. They're coming from the South. We must escape to the North!!"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:479
+msgid "(One matter for concern is whether or not a necromancer is involved in this trouble...But why would a necromancer have any interest in this village? It's very likely that those corpses are separated from their necromancer.)"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:483
+msgid "(Then they have neither intelligence nor will. If we act as a group, it may be easy to escape from them...even to expel them in the morning.)"
+msgstr ""
+
+#. [message]: speaker=ruffian
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:526
+msgid "Safe!!"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:530
+msgid "Wait! Don't wander off alone!"
+msgstr ""
+
+#. [message]: speaker=ruffian
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:534
+msgid "Shut up! I wanna go!"
+msgstr ""
+
+#. [message]
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:584
+msgid "...BRAINS!"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:593
+msgid "Wh...why is a corpse here..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:597
+msgid "Father! They are coming from behind as well! What should we do!?"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:606
+msgid "Necromancer! Come out! I know that you govern these fuckin corpses!! What do you want!? I promise to do anything in my power to help you except bring harm to my fellow villagers."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:645
+msgid "Nothing...governs...us"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:656
+msgid "...What are you? A zombie speaks like the living?"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:673
+msgid "It's...time...to...die...Father"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:677
+msgid "And...you...shall...get...a...new...life"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:684
+msgid "Damn! Fight or Die!!"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:701
+msgid "The Power of God compels you!!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:723
+msgid "Notice: Human type Walking Corpses that have no XP will be removed from the recall list in the next level."
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:742
+msgid "O God! Preserve me from defilement!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:746
+msgid "Don't...put...it...like...that. This...is...a...special...present...for...you, Father."
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:782
+msgid "...I got a new life. Thank you very much indeed."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/01_beginning_of_the_tragedy.cfg:786
+msgid "Ho. You...didn't...lose...your...ability to...reason? Congratulations. Serve me...as my right hand."
+msgstr ""
+
+#. [scenario]: id=07_vengeance_is_mine
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:6
+msgid "Vengeance is Mine"
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:18
+msgid "...That's my boy, ingrate..."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:22
+msgid "...Again I command you to come to heel..."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:30
+msgid "After his miraculous recovery, Macabre slew the orcish chief without trouble. The Orcs defeat was crippling and left them too weak even to attempt a comeback. Macabre's next target was the great mage who had brought Macabre to bay. He was fascinated by the tremendous magical power of the mage. Without such power, it would be impossible to resist the will of the speaker of the voice, he thought."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:37
+msgid "Humans also couldn't disregard the loss of a frontline stronghold with the general. They found out that Macabre was going towards the cathedral where the great mage resided. They proposed not to hold back on the dead and to catch them with one cast of the net. Thus, the interests of the undead clashed with that of the living. A battle between the dead and the living was about to begin. A battle for revenge."
+msgstr ""
+
+#. [side]: type=Silver Mage, id=silver
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:91
+msgid "Saruman"
+msgstr ""
+
+#. [event]
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:176
+msgid "Joe"
+msgstr ""
+
+#. [event]
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:177
+msgid "Raymond"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:198
+msgid "(...Something is wrong. Humans accepted us without a fight. But the Great Mage must be a person they simply can't afford to lose. It would seem that they are playing tricks...)"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:202
+msgid "Boreas, go scouting...around the outside of this cathedral."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:206
+msgid "Outside? not inside?"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:210
+msgid "Outside. Enlarge your horizons, and don't overlook anything."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:233
+msgid "(I'm roughly on to their tricks...But I need to know WHEN the trap will spring and HOW MANY will spring it)"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:262
+msgid "I'm back! Large troops of humans are coming!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:266
+msgid "This must be what I think it is. When will they arrive here?"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:277
+msgid "Sorry, I don't know."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:281
+msgid "(What an useless scout... I should have trained him much more.)"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:293
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:318
+msgid "The first of them will arrive tomorrow at dawn. And then more will arrive every other day!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:297
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:322
+msgid "How many troops are there?"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:301
+msgid "Four!"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:326
+msgid "Four! First batch is a mounted troop, second is a light infantry troop, third is an infantry troop and forth is a heavy infantry troop."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:333
+msgid "Hm...The longer this battle drags on, the more enemies we will have to fight... We must take this into account with the situation at hand. Anyway, don't forget the goal is first to transform the great mage into a fellow zombie."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:337
+msgid "Right, into battle!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:344
+msgid "Transform the Great Mage into a Zombie"
+msgstr ""
+
+#. [objectives]
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:359
+msgid "The Great Mage must be killed by a unit with the plague ability!"
+msgstr ""
+
+#. [message]: speaker=guard1
+#. [message]: speaker=guard2
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:407
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:447
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:487
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:527
+msgid "Sir! Undead have arrived!!"
+msgstr ""
+
+#. [message]: speaker=silver
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:414
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:454
+msgid "How terrible... Don't let them advance any further!"
+msgstr ""
+
+#. [message]: speaker=philosophy0
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:494
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:534
+msgid "Damn! Dress for battle!"
+msgstr ""
+
+#. [event]
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:557
+msgid "John"
+msgstr ""
+
+#. [message]: speaker=horseman
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:565
+msgid "We are the first wave of reinforcements!"
+msgstr ""
+
+#. [event]
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:575
+msgid "Thomas"
+msgstr ""
+
+#. [message]: speaker=fencer
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:580
+msgid "We are the second wave of reinforcements!"
+msgstr ""
+
+#. [event]
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:590
+msgid "Sean"
+msgstr ""
+
+#. [message]: speaker=swordsman
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:595
+msgid "We are the third wave of reinforcements!"
+msgstr ""
+
+#. [event]
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:605
+msgid "David"
+msgstr ""
+
+#. [message]: speaker=heavy
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:610
+msgid "We are the forth wave of reinforcements!"
+msgstr ""
+
+#. [message]: speaker=silver
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:623
+msgid "It's now or never! We must fight together!!"
+msgstr ""
+
+#. [message]: speaker=philosophy0
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:655
+msgid "What a hell of a mess! Dress for battle!"
+msgstr ""
+
+#. [message]: speaker=philosophy0
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:739
+msgid "I...I don't wanna die...I don't wanna be a zombie..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:743
+msgid "Why do you hate zombies so much? Every human must eventually die anyways. But as a zombie you will get a new life. Why doesn't your heart rejoice at this?"
+msgstr ""
+
+#. [message]: speaker=philosophy0
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:747
+msgid "Don't quibble with me! I don't want to survive as a decomposed corpse!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:751
+msgid "No matter. Now you die and get a new life."
+msgstr ""
+
+#. [message]: speaker=philosophy0
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:755
+msgid "Noooooooooo!!!"
+msgstr ""
+
+#. [message]: speaker=philosophy
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:795
+msgid "I have putrefied..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:799
+msgid "Yeah."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/07_vengeance_is_mine.cfg:845
+msgid "Hey! I told you to transform him into zombie! ...It seems my leadership has declined. I couldn't accomplish my ends under such circumstances..."
+msgstr ""
+
+#. [scenario]: id=08_the_dead_bondage0a
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:5
+msgid "The Dead Bondage"
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:15
+msgid "After a tough fight, Macabre defeated the great mage Philosophy, and took control of his remains. Everything went quite well. 'Now is the time for action...' But then Macabre heard the voice again."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:19
+msgid "...You are at the meridian of your power, aren't you?..."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:22
+msgid "...But, are you sure you are not under misapprehension?..."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:25
+msgid "...What are you planning to do with your new-found power?..."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:28
+msgid "...I must say, oblivion is a sin..."
+msgstr ""
+
+#. [part]
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:31
+msgid "...Because oblivion calms even fear..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:77
+msgid "Not that again!!! I will only do my OWN bidding!!!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:81
+msgid "If you don't quit tripping..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:97
+msgid "WHAT WILL YOU DO IF I DON'T ?"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:142
+msgid "Long time no see, Macabre."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:147
+msgid "You!! How dare you come here!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:152
+msgid "That's a really mean thing to say, MY BOY."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:157
+msgid "Shut up! I won't let you get away!!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:190
+msgid "Aw man! First things first."
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:202
+msgid "What a difficult child... OK, I'll teach you a lesson. Come on!!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:207
+msgid "My pleasure!!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:279
+msgid "That's all? ...Well, this is my round!!"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:354
+msgid "Aaaaarrrrrgggghhhhhhh!!!"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:361
+msgid "Does that ring a bell?"
+msgstr ""
+
+#. [message]: speaker=Mal Oryzias
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:378
+msgid "...When next we meet, come to heel or become void. Think well!!"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:417
+msgid "What happened!? You are injured very much!!"
+msgstr ""
+
+#. [message]: speaker=Merrin
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:421
+msgid "Leave it to me!"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:443
+msgid "Are you all right?"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:448
+msgid "...Yes."
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:453
+msgid "What..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:458
+msgid "I was insufficiently aware of the problem...We need more power...Because I must bring down an ancient lich!!!"
+msgstr ""
+
+#. [message]: speaker=Boreas
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:467
+msgid "A...Ancient lich? Are you sure?"
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:472
+msgid "Yes...this is something from my past when I was still a living human. Because of my talent for tactics, I was selected as a military commander at a young age. I led my country to victory in many wars. At last I was ordered to put down an ancient lich. He had already brought calamity to many countries by then."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:476
+msgid "It was a horrible war. Many soldiers were killed, but we managed to eliminate hordes of undead. The war was a back and forth affair. Before I knew it, the only survivors left were my wife, who was also my aid, the ancient lich and myself. My wife and I hunted down the lich in the end."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/scenarios/08_the_dead_bondage0a.cfg:480
+msgid "Or at least I thought so."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/utils/deaths.cfg:11
+msgid "Merrin! ...I couldn't accomplish my goal without him. It's over."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/utils/deaths.cfg:27
+msgid "Boreas! ...I couldn't accomplish my goal without him. It's over."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/utils/deaths.cfg:43
+msgid "Philosophy! ...I couldn't accomplish my goal without him. It's over."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Danse_Macabre/utils/deaths.cfg:59
+msgid "I can't perish...until defeating him..."
+msgstr ""
+
+#. [message]: speaker=Macabre
+#: Danse_Macabre/utils/deaths.cfg:72
+msgid "Oops! My fellows are starving... They won't obey my order any longer. I've spent too much time... I lost."
+msgstr ""
+
+#. [illuminates]: id=darken
+#: Danse_Macabre/utils/macros.cfg:88
+msgid "darken"
+msgstr ""
+
+#. [illuminates]: id=darken
+#: Danse_Macabre/utils/macros.cfg:89
+msgid ""
+"This unit darkens the surrounding area, making chaotic units fight better, and lawful units fight worse.\n"
+"\n"
+"Any units adjacent to this unit will fight as if it were dusk when it is day, and as if it were night when it is dusk."
+msgstr ""
+
+#. [regenerate]: id=regenerates12
+#: Danse_Macabre/utils/macros.cfg:141
+msgid "regenerates +12"
+msgstr ""
+
+#. [regenerate]: id=regenerates12
+#: Danse_Macabre/utils/macros.cfg:142
+msgid "female^regenerates +12"
+msgstr ""
+
+#. [regenerate]: id=regenerates12
+#: Danse_Macabre/utils/macros.cfg:143
+msgid "The unit will heal itself 12 HP per turn. If it is poisoned, it will remove the poison instead of healing."
+msgstr ""
+
+#. [regenerate]: id=regenerates16
+#: Danse_Macabre/utils/macros.cfg:155
+msgid "regenerates +16"
+msgstr ""
+
+#. [regenerate]: id=regenerates16
+#: Danse_Macabre/utils/macros.cfg:156
+msgid "female^regenerates +16"
+msgstr ""
+
+#. [regenerate]: id=regenerates16
+#: Danse_Macabre/utils/macros.cfg:157
+msgid "The unit will heal itself 16 HP per turn. If it is poisoned, it will remove the poison instead of healing."
+msgstr ""
+
+#. [regenerate]: id=regenerates20
+#: Danse_Macabre/utils/macros.cfg:169
+msgid "regenerates +20"
+msgstr ""
+
+#. [regenerate]: id=regenerates20
+#: Danse_Macabre/utils/macros.cfg:170
+msgid "female^regenerates +20"
+msgstr ""
+
+#. [regenerate]: id=regenerates20
+#: Danse_Macabre/utils/macros.cfg:171
+msgid "The unit will heal itself 20 HP per turn. If it is poisoned, it will remove the poison instead of healing."
+msgstr ""
+
+#. [option]
+#: Danse_Macabre/utils/macros.cfg:515
+msgid "Take it"
+msgstr ""
+
+#. [option]
+#: Danse_Macabre/utils/macros.cfg:536
+msgid "Leave it"
+msgstr ""
+
+#: Danse_Macabre/utils/macros.cfg:612
+msgid "terror"
+msgstr ""
+
+#: Danse_Macabre/utils/macros.cfg:613
+msgid ""
+"This unit can frighten enemy units that are next to it, making them fight worse.\n"
+"\n"
+"Adjacent enemy units of lower level will do less damage in battle. When an enemy unit of the same or lower level is adjacent and engages in combat, its attacks do 15% less damage times the difference in their levels + 15%."
+msgstr ""
+
+#. [hides]: id=seclusion
+#: Danse_Macabre/utils/macros.cfg:681
+#: Danse_Macabre/utils/macros.cfg:685
+msgid "seclusion"
+msgstr ""
+
+#. [hides]: id=seclusion
+#: Danse_Macabre/utils/macros.cfg:682
+msgid ""
+"The unit always becomes invisible.\n"
+"\n"
+"Enemy units cannot see this unit, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement."
+msgstr ""
+
+#. [hides]: id=seclusion
+#: Danse_Macabre/utils/macros.cfg:686
+msgid ""
+"Seclusion:\n"
+"The unit always becomes invisible.\n"
+"\n"
+"Enemy units cannot see this unit, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement."
+msgstr ""
+
+#. [dummy]: id=sleep
+#: Danse_Macabre/utils/macros.cfg:699
+msgid "sleep"
+msgstr ""
+
+#. [dummy]: id=sleep
+#: Danse_Macabre/utils/macros.cfg:700
+msgid "This unit cannot move in the daytime."
+msgstr ""
+
+#. [dummy]: id=wakeup
+#: Danse_Macabre/utils/macros.cfg:719
+msgid "wakeup"
+msgstr ""
+
+#. [dummy]: id=wakeup
+#: Danse_Macabre/utils/macros.cfg:720
+msgid "This unit recovers mobility when it grows dark."
+msgstr ""
+
+#. [soul_drain]: id=soul_drain
+#: Danse_Macabre/utils/macros.cfg:850
+msgid "souldrain"
+msgstr ""
+
+#. [soul_drain]: id=soul_drain
+#: Danse_Macabre/utils/macros.cfg:851
+msgid "This unit drains a part of the soul from undead units or living units. It heals itself for 50% of the damage it deals to undead units and 25% of the damage it deals to living units (rounded down)."
+msgstr ""
+
+#. [soulbind]: id=soulbind
+#: Danse_Macabre/utils/macros.cfg:858
+#: Danse_Macabre/utils/macros.cfg:859
+msgid "soulbind"
+msgstr ""
+
+#. [soulbind]: id=soulbind
+#: Danse_Macabre/utils/macros.cfg:860
+msgid "Units killed by this attack have their souls bound to the will of their killer."
+msgstr ""
+
+#: Danse_Macabre/utils/macros.cfg:1079
+msgid " During battle, this unit can drain a part of the soul from victims to renew its own health."
+msgstr ""
+
+#: Danse_Macabre/utils/macros.cfg:1082
+msgid " This unit darkens the surrounding area, making chaotic units fight better, and lawful units fight worse."
+msgstr ""
+
+#: Danse_Macabre/utils/macros.cfg:1085
+msgid " This unit recovers mobility when it grows dark."
+msgstr ""
+
+#: Danse_Macabre/utils/macros.cfg:1088
+msgid " This unit cannot move in the daytime."
+msgstr ""
+
+#: Danse_Macabre/utils/macros.cfg:1091
+msgid " Enemy units cannot see this unit, except if they have units next to it."
+msgstr ""
+
+#: Danse_Macabre/utils/macros.cfg:1094
+msgid " This unit can frighten enemy units that are next to it, making them fight worse."
+msgstr ""
+
+#. [poison_g]: id=poison_g
+#: Danse_Macabre/utils/macros.cfg:1099
+msgid "cursed poison"
+msgstr ""
+
+#. [poison_g]: id=poison_g
+#: Danse_Macabre/utils/macros.cfg:1100
+msgid "This attack poisons not only the living but also the undead. Poisoned units lose 8 HP every turn until they are cured or are reduced to 1 HP. Poison can not, of itself, kill a unit."
+msgstr ""
+
+#. [unstore_unit]
+#: Danse_Macabre/utils/macros.cfg:1129
+#: Danse_Macabre/utils/macros.cfg:1159
+msgid "poisoned"
+msgstr ""
+
+#. [campaign]: id=Danse_Macabre
+#: Danse_Macabre/_main.cfg:21
+msgid "Danse Macabre"
+msgstr ""
+
+#. [campaign]: id=Danse_Macabre
+#: Danse_Macabre/_main.cfg:22
+msgid "wuriDM"
+msgstr ""
+
+#. [campaign]: id=Danse_Macabre
+#: Danse_Macabre/_main.cfg:26
+msgid "Creeper"
+msgstr ""
+
+#. [campaign]: id=Danse_Macabre
+#: Danse_Macabre/_main.cfg:26
+msgid "(Normal)"
+msgstr ""
+
+#. [campaign]: id=Danse_Macabre
+#: Danse_Macabre/_main.cfg:27
+msgid "Walker"
+msgstr ""
+
+#. [campaign]: id=Danse_Macabre
+#: Danse_Macabre/_main.cfg:27
+msgid "(Challenging)"
+msgstr ""
+
+#. [campaign]: id=Danse_Macabre
+#: Danse_Macabre/_main.cfg:28
+msgid "Runner"
+msgstr ""
+
+#. [campaign]: id=Danse_Macabre
+#: Danse_Macabre/_main.cfg:28
+msgid "(Difficult)"
+msgstr ""
+
+#. [campaign]: id=Danse_Macabre
+#: Danse_Macabre/_main.cfg:29
+msgid ""
+"Macabre is a rare zombie who has intelligence and will. What's he like? What's his purpose?\n"
+"\n"
+""
+msgstr ""
+
+#. [campaign]: id=Danse_Macabre
+#: Danse_Macabre/_main.cfg:31
+msgid ""
+"Note: I recommend the 'Normal' difficulty level if you're trying this campaign for the first time.\n"
+"\n"
+""
+msgstr ""
+
+#. [campaign]: id=Danse_Macabre
+#: Danse_Macabre/_main.cfg:33
+msgid "(Expert level, 12 playable scenarios. version "
+msgstr ""
+
+#. [campaign]: id=Danse_Macabre
+#: Danse_Macabre/_main.cfg:33
+msgid ")"
+msgstr ""
+
+#. [about]
+#: Danse_Macabre/_main.cfg:38
+msgid "Campaign Design"
+msgstr ""
+
+#. [about]
+#: Danse_Macabre/_main.cfg:44
+msgid "Campaign Maintenance"
+msgstr ""
+
+#. [about]
+#: Danse_Macabre/_main.cfg:53
+msgid "Artworks and Graphics Design"
+msgstr ""
+
+#. [about]
+#: Danse_Macabre/_main.cfg:65
+msgid "Map Design"
+msgstr ""
+
+#. [about]
+#: Danse_Macabre/_main.cfg:77
+msgid "English Revision"
+msgstr ""
+
+#. [about]
+#: Danse_Macabre/_main.cfg:86
+msgid "Brainstorming and Playtesting"
+msgstr ""
+
+#. [about]
+#: Danse_Macabre/_main.cfg:98
+msgid "Porting for Wesnoth 1.12"
+msgstr ""
+
+#. [about]
+#: Danse_Macabre/_main.cfg:104
+msgid "Russian Translation"
+msgstr ""
+
+#. [about]
+#: Danse_Macabre/_main.cfg:110
+msgid "Reference"
+msgstr ""
+
