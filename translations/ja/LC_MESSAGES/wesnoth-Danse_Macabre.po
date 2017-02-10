@@ -1,12 +1,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Danse_Macabre-1.12\n"
-"POT-Creation-Date: 2010-01-28 05:37+0900\n"
-"PO-Revision-Date: 2011-06-06 21:08+0900\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2017-01-18 11:07 UTC\n"
+"Last-Translator: tamanegi, 2017\n"
+"Language-Team: Japanese (https://www.transifex.com/wesnoth-jp/teams/70891/"
+"ja/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 1.8.11\n"
 
 msgid ""
 " During battle, this unit can drain a part of the soul from victims to renew "
@@ -37,11 +42,11 @@ msgstr ""
 msgid " This unit recovers mobility when it grows dark."
 msgstr "　このユニットは暗くなると移動できるようになります。"
 
-msgid " What?"
-msgstr "何がじゃ？"
-
 msgid "!"
 msgstr "！"
+
+msgid "! Vita?"
+msgstr "! Vita?"
 
 msgid "!!"
 msgstr "！！"
@@ -65,8 +70,8 @@ msgstr ""
 
 msgid ""
 "(...They will probably annihilate us after the mages arrive. We must capture "
-"the stronhold before that so we can launch a surprise attack on the mages in "
-"the forest.)"
+"the stronghold before that so we can launch a surprise attack on the mages "
+"in the forest.)"
 msgstr ""
 "（・・・奴らはおそらく魔術師が到着してから我々を殲滅する腹づもりだろう。その"
 "前に城砦を落とす必要がある・・・。そうすれば森で魔術師を奇襲することもできよ"
@@ -96,8 +101,8 @@ msgstr "（挑戦的）"
 msgid "(Difficult)"
 msgstr "（難しい）"
 
-msgid "(Expert level, 12 playable scenarios. version 1.0.5)"
-msgstr "（上級者レベル、12シナリオ、version 1.0.5）"
+msgid "(Expert level, 12 playable scenarios. version "
+msgstr "（上級者レベル、12シナリオ、version "
 
 msgid ""
 "(He doesn't seem like a puppet for that bastard...and ghosts are really "
@@ -194,6 +199,9 @@ msgid ""
 msgstr ""
 "（お前達も滅びよ・・・などとは口が裂けても言えない。いったい・・・私は・・・"
 "どうすればよい？）"
+
+msgid ")"
+msgstr "）"
 
 msgid "..."
 msgstr "・・・"
@@ -386,6 +394,9 @@ msgstr "・・・げよ"
 msgid "?"
 msgstr "？"
 
+msgid "???"
+msgstr "???"
+
 msgid ""
 "A great war! There are humans, elves, dwarves, orcs and drakes. Free for all!"
 msgstr ""
@@ -394,6 +405,18 @@ msgstr ""
 
 msgid "A horde of zombies are coming with great verve!!"
 msgstr "ぞ、ゾンビの大群が、ただならぬ気配でこちらへやってきます！"
+
+msgid ""
+"A noble by birth, the Princess has learnt swordplay with the greatest "
+"generals and battle tactics with the greatest sages, making her both a great "
+"combatant and leader. The units of lower level around the Princess will "
+"fight better due to her presence. The Princess is also nimble and dextrous, "
+"having skills like that of a thief."
+msgstr ""
+"生まれながらの 貴人である王女は 大将軍から剣技を、大賢者から戦術を学んでお"
+"り、戦闘と指揮の両方に優れています。王女の周囲の低レベルのユニットは、 彼女の"
+"存在によってうまく戦えるようになります。王女は盗賊のような技術をも兼ね備えて"
+"おり、素早く器用でもあります。"
 
 msgid "A sacred tree."
 msgstr "ご神木"
@@ -420,7 +443,7 @@ msgstr ""
 "え許さぬとでも言わんばかりに、再びあの声が聞こえてきた。"
 
 msgid ""
-"After his miraculous recovery, Macabre slew the orchish chief without "
+"After his miraculous recovery, Macabre slew the orcish chief without "
 "trouble. The Orcs defeat was crippling and left them too weak even to "
 "attempt a comeback. Macabre's next target was the great mage who had brought "
 "Macabre to bay. He was fascinated by the tremendous magical power of the "
@@ -525,6 +548,9 @@ msgstr "あああああ！"
 msgid "Arrgh!!...But I have no regrets about my death."
 msgstr "ああああ！！　・・・しかし、死んでも悔いはないぞ。"
 
+msgid "Artworks and Graphics Design"
+msgstr "アートワークとグラフィクスデザイン"
+
 msgid ""
 "As Philosophy says, we have no time to lose. To hold back the lich's army, I "
 "must advance forward as far as possible and take up a position...even if I "
@@ -588,6 +614,12 @@ msgstr ""
 "つて無いほどの力を手に入れたぞ。貴様は私に触れることさえできず、ここで消え去"
 "るのだ！"
 
+msgid "Bakgodek"
+msgstr "Bakgodek"
+
+msgid "Balin"
+msgstr "Balin"
+
 msgid "Battalion"
 msgstr "バタリアン"
 
@@ -596,11 +628,6 @@ msgstr "静かに・・・しろ。やめないし離さないし私はもう死
 
 msgid "Bear arms! Blow up foolish corpses! God bless us!"
 msgstr "武器を取れ！愚かな死体共を蹴散らすのだ！神は我々と共にある！"
-
-msgid ""
-"Before that, we'd better complete arrangements. It seems to forecast a "
-"fierce battle."
-msgstr "その前に態勢を整えておいた方がよいでしょうね。激戦が予想されます。"
 
 msgid "Beginning of the Tragedy"
 msgstr "悲劇の始まり"
@@ -617,6 +644,9 @@ msgstr "奴らを蹴散らせい！！"
 msgid "Bone Dragoon"
 msgstr "ボーンドラグーン"
 
+msgid "Boreas"
+msgstr "Boreas"
+
 msgid "Boreas! ...I couldn't accomplish my goal without him. It's over."
 msgstr "Boreas！　・・・彼なしでは我が目的を果たせないだろう。これまでだ。"
 
@@ -628,6 +658,9 @@ msgstr "Boreas、斥候に出よ・・・大聖堂の外側だ。"
 
 msgid "Boss!"
 msgstr "ボス！"
+
+msgid "Boss! The Mages have arrived!"
+msgstr "ボス！魔術師が到着してしまいました！"
 
 msgid "Boss..."
 msgstr "ボス・・・"
@@ -649,6 +682,9 @@ msgstr ""
 "力を維持するためにより多くの脳髄を食す必要があったのか、そのどちらであるのか"
 "は分からない。いずれにせよ、彼らは生前よりも早く、そして力強く動くことができ"
 "る。彼らは素手であるにもかかわらず精鋭たちをも恐れさせる。"
+
+msgid "Brainstorming and Playtesting"
+msgstr "ブレインストーミングとテストプレイ"
 
 msgid ""
 "But it will take too much time! What if the lich's main forces came here!? "
@@ -683,6 +719,12 @@ msgstr "ところで、あの主塔も奇妙だとは思わんか？"
 msgid "By the way, what is our immediate priority?"
 msgstr "ところで、当面の問題はなんじゃ？"
 
+msgid "Campaign Design"
+msgstr "キャンペーンデザイン"
+
+msgid "Campaign Maintenance"
+msgstr "キャンペーンメンテナンス"
+
 msgid "Chief!"
 msgstr "頭！"
 
@@ -691,6 +733,9 @@ msgstr "頭！死に損ないどもが戻ってきます！"
 
 msgid "Chocoknight"
 msgstr "チョコナイト"
+
+msgid "Chrysophylax"
+msgstr "Chrysophylax"
 
 msgid "Come out! Gingly!"
 msgstr "出てこい！Gingly！"
@@ -712,6 +757,9 @@ msgstr ""
 "か。今こそ、リッチを打倒し、呪われた死を解放へと変えねばならない。もはや選択"
 "の余地などないのだ。"
 
+msgid "Corvus"
+msgstr "Corvus"
+
 msgid ""
 "Coward king and heroic warrior...It's obvious which personnel is necessary "
 "for us."
@@ -723,17 +771,6 @@ msgstr "這う者"
 
 msgid "Cursed Ghast"
 msgstr "呪われたガスト"
-
-msgid ""
-"Cursed Poison:\n"
-"This attack poisons not only the living but also the undead. Poisoned units "
-"lose 8 HP every turn until they are cured or are reduced to 1 HP. Poison can "
-"not, of itself, kill a unit."
-msgstr ""
-"呪毒:\n"
-"この攻撃は生者のみならず死者をも毒状態にします。毒を受けているユニットは解毒"
-"するか HP が 1 になるまで、毎ターン HP が 8 減っていきます。毒そのものでは、"
-"ユニットが死ぬことはありません。"
 
 msgid "Cut the crap!!"
 msgstr "ほざけ！！"
@@ -778,18 +815,8 @@ msgstr ""
 "戦う。どんな乗馬の達人でも怯むような速度で進軍するこの騎馬兵は、動きの緩慢な"
 "ゾンビどもとは比べ物にならないぐらい厄介である。"
 
-msgid ""
-"Darken:\n"
-"This unit darkens the surrounding area, making chaotic units fight better, "
-"and lawful units fight worse.\n"
-"\n"
-"Any units adjacent to this unit will fight as if it were dusk when it is "
-"day, and as if it were night when it is dusk."
-msgstr ""
-"遮光:\n"
-"このユニットは周囲を暗くして、 混沌ユニットを戦いやすく、 秩序ユニットを戦い"
-"にくくします。 すべての隣接ユニットは日中には夕方として、 夕方には夜として戦"
-"うようになります。"
+msgid "David"
+msgstr "David"
 
 msgid "Dawn of the dead"
 msgstr "死者の夜明け"
@@ -910,9 +937,6 @@ msgstr ""
 msgid "Drake"
 msgstr "ドレイク"
 
-msgid "Drake King"
-msgstr "ドレイクの王"
-
 msgid "Drakes"
 msgstr "ドレイク"
 
@@ -939,15 +963,12 @@ msgstr ""
 msgid "Dwarf"
 msgstr "ドワーフ"
 
-msgid "Dwarf King"
-msgstr "ドワーフの王"
-
 msgid "Dwarves"
 msgstr "ドワーフ"
 
 msgid ""
 "Dwarves are in the mountain. They have unmatched protection. Their "
-"resistanse will compensate our weakness."
+"resistance will compensate our weakness."
 msgstr ""
 "ドワーフは山にいます。彼らは比類無き防御力を有しています。その耐性は我々の弱"
 "点を補うでしょう。"
@@ -964,9 +985,6 @@ msgstr "高慢な・・・人間どもを・・・貪り尽くせ！"
 
 msgid "Elf"
 msgstr "エルフ"
-
-msgid "Elf King"
-msgstr "エルフの王"
 
 msgid "Elves"
 msgstr "エルフ"
@@ -985,6 +1003,9 @@ msgstr "エルフはリーダーを失い、混乱に陥りました（彼らは
 msgid "Emergency!"
 msgstr "緊急事態！"
 
+msgid "English Revision"
+msgstr "英文校正"
+
 msgid "Enough already... Let's go home!"
 msgstr "もういい・・・帰るぞ！"
 
@@ -995,6 +1016,9 @@ msgstr ""
 
 msgid "Enough!!"
 msgstr "もういい！！"
+
+msgid "Eomer"
+msgstr "Eomer"
 
 msgid "Everyone was all right. They should be here at dawn!"
 msgstr "全員無事です！夜明けには到着するはずです！"
@@ -1065,6 +1089,12 @@ msgstr ""
 msgid "Fuckin Corpse! Die!"
 msgstr "くそったれな死体め！くたばれ！"
 
+msgid "Galadriel"
+msgstr "Galadriel"
+
+msgid "Gamling"
+msgstr "Gamling"
+
 msgid "General, corpses are attacking us!"
 msgstr "将軍、死体たちが我々を攻撃しようとしています！"
 
@@ -1077,14 +1107,23 @@ msgstr "やれ！"
 msgid "Get out of the way!"
 msgstr "邪魔だどけ！"
 
-msgid "Ghast"
-msgstr "ガスト"
-
 msgid "Giant Ant"
 msgstr "巨大蟻"
 
+msgid "Gimli"
+msgstr "Gimli"
+
+msgid "Gingly"
+msgstr "Gingly"
+
 msgid "Give us your heart, SON OF A LICH!!"
 msgstr "貴様の心臓をよこせ、「リッチの息子」め！！"
+
+msgid "Glaurung"
+msgstr "Glaurung"
+
+msgid "Gloin"
+msgstr "Gloin"
 
 msgid "Glory to Elves!!"
 msgstr "エルフに栄光あれ！！"
@@ -1156,6 +1195,9 @@ msgstr "は・・・は・・・ははははははははははは！！"
 msgid "Haha... Don't worry. I'm not going anywhere."
 msgstr "ふふ・・・　心配しないで。私はどこへも行かないわ。"
 
+msgid "Haldir"
+msgstr "Haldir"
+
 msgid "Have fun!!"
 msgstr "せいぜい楽しめ！！"
 
@@ -1174,7 +1216,7 @@ msgid ""
 msgstr "彼は心臓を食べ、装甲、全耐性および他のドワーフの特徴を得た！"
 
 msgid ""
-"He he he... You killed your wife. What an infernal deed!  Your wife would "
+"He he he... You killed your wife. What an infernal deed! Your wife would "
 "have lived eternally. He he he..."
 msgstr ""
 "くっくっく・・・自分の妻を手にかけたか。非道よのう。お前の妻は、あのまま永遠"
@@ -1239,7 +1281,7 @@ msgstr ""
 msgid "Hey, have you ever heard of zombies?"
 msgstr "ああ。ところでお前さん、ゾンビって知ってるか？"
 
-msgid "Hi, Mr.Macabre."
+msgid "Hi, Mr. Macabre."
 msgstr "どうも、Macabre さん。"
 
 msgid "Hi, you're going home?"
@@ -1603,6 +1645,12 @@ msgstr "いい・・・建国式・・・だった・・・"
 msgid "JUST RUN!!!"
 msgstr "逃げよ！！！"
 
+msgid "Joe"
+msgstr "Joe"
+
+msgid "John"
+msgstr "John"
+
 msgid "Just great. This is a big sale in liches..."
 msgstr "やれやれ。リッチの大安売りじゃな・・・"
 
@@ -1617,6 +1665,9 @@ msgstr "取らない"
 
 msgid "Leave it to me!"
 msgstr "私に任せなさい！"
+
+msgid "Legolas"
+msgstr "Legolas"
 
 msgid "Let's bury Dwarves alive!"
 msgstr "ドワーフどもを生き埋めにしてやろう！"
@@ -1636,6 +1687,9 @@ msgstr "一緒に逃げましょう！！"
 msgid "Let's...contend...with...Humans!"
 msgstr "人間と・・・戦だ！"
 
+msgid "Lich"
+msgstr "リッチ"
+
 msgid "Lie down in Darkness"
 msgstr "闇の中に横たわりて"
 
@@ -1653,6 +1707,9 @@ msgstr "見よ、もう一匹くるぞい。"
 
 msgid "MORE BRAINS!!! MORE FLESH!!!"
 msgstr "もっと脳味噌ォ・・・！　もっと肉ゥ・・・！"
+
+msgid "Macabre"
+msgstr "Macabre"
 
 msgid "Macabre advanced into the desert which Drakes were based in."
 msgstr "Macabre はドレイクが巣くう砂漠に侵入した。"
@@ -1743,20 +1800,26 @@ msgstr "Macabre？そんな名前の恐るべきゾンビがいると聞いて�
 msgid "Macabre? I know that name...but aren't you a zombie?"
 msgstr "Macabre？その名前は知っているが・・・ゾンビではないのか？"
 
-msgid "Mad Drake"
-msgstr "狂ったドレイク"
-
 msgid "Mages"
 msgstr "魔術師"
 
 msgid "Mages...are...coming. Go!"
 msgstr "魔術師どもが・・・迫って・・・いる。行け！"
 
+msgid "Mal Oryzias"
+msgstr "Mal Oryzias"
+
 msgid "Mama! Papa is back!"
 msgstr "ママ、パパがかえってきたよ！"
 
+msgid "Map Design"
+msgstr "マップデザイン"
+
 msgid "Meh"
 msgstr "我ハタダ主ノ命ニ従ウノミ。"
+
+msgid "Merrin"
+msgstr "Merrin"
 
 msgid "Merrin! ...I couldn't accomplish my goal without him. It's over."
 msgstr "Merrin！　・・・彼なしでは我が目的を果たせないだろう。これまでだ。"
@@ -1775,7 +1838,7 @@ msgstr ""
 "の活力を取り戻し、走ることができる。彼らから逃げることは容易でなく、さらに多"
 "くの生者が餌食となるだろう。"
 
-msgid "Mr.Gingly, if...you...have...nowhere...to...go, join...us."
+msgid "Mr. Gingly, if...you...have...nowhere...to...go, join...us."
 msgstr "Gingly くん、もし行くところがないのなら・・・我々の仲間になりたまえ。"
 
 msgid "Muhahaha! Let me do it!!"
@@ -1811,6 +1874,9 @@ msgstr "まだだ！"
 
 msgid "Nay. But there's a human village further on. They will kill him."
 msgstr "いいや。しかし、この先には人間の村がある。奴らが始末するだろう。"
+
+msgid "Neckfrill"
+msgstr "Neckfrill"
 
 msgid "Neckfrill!!"
 msgstr "Neckfrill！！"
@@ -1850,8 +1916,8 @@ msgstr ""
 "ある。"
 
 msgid ""
-"Necromancer!  Come out!  I know that you govern these fuckin corpses!!  What "
-"do you want!?  I promise to do anything in my power to help you except bring "
+"Necromancer! Come out! I know that you govern these fuckin corpses!! What do "
+"you want!? I promise to do anything in my power to help you except bring "
 "harm to my fellow villagers."
 msgstr ""
 "ネクロマンサー！出てこられい！貴殿がこの忌まわしい死体どもを操っていることは"
@@ -2121,6 +2187,9 @@ msgid ""
 "Orcs have lost their leader and fallen into confusion (they never move)."
 msgstr "オークはリーダーを失い、混乱に陥りました（彼らは移動できません）。"
 
+msgid "Orlok"
+msgstr "Orlok"
+
 msgid "Outside. Enlarge your horizons, and don't overlook anything."
 msgstr "外だ。視界を広く持ち、何事も見逃すな。"
 
@@ -2130,11 +2199,17 @@ msgstr "外側？内側ではなく？"
 msgid "Pardon?"
 msgstr "何かおっしゃいましたか？"
 
+msgid "Pech"
+msgstr "Pech"
+
 msgid "Pech!!"
 msgstr "Pech！！"
 
 msgid "Phew... That was really close."
 msgstr "ふぅ・・・間一髪だったな。"
+
+msgid "Philosophy"
+msgstr "Philosophy"
 
 msgid "Philosophy! ...I couldn't accomplish my goal without him. It's over."
 msgstr "Philosophy！　・・・彼なしでは我が目的を果たせないだろう。これまでだ。"
@@ -2152,11 +2227,17 @@ msgstr ""
 "お願いですから弱音を吐かないで下さい、王よ！我々は名誉あるエルフだ！戦いま"
 "しょう！"
 
+msgid "Porting for Wesnoth 1.12"
+msgstr "Wesnoth 1.12 への移植"
+
 msgid "Pride and Prejudice"
 msgstr "高慢と偏見"
 
 msgid "Put your units on the two keeps, and they will be destroyed."
 msgstr "二つの敵主塔にユニットを移動させると、主塔が破壊されます。"
+
+msgid "Raymond"
+msgstr "Raymond"
 
 msgid ""
 "Really it is not that simple. To begin with, the undead are not natural. All "
@@ -2175,32 +2256,8 @@ msgstr "本当か？"
 msgid "Really? How comforting! Of course yes!"
 msgstr "本当に？なんと心強い！よろしく頼む！"
 
-msgid ""
-"Regenerates:\n"
-"The unit will heal itself 12 HP per turn. If it is poisoned, it will remove "
-"the poison instead of healing."
-msgstr ""
-"再生:\n"
-"このユニットはターンごとに自身のHPを12回復します。 毒を受けているなら、 回復"
-"する代わりに毒を取り除きます。"
-
-msgid ""
-"Regenerates:\n"
-"The unit will heal itself 16 HP per turn. If it is poisoned, it will remove "
-"the poison instead of healing."
-msgstr ""
-"再生:\n"
-"このユニットはターンごとに自身のHPを16回復します。 毒を受けているなら、 回復"
-"する代わりに毒を取り除きます。"
-
-msgid ""
-"Regenerates:\n"
-"The unit will heal itself 20 HP per turn. If it is poisoned, it will remove "
-"the poison instead of healing."
-msgstr ""
-"再生:\n"
-"このユニットはターンごとに自身のHPを20回復します。 毒を受けているなら、 回復"
-"する代わりに毒を取り除きます。"
+msgid "Reference"
+msgstr "リファレンス"
 
 msgid "Retrospection 1"
 msgstr "回想１"
@@ -2229,6 +2286,9 @@ msgstr "走る者"
 msgid "Running Corpse"
 msgstr "走る死体"
 
+msgid "Russian Translation"
+msgstr "ロシア語翻訳"
+
 msgid "Rusty Axe"
 msgstr "錆びた斧"
 
@@ -2244,6 +2304,12 @@ msgstr "助かった！"
 msgid "Salute. By the way, give me your heart, please."
 msgstr "敬礼。ところで、君の心臓をいただけませんか。"
 
+msgid "Saruman"
+msgstr "Saruman"
+
+msgid "Saurian"
+msgstr "トカゲ"
+
 msgid ""
 "Say what you want! I'm fed up with chasing. We're going to settle this here "
 "and now!"
@@ -2254,6 +2320,9 @@ msgstr "さあ覚悟しろ！！"
 
 msgid "Scout!"
 msgstr "斥候！"
+
+msgid "Sean"
+msgstr "Sean"
 
 msgid ""
 "Seclusion:\n"
@@ -2272,11 +2341,6 @@ msgstr ""
 msgid "See you."
 msgstr "またな。"
 
-msgid ""
-"Shit!  This is an unexpected thing...but it is just a case of having to "
-"capture the stronghold again!"
-msgstr "くそっ！予想外の事態だ・・・　だが、もう一度奪えばいいだけのことよ！"
-
 msgid "Shit! Almost!"
 msgstr "ちっ！惜しい！"
 
@@ -2285,6 +2349,11 @@ msgstr "くそっ！二度手間だ！"
 
 msgid "Shit! It's a waste of time!"
 msgstr "くそっ！時間の無駄だ！"
+
+msgid ""
+"Shit! This is an unexpected thing...but it is just a case of having to "
+"capture the stronghold again!"
+msgstr "くそっ！予想外の事態だ・・・　だが、もう一度奪えばいいだけのことよ！"
 
 msgid "Should we adopt a defensive stance, or an offensive stance?"
 msgstr "守るべきか攻めるべきか？"
@@ -2301,30 +2370,29 @@ msgstr "ほざけ！覚悟しろ！！"
 msgid "Silly twit!"
 msgstr "のろまめ！"
 
-msgid "Sir Philosophy! That guard was killed! The corpses are unstoppable!"
-msgstr "Philosophy 様！守衛が殺されました！死体共を止められません！"
-
 msgid "Sir! I broke my leg...I can't move!"
 msgstr "親分！足が折れちまいまして・・・動けないんです！"
 
 msgid "Sir! Undead have arrived!!"
 msgstr "アンデッドがここまでやって来ました！！"
 
+msgid "Skalmad"
+msgstr "Skalmad"
+
 msgid "Skeleton Rider"
 msgstr "スケルトンライダー"
-
-msgid ""
-"Sleep:\n"
-"This unit cannot move in the daytime."
-msgstr ""
-"睡眠:\n"
-"このユニットは日中移動できません。"
 
 msgid "Sleeping Vampire"
 msgstr "眠ったヴァンパイア"
 
+msgid "Smaug"
+msgstr "Smaug"
+
 msgid "Smell...of...war. Go...scouting, Boreas."
 msgstr "戦争の・・・臭いだ。斥候に・・・行け、Boreas。"
+
+msgid "Smok Wawelski"
+msgstr "Smok Wawelski"
 
 msgid ""
 "So all the living agreed to a ceasefire in order to prepare their "
@@ -2360,26 +2428,8 @@ msgstr "すいません、分かりません"
 msgid "Sorry, I have already eaten it up."
 msgstr "すいません、もう食べてしまいました。"
 
-msgid ""
-"Soul Drain:\n"
-"This unit drains a part of the soul from undead units or living units. It "
-"heals itself for 50% of the damage it deals to undead units and 25% of the "
-"damage it deals to living units (rounded down)."
-msgstr ""
-"霊気吸収:\n"
-"このユニットはアンデッドや生者から魂の一部を奪い、アンデッドなら与えたダメー"
-"ジの50%、生者なら与えたダメージの25%が回復します（切り捨て）。"
-
-msgid ""
-"Soulbind:\n"
-"Units killed by this attack have their souls bound to the will of their "
-"killer."
-msgstr ""
-"霊魂呪縛:\n"
-"この攻撃で殺されたユニットの魂は、殺害者の意のままに操られる。"
-
-msgid "Soulless"
-msgstr "さまよえる死体"
+msgid "Spelk"
+msgstr "Spelk"
 
 msgid "Spelk!!"
 msgstr "Spelk！！"
@@ -2411,21 +2461,6 @@ msgstr "生き延びろ"
 
 msgid "Take it"
 msgstr "取る"
-
-msgid ""
-"Terror:\n"
-"This unit can frighten enemy units that are next to it, making them fight "
-"worse.\n"
-"\n"
-"Adjacent enemy units of lower level will do less damage in battle. When an "
-"enemy unit of the same or lower level is adjacent and engages in combat, its "
-"attacks do 15% less damage times the difference in their levels + 15%."
-msgstr ""
-"恐怖:\n"
-"このユニットは隣接する敵ユニットを怯えさせ、戦いにくくします。低レベルの隣接"
-"敵ユニットは戦闘において与えるダメージが減少します。同レベルないし低レベルの"
-"敵ユニットが隣接して戦う時、その攻撃はレベル差ごとに15%ずつダメージが減少しま"
-"す。"
 
 msgid "That guy has lost his strength remarkably!"
 msgstr "奴は明らかに弱体化しました！"
@@ -2575,19 +2610,6 @@ msgid ""
 "every other day!"
 msgstr "第一陣は明日の夜明け！それから一日置きです！"
 
-msgid ""
-"The ghast is a creature taken from humankind's most primal nightmares. "
-"Unlike their lesser cousins, ghouls and necrophages, ghasts are not patient "
-"enough to wait for their victim to die from poison before consuming the "
-"body. They attack directly with their enormous mouths, trying to rip the "
-"flesh straight from their foes. Once their enemy is defeated, they eat the "
-"rest of the body, gaining strength in the process."
-msgstr ""
-"ガストは人間の最たる悪夢から得られた被造物である。下位の同類であるグールやネ"
-"クロファージとは違い、ガストは犠牲者が毒で死ぬのを待ってからその死体を食べる"
-"ほど忍耐強くない。彼らは巨大な口で直接攻撃し、敵からその肉を直に剥ぎ取ろうと"
-"する。一度敵が敗れるや、彼らはその死体の残る部分を貪り、そうして力を得る。"
-
 msgid "The keep has been destroyed."
 msgstr "主塔は破壊されました。"
 
@@ -2598,10 +2620,10 @@ msgid "The main host of Orcs attacked us! The stronghold has been captured!"
 msgstr "オークの主力部隊が襲撃してきました！城砦は奴らの手に！"
 
 msgid ""
-"The next thing he knows is the smell of blood in the air.  ...War.  An "
-"uproar over the forest tells of the a battle.  Zombies murmur, 'Flesh...a "
-"lot of...flesh...of different kinds.' The zombies are unable to suppress the "
-"craving for flesh."
+"The next thing he knows is the smell of blood in the air. ...War. An uproar "
+"over the forest tells of the a battle. Zombies murmur, 'Flesh...a lot of..."
+"flesh...of different kinds.' The zombies are unable to suppress the craving "
+"for flesh."
 msgstr ""
 "ふと気がついてみると、辺りには血の臭いが漂っていた。・・・戦争か。森の向こう"
 "から聞こえる喧噪がそれを物語っていた。周囲の死者たちがざわめく。肉だ・・・た"
@@ -2610,17 +2632,6 @@ msgstr ""
 
 msgid "The sky...is...falling..."
 msgstr "空が・・・落ちる・・・"
-
-msgid ""
-"The technique of animating a dead body is unfortunately well-known to the "
-"dark arts; practitioners often use it to raise servants and soldiers from "
-"unwilling corpses. These shamblers are often numerous, but fragile; a touch "
-"of combat can waken them, though, making them far more formidable."
-msgstr ""
-"死体を蘇らせる術は不幸にも闇の業の一つとしてよく知れられている。実践者たちは"
-"よく意志無き死体から下僕や兵士を作り出すためにその業を用いる。このさまよう者"
-"たちはしばしば群れをなすが、脆い。とはいえ、わずかな戦闘が彼らを目覚めさせ、"
-"遥かに侮りがたいものへと変える。"
 
 msgid "The time is now! Kill them all!"
 msgstr "今だ！皆殺しにせい！"
@@ -2635,6 +2646,39 @@ msgstr ""
 "に魔術師によって倒されており、司令塔を失った彼らは途方に暮れるほかなかった。"
 "いや、正確に言えば、何をすればよいのか分からず、ただ本能が蘇るのを待つばかり"
 "であった。"
+
+msgid ""
+"The unit always becomes invisible.\n"
+"\n"
+"Enemy units cannot see this unit, except if they have units next to it. Any "
+"enemy unit that first discovers this unit immediately loses all its "
+"remaining movement."
+msgstr ""
+"このユニットは常に見えなくなります。\n"
+"\n"
+"敵がこのユニットの隣にいる場合を除いて、このユニットを見ることはできません。"
+"このユニットを初めて見つけた敵ユニットはそれ以上移動できなくなります。"
+
+msgid ""
+"The unit will heal itself 12 HP per turn. If it is poisoned, it will remove "
+"the poison instead of healing."
+msgstr ""
+"このユニットはターンごとに自身のHPを12回復します。 毒を受けているなら、 回復"
+"する代わりに毒を取り除きます。"
+
+msgid ""
+"The unit will heal itself 16 HP per turn. If it is poisoned, it will remove "
+"the poison instead of healing."
+msgstr ""
+"このユニットはターンごとに自身のHPを16回復します。 毒を受けているなら、 回復"
+"する代わりに毒を取り除きます。"
+
+msgid ""
+"The unit will heal itself 20 HP per turn. If it is poisoned, it will remove "
+"the poison instead of healing."
+msgstr ""
+"このユニットはターンごとに自身のHPを20回復します。 毒を受けているなら、 回復"
+"する代わりに毒を取り除きます。"
 
 msgid ""
 "The zombies and other undead cheered. Most of them didn't understand what "
@@ -2652,6 +2696,9 @@ msgid ""
 msgstr ""
 "気がつくと、背後から生者の臭いが漂ってきていた。死者達にはもはや何も考えるこ"
 "とができなかった。肉だ、肉がある。"
+
+msgid "Theoden"
+msgstr "Theoden"
 
 msgid "There are evil magicians who animate corpses."
 msgstr "悪い魔術師がいてな、死体を蘇らせるのさ。"
@@ -2715,6 +2762,15 @@ msgstr "彼らはよく焼けた肉か冷凍肉を好む。"
 
 msgid "They use corpses to invade countries."
 msgstr "奴らは死体を使っていろんな国を侵略するんだ。"
+
+msgid ""
+"This attack poisons not only the living but also the undead. Poisoned units "
+"lose 8 HP every turn until they are cured or are reduced to 1 HP. Poison can "
+"not, of itself, kill a unit."
+msgstr ""
+"この攻撃は生者のみならず死者をも毒状態にします。毒を受けているユニットは解毒"
+"するか HP が 1 になるまで、毎ターン HP が 8 減っていきます。毒そのものでは、"
+"ユニットが死ぬことはありません。"
 
 msgid ""
 "This bones on zombie war-horse can run faster than on skeletal horse. "
@@ -2793,11 +2849,59 @@ msgstr ""
 "厄の幕開けともなった。しかし無論、そのことは誰にも知るよしがない。おそらくは"
 "この事件を引き起こしている張本人にさえも・・・"
 
+msgid ""
+"This unit can frighten enemy units that are next to it, making them fight "
+"worse.\n"
+"\n"
+"Adjacent enemy units of lower level will do less damage in battle. When an "
+"enemy unit of the same or lower level is adjacent and engages in combat, its "
+"attacks do 15% less damage times the difference in their levels + 15%."
+msgstr ""
+"このユニットは隣接する敵ユニットを怯えさせ、戦いにくくします。\n"
+"\n"
+"低レベルの隣接敵ユニットは戦闘において与えるダメージが減少します。同レベルな"
+"いし低レベルの敵ユニットが隣接して戦う時、その攻撃はレベル差ごとに15%ずつダ"
+"メージが減少します。"
+
+msgid "This unit cannot move in the daytime."
+msgstr "このユニットは日中移動できません。"
+
+msgid ""
+"This unit darkens the surrounding area, making chaotic units fight better, "
+"and lawful units fight worse.\n"
+"\n"
+"Any units adjacent to this unit will fight as if it were dusk when it is "
+"day, and as if it were night when it is dusk."
+msgstr ""
+"このユニットは周囲を暗くして、 混沌ユニットを戦いやすく、 秩序ユニットを戦い"
+"にくくします。 すべての隣接ユニットは日中には夕方として、 夕方には夜として戦"
+"うようになります。"
+
+msgid ""
+"This unit drains a part of the soul from undead units or living units. It "
+"heals itself for 50% of the damage it deals to undead units and 25% of the "
+"damage it deals to living units (rounded down)."
+msgstr ""
+"このユニットはアンデッドや生者から魂の一部を奪い、アンデッドなら与えたダメー"
+"ジの50%、生者なら与えたダメージの25%が回復します（切り捨て）。"
+
+msgid "This unit recovers mobility when it grows dark."
+msgstr "このユニットは暗くなると移動できるようになります。"
+
 msgid "This...is...not...invasion...but...liberation...from...mortality."
 msgstr "これは・・・侵略ではない・・・解放なのだ・・・死すべき生からのな"
 
 msgid "This...should...be...far...enough."
 msgstr "ここまで・・・くれば・・・大丈夫・・・だろう。"
+
+msgid "Thomas"
+msgstr "Thomas"
+
+msgid "Thorin"
+msgstr "Thorin"
+
+msgid "Thranduil"
+msgstr "Thranduil"
 
 msgid ""
 "Thus Macabre and his party climbed down the mountain and went out into the "
@@ -2818,6 +2922,9 @@ msgstr "貴様を止めるためのな！"
 msgid "Transform the Great Mage into a Zombie"
 msgstr "大魔術師をゾンビ化せよ"
 
+msgid "Troll"
+msgstr "トロル"
+
 msgid "Tsk! I didn't think.. I would be taken from behind by mere humans.."
 msgstr "・・・ちっ、たかが人間風情に・・・ここまで後れを取るとは・・・"
 
@@ -2836,6 +2943,14 @@ msgstr "ぐはっ！"
 msgid "Ugh...nasty lava. If I become sleepy here, I will end up dead."
 msgstr "むう・・・鬱陶しい溶岩だ。ここで眠くなったら、一巻の終わりだな。"
 
+msgid ""
+"Units killed by this attack have their souls bound to the will of their "
+"killer."
+msgstr "この攻撃で殺されたユニットの魂は、殺害者の意のままに操られる。"
+
+msgid "Vagabone"
+msgstr "Vagabone"
+
 msgid "Vagabone! Close the rear!!"
 msgstr "Vagabone！殿を務めろ！！"
 
@@ -2851,6 +2966,9 @@ msgstr ""
 "も恣にする。とはいえ、日の光は相も変わらず脅威であり、日中は地中に潜らざるを"
 "えない。"
 
+msgid "Vatgit"
+msgstr "Vatgit"
+
 msgid "Vengeance is Mine"
 msgstr "復讐するは我にあり"
 
@@ -2863,17 +2981,23 @@ msgstr "Vi・・・Vita？"
 msgid "Vicious dogs."
 msgstr "噛み癖のある犬。"
 
+msgid "Villager"
+msgstr "村人"
+
 msgid ""
 "Villagers are disappearing. This mysterious phenomenon is making progress, "
 "but despite the mysterious nature of the disappearances, they are never "
 "talked about due to the isolation that encompasses each village in their "
-"remote mountain settings. Anyone who passes through villagess hit by this "
+"remote mountain settings. Anyone who passes through villages hit by this "
 "phenomenon merely assumes that the village is deserted."
 msgstr ""
 "村人が一夜にして忽然と姿を消す。この奇怪な現象はある地域で静かに進行していっ"
 "たが、その奇怪さに反し、人々の噂に上ることはなかった。山奥の村々は他と交流が"
 "少なく、また一人残らず失踪するため、そもそも伝え手を欠いていたからである。偶"
 "然通りかかった旅人も、廃村なのだろうと推測する他なかった。"
+
+msgid "Vita"
+msgstr "Vita"
 
 msgid "Vita!!"
 msgstr "Vita！！"
@@ -2918,33 +3042,11 @@ msgstr "待て！！"
 msgid "Wait...That's strange..."
 msgstr "待って下さい・・・変です・・・"
 
-msgid ""
-"Wakeup:\n"
-"This unit recovers mobility when it grows dark."
-msgstr ""
-"睡眠:\n"
-"このユニットは暗くなると移動できるようになります。"
-
 msgid "Walker"
 msgstr "歩く者"
 
-msgid "Walking Corpse"
-msgstr "歩く死体"
-
-msgid ""
-"Walking Corpses are the bodies of the dead, re-animated by dark magic. "
-"Though not especially dangerous to a trained soldier, the sight of one's "
-"former comrades amongst their number is frightening to say the least."
-msgstr ""
-"歩く死体とは闇の術によって蘇らされた死者の肉体のことである。訓練を積んだ兵士"
-"にとってさほどの脅威ではないが、その群れの中にかつての仲間を見出すことは、控"
-"えめに言っても怖気を震う出来事である。"
-
 msgid "We are close to reaching land!"
 msgstr "もうすぐ向こうに着きます！"
-
-msgid "We are not sure what will happen. Go with extreme caution!"
-msgstr "何が起こるか分からん。最新の注意を払って進め！"
 
 msgid "We are obviously in the jaws of death!"
 msgstr "完全に死地じゃな。"
@@ -3074,7 +3176,7 @@ msgstr "なんだここは？"
 msgid "What the fuck! Kill them!"
 msgstr "なんだこれは！奴らを殺せ！"
 
-msgid "What the fuck!!  ...I never heard that such a guy exists!"
+msgid "What the fuck!! ...I never heard that such a guy exists!"
 msgstr "なんだこいつは！！　・・・こんな奴がいるとは聞いてないぞ！"
 
 msgid ""
@@ -3142,8 +3244,8 @@ msgid ""
 "Will wonders never cease! She didn't seem to lose her intelligence. But..."
 "haha... It's obvious that she has lost her will!"
 msgstr ""
-"いやはや驚いた！彼女は知性を失わなかったようだ。しかし・・・くっくっ"
-"く・・・　意志を失ったのは明白だ！"
+"いやはや驚いた！彼女は知性を失わなかったようだ。しかし・・・くっくっく・・・"
+"　意志を失ったのは明白だ！"
 
 msgid "Y...Yes, sir!"
 msgstr "りょ、了解！"
@@ -3163,14 +3265,14 @@ msgstr "ああ、この目で見たんだ！"
 msgid "Yes, I hear you are mad. Show your madness!"
 msgstr "そうだ。お前は狂っているそうだな。狂気を見せてみろ！"
 
-msgid "Yes, Shall we destroy them?"
-msgstr "ええ、破壊しましょうか。"
-
 msgid "Yes, and after crossing the bridge, we can knock it out!"
 msgstr "そうだな。渡ってしまえば橋を落とすこともできよう！"
 
 msgid "Yes, maybe."
 msgstr "ええ、多分ね。"
+
+msgid "Yes, shall we destroy them?"
+msgstr "では、破壊してみましょうか？"
 
 msgid "Yes, si.."
 msgstr "わかりまし・・・"
@@ -3216,7 +3318,7 @@ msgstr "お前は全ての正義の敵だ！"
 msgid "You are annoying as usual... OK, play with them, my servants."
 msgstr "相変らず鬱陶しい奴だ・・・いいだろう、相手をしてやれ。我が僕たちよ。"
 
-msgid "You are kidding! They will never accept your persuation!"
+msgid "You are kidding! They will never accept your persuasion!"
 msgstr "ばかな！！やつらがそんな言葉を受け入れるはずがなかろう！"
 
 msgid "You are utterly at a loss for words, aren't you?"
@@ -3239,6 +3341,12 @@ msgstr "お前は滅びるのだ・・・　潔く受け入れるがいい、我
 
 msgid ""
 "You seem to want to trouble me at any cost...OK...I'll show you myself..."
+msgstr ""
+"どうあっても私の手を煩わせたいようだな・・・いいだろう・・・私の姿を見せてや"
+"る・・・"
+
+msgid ""
+"You seems to want to trouble me at any cost... OK... I'll show you myself..."
 msgstr ""
 "どうあっても私の手を煩わせたいようだな・・・いいだろう・・・私の姿を見せてや"
 "る・・・"
@@ -3302,8 +3410,8 @@ msgstr ""
 "体である。"
 
 msgid ""
-"Zombies are attacking us, and some people have already become prey to them.  "
-"They're coming from the South.  We must escape to the North!!"
+"Zombies are attacking us, and some people have already become prey to them. "
+"They're coming from the South. We must escape to the North!!"
 msgstr ""
 "気付いた者もいると思うが、ゾンビどもが我々の村を襲っている。既に犠牲者も出て"
 "いるようだ。皆の話を聞く限り、奴らは南からやってきている。北に逃げよう！"
@@ -3323,17 +3431,8 @@ msgstr ""
 msgid "and they lived happily ever after"
 msgstr "かくて世界に平和が訪れた・・・"
 
-msgid "axe"
-msgstr "斧"
-
-msgid "bite"
-msgstr "かみつき"
-
 msgid "bloody axe"
 msgstr "血染めの斧"
-
-msgid "claws"
-msgstr "かぎ爪"
 
 msgid "cursed poison"
 msgstr "呪毒"
@@ -3344,20 +3443,17 @@ msgstr "遮光"
 msgid "dominate"
 msgstr "威圧"
 
-msgid "drakes"
-msgstr "ドレイク"
+msgid "female^regenerates +12"
+msgstr "再生 +12"
 
-msgid "dwarves"
-msgstr "ドワーフ"
+msgid "female^regenerates +16"
+msgstr "再生 +16"
 
-msgid "elves"
-msgstr "エルフ"
+msgid "female^regenerates +20"
+msgstr "再生 +20"
 
 msgid "fire breath"
 msgstr "ファイアーブレス"
-
-msgid "fireball"
-msgstr "火炎弾"
 
 msgid "iceball"
 msgstr "冷気弾"
@@ -3367,9 +3463,6 @@ msgstr "モンスター"
 
 msgid "plague axe"
 msgstr "疫病の斧"
-
-msgid "plague staff"
-msgstr "疫病の杖"
 
 msgid "plaguebeam"
 msgstr "暗黒光"
@@ -3392,9 +3485,6 @@ msgstr "再生 +20"
 msgid "seclusion"
 msgstr "潜居"
 
-msgid "shadow wave"
-msgstr "影の波動"
-
 msgid "slash"
 msgstr "切り裂き"
 
@@ -3410,17 +3500,11 @@ msgstr "霊魂呪縛"
 msgid "souldrain"
 msgstr "霊気吸収"
 
-msgid "spear"
-msgstr "槍"
-
-msgid "sword"
-msgstr "剣"
-
 msgid "terror"
 msgstr "恐怖"
 
-msgid "touch"
-msgstr "接触"
-
 msgid "wakeup"
 msgstr "覚醒"
+
+msgid "wuriDM"
+msgstr "wuriDM"
