@@ -1,6 +1,7 @@
 Versions 1.0.5 and later were for Wesnoth 1.12 (and its beta versions)
 Version 1.2a+dev
-- Code cleaning.
+- Code cleaning
+- Updated Japanese translation
 Version 1.2a
 - Added Russian translation
 - Converted variation_name to variation_id
