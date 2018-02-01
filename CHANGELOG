@@ -1,4 +1,4 @@
-Version 1.3.1+dev
+Version 1.3.2
 - fixed gateman not being depowered in Night of the living dead after destroying keeps
 Version 1.3.1
 - added missing flag for [animate] tags in scenarios 5, 6 and 14
