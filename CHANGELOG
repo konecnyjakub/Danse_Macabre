@@ -4,6 +4,7 @@ Version 1.4.0-dev
 - Improved writing
 - Changed experience of max level units with default amla to level * 50
 - Spelk, Pech, Gingly, Neckfrill and Orlok now have loyal icon instead of the hero one
+- Ghosts are recruitable only if Gingly is present
 Versopm 1.3.2 was for Wesnoth 1.12, 1.13 and 1.14.
 Version 1.3.2
 - Fixed gateman not being depowered in Night of the living dead after destroying keeps
