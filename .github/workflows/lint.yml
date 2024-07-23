@@ -1,0 +1,16 @@
+name: lint
+
+on: [push, pull_request]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    - name: Lint WML
+      uses: czyzby/wesnoth-wml-linter@v1
+      with:
+        wesnoth-version: 1.18
+        spellcheck: false
