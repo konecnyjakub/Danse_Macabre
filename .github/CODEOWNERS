@@ -1,0 +1,24 @@
+# Project Management
+/.github/					@konecnyjakub
+/README.md					@konecnyjakub
+/COPYING.txt					@konecnyjakub
+.gitignore					@konecnyjakub
+
+# Release Management
+/_server.pbl					@konecnyjakub
+/CHANGELOG.md					@konecnyjakub
+/dist/						@konecnyjakub
+.gitattributes					@konecnyjakub
+
+# Continous integration/deployment
+/.github/workflows/				@konecnyjakub
+/.gitlab-ci.yml					@konecnyjakub
+
+# Translations
+/translations/wesnoth-Danse_Macabre.pot		@konecnyjakub
+
+# WML
+*.cfg						@konecnyjakub
+
+# Maps
+*.map						@konecnyjakub
