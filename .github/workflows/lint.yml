@@ -13,4 +13,4 @@ jobs:
       uses: czyzby/wesnoth-wml-linter@v1
       with:
         wesnoth-version: 1.18
-        spellcheck: false
+        spellcheck: true
