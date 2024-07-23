@@ -4,7 +4,7 @@ icon="units/undead/soulless-mounted.png"
 email="jakub.konecny2@centrum.cz"
 title="Danse Macabre"
 type="campaign"
-version="1.3.2"
+version="1.4.0"
 tags=undead,zombie protagonist,sentient zombies,high level zombies
 [feedback]
 	topic_id=33745

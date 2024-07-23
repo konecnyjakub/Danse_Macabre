@@ -1,4 +1,4 @@
-Version 1.4.0-dev
+Version 1.4.0
 
 - Added portrait for Giant Ant (from Under the Burning Suns)
 - Fixed defense sound of bats animation
