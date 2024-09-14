@@ -1,0 +1,38 @@
+stages:
+  - test
+  - announce
+
+.test_job: &test_job
+  stage: test
+  
+  script:
+    - wmllint --dryrun /usr/share/games/wesnoth/data/core .
+    - wmlindent --dryrun .
+
+.publish_job: &publish_job
+  stage: publish
+  script:
+    - wesnoth_addon_manager -u . --port $SERVER_PORT --pbl-key passphrase $ADDON_PASSPHRASE
+  only:
+    - tags@konecnyjakub/Danse_Macabre
+  environment:
+    name: addons/$WESNOTH_VERSION
+    url: https://add-ons.wesnoth.org/$WESNOTH_VERSION/
+
+test:1.18:
+  <<: *test_job
+  image: konecnyjakub/wesnoth:1.18
+  variables:
+    WESNOTH_VERSION: "1.18"
+
+announce:gitlab:
+  stage: announce
+  image: registry.gitlab.com/gitlab-org/release-cli:latest
+  only:
+    - tags@konecnyjakub/Danse_Macabre
+  script:
+    - echo "Creating GitLab release"
+  release:
+    tag_name: $CI_COMMIT_TAG
+    name: "Danse Macabre $CI_COMMIT_TAG"
+    description: "./dist/RELEASE_NOTES"
